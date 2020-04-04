@@ -1,9 +1,9 @@
-# Difusión en redes sociales de cartografía de IGN
+# Difusión en redes sociales de cartografía
 
 ## Listas de tweets
 
-* Tweets del Archivo Topográfico  [👉 Aquí](tweetat.md)
-* Tweets de Cartoteca   [👉 Aquí](tweetcarto.md)
+* Tweets de 🗄 Archivo Topográfico  [👉 Aquí](tweetat.md)
+* Tweets de 🧭️ Cartoteca   [👉 Aquí](tweetcarto.md)
 
 ## Empezando en RRSS
 
