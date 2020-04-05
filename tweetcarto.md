@@ -87,3 +87,14 @@ La carta marina de Antonio Lafrery, copia de la original de Olaus Magnus, contie
 * 🎨 Antonio Lafréry
 * 🏛 Cartoteca de @IGNSpain - 🗃F-21-12
 * [🔗 https://www.ign.es/web/catalogo-cartoteca/resources/html/031696.html](https://www.ign.es/web/catalogo-cartoteca/resources/html/031696.html)
+
+---
+### ⌛30 de abril
+![Imagen genérica](img/carto-buenosaires.jpg)
+
+El gran matemático Carl F. Gauß nace en Brunswick 🇩 #TalDíaComoHoy en 1777. La proyección Gauss-Krüger es usada en la representación de países como Argentina.
+
+* 📜 Buenos Aires ⌛1867
+* 🎨 Carlos Glade
+* 🏛 Cartoteca de @IGNSpain - 🗃S1-138-L-25
+* [🔗 https://www.ign.es/web/catalogo-cartoteca/resources/html/001508.html](https://www.ign.es/web/catalogo-cartoteca/resources/html/001508.html)

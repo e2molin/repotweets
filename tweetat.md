@@ -18,13 +18,25 @@ En el **Día del Bando**, día grande de las fiestas de #Murcia, os mostramos es
 
 * 📜 Manuscrito 300816 - ⌛ 1860 
 * 🗄 Archivo Topográfico de @IGNSPAIN - Sign.05B03
-* 🔗 Descarga  http://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=PLPOB&filtro.codIne=34143030030
+* 🔗 Descarga  https://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=PLPOB&filtro.codIne=34143030030
 
 ---
 ### ⌛26 de abril
 ![Imagen genérica](img/at-hojakm.jpg)
 
 #TalDíaComoHoy en 1822 nace en Jaén Francisco Coello. Destacó en su labor al frente de los trabajos catastrales en la Junta General de Estadística. Las hojas kilométricas que custodia el #ArchivTopo🗄 son fruto de su contribución. #OTD #IGN150años #IGNAniversario🎂
+
+
+### ⌛28 de abril
+![Imagen genérica](img/atdoc-alava.jpg)
+
+Hoy día de San prudencio, patrón de Álava, os traemos esta planimetría del municipio de Vitoria-Gasteiz.
+
+* 📜 Manuscrito 010084 - ⌛ 1922 
+* 🗄 Archivo Topográfico de @IGNSPAIN - 🗃01A01
+* 🔗 Descarga  https://centrodedescargas.cnig.es/CentroDescargas/busquedaIdProductor.do?idProductor=010084&Serie=MIPAC
+
+
 
 ## Hilos disponibles
 
