@@ -2,12 +2,12 @@
 
 ## 📋 Listas de tweets preparados
 
-* Tweets de 🗄 Archivo Topográfico  [👉 Aquí](tweetat.md)
-* Tweets de 🧭️ Cartoteca   [👉 Aquí](tweetcarto.md)
+* Tweets para 🗄Archivo Topográfico  [👉aquí](tweetat.md)
+* Tweets para 🧭️Cartoteca   [👉aquí](tweetcarto.md)
 
 ## 🚀 Instalar este repositorio
 
-Es necesario tener instalada la herramienta de versionado **GIT** [👉 Aquí](https://git-scm.com/). Una vez instalada y configurada se puede clonar el repositorio en local
+Es necesario tener instalada la herramienta de versionado **GIT** [👉aquí](https://git-scm.com/). Una vez instalada y configurada se puede clonar el repositorio en local
 
 ```bash
 # Crear un directorio
@@ -22,7 +22,11 @@ También es posible bajar todo el contenido en ZIP, pero en ese caso no hay cont
 ### 🛠 Herramientas recomendadas
 
 * Editor Visual Studio Code 
-* Para aprender **Markdown** usar **Dillinger**  [👉 Aquí](https://dillinger.io/)
+* Para aprender **Markdown** usar **Dillinger**  👉[aquí](https://dillinger.io/)
+* Obtención de códigos *emoji* para maquetar [👉aquí](https://emojipedia.org/)
+* Caracteres especiales de letras en otros idiomas [👉aquí](https://copychar.cc/)
+* Creación de GIF animados [👉aquí](https://ezgif.com/video-to-gif)
+* Creación de textos resaltados en Unicode [👉aquí](https://qaz.wtf/u/convert.cgi?text=Instituto+Geogr%C3%A1fico+Nacional)
 
 
 ## 🍼 Empezando en RRSS
@@ -32,13 +36,11 @@ También es posible bajar todo el contenido en ZIP, pero en ese caso no hay cont
 * Uso de *hashtags* para el etiquetado de contenidos y conexión con *trending topics*. 
 * Utilización de menciones de autores, entidades u otros organismos.
 
-
-
 ### ✍ Recomendaciones para textos
 
 Uso de textos concisos. Máxima información en mínima extensión. Para expliaciones más extensas, artículos en blogs, Facebook. Instagram permiet textos mñas extensos pero según las estadísticas la gente que usa esta red social nuonca depliega los textos que tienen más de tres líneas (en estos casos hay que hacer clic en el texto *más...*). Si la información que hay que difundir necesita más espacio, encadenar tweets en los hilos 🧵. Todos los post del hilo, siempre con imágenes. utilizar el último para las bibliografías. Y si es posible, indicar tweet y número (1/6).
 
-MUy importante buscar sinergias con otros organismos y comunidades con temática común. Incluso escribiendo los post en otro idioma (inglés).
+Muy importante buscar contacto con otros organismos y comunidades con temática común. Incluso escribiendo los post en otro idioma (inglés).
 
 Inclusión de hashtags, a ser posible virales, lo ideal es introducir 3 a 5 *hashtags*, de los cuales al menos dos relacionados con la imagen y al menos uno que sea viral. Para ello buscar tendencias en **Instagram**. 
 Instagram no aconseja incluir enlaces en las descripciones de las imágenes. De hecho, los embed link (enlaces sobre los que hacer clic) están desabilitados. A la publicación en Instagram podemos acompañarla de un tweet con los enlaces que nos ayudan a localizar la imagen. 
@@ -57,29 +59,26 @@ Imágenes con detalles. Evitar imágenes de mapas generales sin que se aprecien 
 * Imagen rectangular vertical: 1080x1350 píxel
 * Imagen en un Tweet: se recomienda que las imágenes en Twitter no superen los 3MB. Las proporciones ancho/alto deben ser 2/1 si queremos que la imagen se muestre en la preview del stream. Ajustarse a esta proporción siempre es recomendable. Cuando usamos imágenes de otras proporciones, hay que comprobar que se vean adecuadamente. Suelo subir imágenes como mucho de 1800x900 píxeles.
 
-[Fuente de la información](https://postcron.com/es/blog/medidas-tamanos-dimensiones-de-portada-redes-sociales/)
-
-
 ### Comentarios de acceso para los *permalinks*
 
 Las imágenes de la **Cartoteca** son las más sencillas de compartir porque son ficheros estáticos, con un *permalink* conocido. La misma miniatura puede servir de imagen del *tweet* aunque no tenga las propociones ideales. El **Catálogo de Cartoteca** se desarrolló con la premisa de que fuera fácil de compartir en RRSS.
 
 La documentación del **Archivo Topográfico** se encuentra en su mayoría en el **Centro de Descargas**, **CdD**. El **CdD** no permite para algunos documentos un enlace directo al documento. Sí se puede con las actas, planimetrías y altimetrías, pero no se puede con los planos de población por ahora, hasta que lo monten. La solución es hacer una búsqueda por producto y municipio y meter en la descripción el *tweet* el número de documento y que el usuario busque este último paso. Esto es importante porque el epígrafe de *documentación geográfica antigua* bajo el que se encuentra la información del Archivo Topográfico no es a mi ehtender muy intuitiva de que hay se encuentran sus documentos.
 
-Para obtener los enlaces a tipo de producto por municipio, hay que usar la herramienta de intranet de Santi que está [👉 aquí](http://sapignmad200/test-santi/ConsultasCdD/). En ella podemos seleccionar el tipo de producto y el municipio y nos devuelve la URL con la consulta que resuelve el CdD.
+Para obtener los enlaces a tipo de producto por municipio, hay que usar la herramienta de intranet de Santi que está [👉aquí](http://sapignmad200/test-santi/ConsultasCdD/). En ella podemos seleccionar el tipo de producto y el municipio y nos devuelve la URL con la consulta que resuelve el CdD.
 
-**ABSYS** permite en sus últimas versiones la generación de permalinks. el problema que tiene es que tenemos un límite de conexiones simultáneas de bido a la licencia. Luego si se utiliza este permalink, al publicarse la noticia o el post pueden generarse a la vez muchas llamdas de consulta, y a partir más o me nso de diez llamadas el usuario recibe un mensaje de **conexión no permitida** y no se resuelve el permalink. Por eso no es adecuado para compartir en RRSS y debe evitarse siempre que se pueda.
+**ABSYS** permite en sus últimas versiones la generación de permalinks. El problema con el que nos encontramos es que tenemos un límite de conexiones simultáneas debido al tipo de licencia. Luego si se utiliza este permalink, al publicarse la noticia o el post pueden generarse a la vez muchas llamadas de consulta, y a partir más o menos de diez peticiones al servidor (tengo dudas del número, pero es bajo) el usuario recibe un mensaje de **conexión no permitida** y no se resuelve el permalink. Por eso no es adecuado para compartir en RRSS y debe evitarse siempre que se pueda, excepto en Biblioteca que es de obligado uso.
 
 #### Accesos a la info del **CdD**
 
 * Documentación de **GEODOCAT**.
-  * Planos de Poblacion de Cuenca (34081616078) [👉 aquí](https://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=PLPOB&filtro.codIne=34081616078)
-  * Planimetrías y Altimetrías de Cuenca  (34081616078) [👉 aquí](https://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=MIPAC&filtro.codIne=34081616078)
-  * Planos de Edificación de Cuenca  (34081616078) [👉 aquí](https://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=PLEDI&filtro.codIne=34081616078)
-  * Búsqueda directa a una planimetría, altimetría. Planimetría 280109 [👉 aquí](https://centrodedescargas.cnig.es/CentroDescargas/busquedaIdProductor.do?idProductor=280109&Serie=MIPAC)
+  * Planos de Poblacion de Cuenca (34081616078) [👉aquí](https://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=PLPOB&filtro.codIne=34081616078)
+  * Planimetrías y Altimetrías de Cuenca  (34081616078) [👉aquí](https://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=MIPAC&filtro.codIne=34081616078)
+  * Planos de Edificación de Cuenca  (34081616078) [👉aquí](https://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=PLEDI&filtro.codIne=34081616078)
+  * Búsqueda directa a una planimetría, altimetría. Planimetría 280109 [👉aquí](https://centrodedescargas.cnig.es/CentroDescargas/busquedaIdProductor.do?idProductor=280109&Serie=MIPAC)
 * Documentación de **SIDDAE**
-  * Actas y cuadernos de Cuenca  (34081616078) [👉 aquí](https://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=ACLLI&filtro.codIne=34081616078)
-  * Búsqueda directa a un acta, reseña o cuaderno. Acta nº56108 [👉 aquí](https://centrodedescargas.cnig.es/CentroDescargas/busquedaIdProductor.do?idProductor=056108&Serie=ACLLI)
+  * Actas y cuadernos de Cuenca  (34081616078) [👉aquí](https://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=ACLLI&filtro.codIne=34081616078)
+  * Búsqueda directa a un acta, reseña o cuaderno. Acta nº56108 [👉aquí](https://centrodedescargas.cnig.es/CentroDescargas/busquedaIdProductor.do?idProductor=056108&Serie=ACLLI)
 
 
 
