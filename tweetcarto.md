@@ -35,6 +35,18 @@ Abril hace 500 años. La expedición de #MagallanesElcano comenzó su invernada 
 * [🔗 https://www.ign.es/web/catalogo-cartoteca/resources/html/031683.html](https://www.ign.es/web/catalogo-cartoteca/resources/html/031683.html)
 
 ---
+### ⌛Mes de abril
+![Imagen genérica](img/carto-sevilla1.jpg)
+
+Este año no podremos disfrutar de la luz y los colores de la Feria de Abril de #Sevilla, pero nos acordamos de la capital hispalense con este grabado iluminado. #Sevilla #FeriadeAbril #QuédateEnCasa
+
+* 📜 Sivillia [sic] ⌛ca.1680
+* 🎨 Frederick de Wit
+* 🏛 Cartoteca de @IGNSpain - 🗃12-D-51
+* [🔗 https://www.ign.es/web/catalogo-cartoteca/resources/html/031913.html](https://www.ign.es/web/catalogo-cartoteca/resources/html/031913.html)
+
+
+---
 ### ⌛14 de abril
 ![Imagen genérica](img/carto-mtn50.jpg)
 
