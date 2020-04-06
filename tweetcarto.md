@@ -78,6 +78,12 @@ El Tratado de Zaragoza entre España 🇪🇸 y Portugal 🇵 se firmó #TalDía
 * [🔗 https://www.ign.es/web/catalogo-cartoteca/resources/html/032013.html](https://www.ign.es/web/catalogo-cartoteca/resources/html/032013.html)
 
 ---
+### ⌛26 de abril
+![Imagen genérica](img/carto-sanisidoro.jpg)
+
+En este año tan especial hoy celebramos la festividad de San Isidoro de Sevilla, patrono de los topógrafos 👷‍♀️👷. Su visión tripartita del mundo marcó la representación de la ecúmene durante la Edad Media #IGN150años #IGNAniversario🎂 Primer mapa impreso, Zainer 1472
+
+---
 ### ⌛27 de abril
 ![Imagen genérica](img/carto-lafrery-serpent.jpg)
 
@@ -87,6 +93,18 @@ La carta marina de Antonio Lafrery, copia de la original de Olaus Magnus, contie
 * 🎨 Antonio Lafréry
 * 🏛 Cartoteca de @IGNSpain - 🗃F-21-12
 * [🔗 https://www.ign.es/web/catalogo-cartoteca/resources/html/031696.html](https://www.ign.es/web/catalogo-cartoteca/resources/html/031696.html)
+
+---
+### ⌛27 de abril
+![Imagen genérica](img/carto-cebu.jpg)
+
+#Magallanes muere en la isla de Mactán #TalDíaComoHoy en 1521 a manos del jefe local Lapulapu. Fue a esta isla a instancias del rajá Humabón de Cebú #VCentenario #MagallanesElcano
+
+* 📜 Plano del Cebú ⌛1884
+* 🎨 Enrique Abella y Casariego
+* 🏛 Cartoteca del IGN - 🗃S1-148-I-13
+* [🔗 https://www.ign.es/web/catalogo-cartoteca/resources/html/002390.html](https://www.ign.es/web/catalogo-cartoteca/resources/html/002390.html)
+
 
 ---
 ### ⌛30 de abril
