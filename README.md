@@ -4,6 +4,7 @@
 
 * Tweets para 🗄Archivo Topográfico  [👉aquí](tweetat.md)
 * Tweets para 🧭️Cartoteca   [👉aquí](tweetcarto.md)
+* Carpeta *threads* con hilos para difusión 🧶
 
 ## 🚀 Instalar este repositorio
 
