@@ -59,6 +59,18 @@ Imágenes con detalles. Evitar imágenes de mapas generales sin que se aprecien 
 * Imagen rectangular vertical: 1080x1350 píxel
 * Imagen en un Tweet: se recomienda que las imágenes en Twitter no superen los 3MB. Las proporciones ancho/alto deben ser 2/1 si queremos que la imagen se muestre en la preview del stream. Ajustarse a esta proporción siempre es recomendable. Cuando usamos imágenes de otras proporciones, hay que comprobar que se vean adecuadamente. Suelo subir imágenes como mucho de 1800x900 píxeles.
 
+### 🧵 Hilos en Twitter
+Es el mecanismo para contar historias de **Twitter** y poder desarrollar exposiciones largas que exceden el tamaño máximo del contenido de un tweet, 280 caracteres. No deben ser muy largos, creo que diez *tweets* encadenados son un tope al que no hay que llegar. Esto pone a prueba la capacidad de síntesis del que redacta, pero más *tweets* pueden provocar el abandono del lector. Todos deben llevar imágenes, que es el mecanismo que nos ayuda a *no perder el hilo*. En estos casos, sólo una imagen por tweet. Si hacen falta más mejor hacer un montaje.
+
+Los hilos los hago con una presentación donde incluyo las *hashtags* principales para búsquedas. A continuación viene  el hilo propiamente dicho, enumerando con la forma *1 de tantos* el número de tweets de los que consta. Al final, uno o varios tweets con la bibliografía si es necesaria. La bibliografía es un buen mecanismo no sólo para agradecer referencias sino para generar vínculos con autores u otras instituciones.
+
+Sí están indicados los hilos muy largos para narraciones de eventos, como conferencias o exposiciones.
+
+* [Tab[ula] Mo[derna] Secundae partis Aphricae, con 6 tweets](https://twitter.com/e2molin/status/1247469420366176257?s=20)
+* [Hilo especialmente largo pero por un motivo. Los 40 años de la Constitución y el PNOA](https://twitter.com/e2molin/status/1069967754294411264?s=20)
+* [Narración del evento Ibercarto 2018 en Portugal](https://twitter.com/e2molin/status/1063043092226473984?s=20)
+
+
 ### Comentarios de acceso para los *permalinks*
 
 Las imágenes de la **Cartoteca** son las más sencillas de compartir porque son ficheros estáticos, con un *permalink* conocido. La misma miniatura puede servir de imagen del *tweet* aunque no tenga las propociones ideales. El **Catálogo de Cartoteca** se desarrolló con la premisa de que fuera fácil de compartir en RRSS.
