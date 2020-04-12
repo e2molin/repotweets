@@ -6,6 +6,26 @@
 * Tweets para 🧭️Cartoteca   [👉aquí](tweetcarto.md)
 * Carpeta *threads* con hilos para difusión 🧶
 
+| 🗄 Archivo Topográfico               |            |             |             |
+|:---------:|:------------------------:|:------------------------:|:------------------------:|
+| Enero     | [Abril](tweetat04.md)    | Julio       | Octubre
+| Febrero   | [Mayo](tweetat05.md)     | Agosto      | Noviembre
+| Marzo     | Junio                    | Septiembre  | Diciembre
+[Hilos genéricos del 🗄Archivo Topográfico](tweetat00hilos.md)
+
+| 🧭️ Cartoteca               |            |             |             |
+|:---------:|:---------------------------:|:------------------------------:|:------------------------:|
+| Enero     | [Abril](tweetcarto04.md)    | [Julio](tweetcarto07.md)       | Octubre
+| Febrero   | [Mayo](tweetcarto05.md)     | Agosto      | Noviembre
+| Marzo     | Junio                    | Septiembre  | Diciembre
+[Hilos genéricos del 🗄Cartoteca](tweetcarto00hilos.md)
+
+
+
+
+
+
+
 ## 🚀 Instalar este repositorio
 
 Es necesario tener instalada la herramienta de versionado **GIT** [👉aquí](https://git-scm.com/). Una vez instalada y configurada se puede clonar el repositorio en local
