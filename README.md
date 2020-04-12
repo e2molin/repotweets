@@ -2,29 +2,29 @@
 
 ## 📋 Listas de tweets preparados
 
-* Tweets para 🗄Archivo Topográfico  [👉aquí](tweetat.md)
-* Tweets para 🧭️Cartoteca   [👉aquí](tweetcarto.md)
-* Carpeta *threads* con hilos para difusión 🧶
+### 🗄 Tweets de Archivo Topográfico
 
-| 🗄 Archivo Topográfico               |            |             |             |
+|                |            |             |             |
 |:---------:|:------------------------:|:------------------------:|:------------------------:|
 | Enero     | [Abril](tweetat04.md)    | Julio       | Octubre
 | Febrero   | [Mayo](tweetat05.md)     | Agosto      | Noviembre
 | Marzo     | Junio                    | Septiembre  | Diciembre
-[Hilos genéricos del 🗄Archivo Topográfico](tweetat00hilos.md)
 
-| 🧭️ Cartoteca               |            |             |             |
+
+### 🧭️ Tweets de Cartoteca
+
+|                |            |             |             |
 |:---------:|:---------------------------:|:------------------------------:|:------------------------:|
 | Enero     | [Abril](tweetcarto04.md)    | [Julio](tweetcarto07.md)       | Octubre
 | Febrero   | [Mayo](tweetcarto05.md)     | Agosto      | Noviembre
 | Marzo     | Junio                    | Septiembre  | Diciembre
-[Hilos genéricos del 🗄Cartoteca](tweetcarto00hilos.md)
 
 
+### 🧶 Hilos para difusión 
 
-
-
-
+* [Hilos genéricos del 🗄Archivo Topográfico](tweetat00hilos.md)
+* [Hilos genéricos del 🗄Cartoteca](tweetcarto00hilos.md)
+* La carpeta *threads* contiene otros hilos para difusión 🧶
 
 ## 🚀 Instalar este repositorio
 
