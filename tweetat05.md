@@ -19,6 +19,11 @@ En este día en que recordamos el levantamiento contra la invasión francesa en 
 * 🗄 Archivo Topográfico del IGN - 🗃05A06
 * 🔗 Descarga  https://centrodedescargas.cnig.es/CentroDescargas/busquedaIdProductor.do?idProductor=281334&Serie=MIPAC
 
+---
+### ⌛13 de mayo
+![Imagen genérica](img/atdoc-valladolid.jpg)
+Hoy es la festividad de San Pedro Regalado, patrón de Valladolid. En el #ArchivTopo🗄 de @IGNSpain tenemos las hojas del plano de población de Valladolid de 1915. En la imagen la hoja del 🌳 Parque Campo Grande
 
-
-
+* 📜 Manuscrito 470702 - ⌛ 1915 
+* 🗄 Archivo Topográfico del IGN - 🗃07B14
+* 🔗 Descarga [http://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=PLPOB&filtro.codIne=34074747186](http://centrodedescargas.cnig.es/CentroDescargas/buscar.do?filtro.codFamilia=PLPOB&filtro.codIne=34074747186)
