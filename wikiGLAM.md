@@ -1,26 +1,32 @@
-# Wikipedia y GLAM 
+# 🎙 Wikipedia y GLAM 
 
 La charla estaba destinada a la integración de Wikipedia con GLAM, acrónimo inglés de *galleries, libraries, archives and museums*, nuestras galerías, bibliotecas, archivos y museos.
 
 ![Esquema de Wikimedia](img/wiki-esquema-wikimedia.png)
 
-De todos los proyectos que hay detrás de Wikimedia, lo más interesantes serían Wikicommons, para un volcado de la documentación digitalizada de Cartoteca y Archivo Topográfico, Wikipedia para la redacción de artículos que nos permitan desarrollar algunos documentos cartográficos o conjuntos de obras más en profundidad, así como completar artículos ya existentes aportando las imágenes de IGN suboidas a Wikicommons. Por ejemplo, tenemos gran cantodad e documentos del Depósito de la Guerra. Una vez subidos sería interesante crear una entrada sobre la institución, al igual que en francés existe el artículo sobre el [*Dépôt de la Guerre* 🇫](https://fr.wikipedia.org/wiki/D%C3%A9p%C3%B4t_de_la_Guerre).
+De todos los proyectos que hay detrás de Wikimedia, lo más interesantes serían **Wikicommons**, para un volcado de la documentación digitalizada de Cartoteca y Archivo Topográfico, **Wikipedia** para la redacción de artículos que nos permitan desarrollar algunos documentos cartográficos o conjuntos de obras más en profundidad, así como completar artículos ya existentes aportando las imágenes de IGN subidas a Wikicommons. Por ejemplo, tenemos gran cantidad de documentos del Depósito de la Guerra. Una vez subidos sería interesante crear una entrada sobre la institución, al igual que en francés existe el artículo sobre el [*Dépôt de la Guerre* 🇫](https://fr.wikipedia.org/wiki/D%C3%A9p%C3%B4t_de_la_Guerre).
 
 También es importante completar **Wikidata** con información acerca de las autoridades de autor de obra que tenemos en  ABSYS. Previamente al volcado de información digitalizada en Wikicommons, hay que asegurarse que tenemos referencias en Wikidata para enlazar toda la información que subamos. Ya yenemos casi el **26%** de nuestros datos enlazados a Wikidata, y es posible que en breve superemos el 50%. Al menos de las obras que subamos, sus autores deben estar previamente dados de alta, con su correspondiente control de autoridades. El control de Autoridades es el que nos permite asegurar que un autor existe, al encontrar referencias suyas no sólo en nuestro catálogo de datos, sino también en otros catálogos como la BNE, BnF, LoC...
 
-## Pilares básicos
+**Link Open Data** o enlazado de datos consiste en relacionar las URI´s de mis elementos con las URI´s de otros repositorios. URI es *Uniform Resource Identifier*. Una manera de añadir a nuestra base de datos de autoridades las fechas de vida, lugares de nacimiento o fallecimiento con nuestros autores es vincular con Wikidata, ya que esta información y muchos más datos se encuentran estructurados quí. Al engancharlo con **VIAF** o **ISNI** vamos a tener relacionados nuestros nombres con diversas acepciones del nombre del autor o su grafía en distintos idiomas: cirílico, árabe, japonés,.... Enlazarlo con la BNE, BnF o LoC nos permitirá conectar nuestras obras y autoridades con las obras y autoridades de otras instituciones. 
 
-* Wikimedia tiene un caráceter enciclopédico 📚 y divulgativo.
+## 🏛 El proyecto GLAM Labs
+
+**GLAM Labs Community** es un proyecto de cooperación internacional que pretende que bibliotecas, museos, universidades y archivos promuevan la reutilización de sus colecciones digitales de maneras innovadoras. Tene´si la descripción del proyecto [en esta👉  enlace](https://glamlabs.io) y su [Twitter](https://twitter.com/glam_labs?lang=es). Está liderado por la British Library y podéis ver las entidades colaboradoras [sobre este mapa](https://glamlabs.io/member-map/). Sería interesante apuntarse como institución, porque es un proyecto emergente, y en España sólo están apuntadas a día de hoy la BNE, la universidad de Murcia y la Biblioteca virtual Miguel de Cervantes. En la bibliografía tenéis un libro sobre la descripción de los labs de trabajo.
+
+## 🌐 Pilares básicos
+
+* Wikimedia tiene un carácter enciclopédico 📚 y divulgativo.
 * No es un escaparate de investigaciones personales 👉 Información verificada
 * Información libre, reutilizable y modificable 👉 Contenidos para cualquier tipo de uso
 ![Licencias de Wikimedia](img/wiki-licencias-wikimedia.png)
 * Civismo. Evitar contenidos políticos y discusiones subjetivas. Usos de manuales de estilo.
 
-## Primeros pasos
+## 🚀 Primeros pasos
 
 Sería interesante empezar haciendo unos artículos que describieran la Biblioteca, Cartoteca y el Archivo Topográfico, puestas en contexto como parte del IGN, que ya dispone de entrada en Wikipedia. Es una manera de poner unos cimientos para la información gráfica que se subirá a posteriori a Wikicommons. Para ello creo que tenemos bastantes artículos describiendo funciones y presentando la sección. También habría que crear su asociación con la base de datos de Wikidata, que es la base de datos libre que entre otras cosas, respalda con su control de autoridades lo artículos de Wikipedia o las imágenes de Wikicommons. 
 
-Con motivo del Aniversario 150, una labor importante sería completar la página web del IGN, bastante pobre en general. Hay suficiente material como para completar todas las secciones, la lista de directores desde el comienzo...Es muy importante disponer de la página en inglés. La comunidad anglosajona es la más activa de todas y suelen contribuir de manera notable.
+Con motivo del Aniversario 150, una labor importante sería completar la página web del IGN, bastante pobre en general. Hay suficiente material como para completar todas las secciones, la lista de directores desde el comienzo...Es muy importante disponer de la página en inglés 🇬. La comunidad anglosajona es la más activa de todas y suelen contribuir de manera notable.
 
 * Ejemplo de institución descrita de manera básica 👉 [Museo Arqueológico de Andelo](https://es.wikipedia.org/wiki/Museo_Arqueol%C3%B3gico_de_Andelo).
 * Importante el control de autoridades. Ejemplo muy concreto 👉  [Museo Nacional de Cerámica y Artes Suntuarias González Martí](https://es.wikipedia.org/wiki/Museo_Nacional_de_Cer%C3%A1mica_y_Artes_Suntuarias_Gonz%C3%A1lez_Mart%C3%AD)
@@ -28,17 +34,16 @@ Con motivo del Aniversario 150, una labor importante sería completar la página
   * Descripción con los parámetros básicos: título, autor, fecha, dimensiones
   * Enlace externo al catálogo de National Library of Wales.
 
-
-
-## Estrategia
+## ♟ Estrategia
 
 La fundación Wikipedia no ve con buenos ojos que una institución escriba sobre sí misma. Un usuario oficial del IGN no debería crear contenido en el artículo sobre el IGN. Ni tampoco ser el que crea o redacta artículos sobre material digital aportado por el IGN. 
 ¿Cual es la labor del usuario oficial entonces? Lo primero sería darlo de alta y contactar con Wikipedia España para informar que este usuario es el usurio oficial de la Institución, y por tanto tiene auridad como para subir los contenidos de la institución sin miuedo a que suba elementos de los que no tiene licencia. También hay que asegurarse de que este usuario no exista ya, y si existe intentar recuperarlo y averiguar quien tiene sus credenciales. No sería de extrañar que nos encontráramos con este último caso.
 
 La labor del usuario oficial sería la de subir todo el contenido digital a WikiCommons, con el debido respaldo que le da su condicion de oficialidad, y el de completar las referencias en la database Wikidata. Para redactar y editar artículos existentes, seria necesario que aquellos que colaboran en estas labores crearan sus propias cuentas de usuario, para añadir contenido. Por supuesto las contribucuones de estos usuarios serían a largo plazo, aunque redactar artículos sobre el Archivo Topográfico y la Cartoteca y completar la información sobre la propia institución sí que serían interesantes de realizar en las primeras fases.
 
+He estado viendo la manera de trabajar de entidades como la Biblioteca Virtual Miguel de Cervantes. Tienen un equipo multidisciplinar de catalogación, humanidades e informática que permite la colaboración entre todos para conseguir su objetivo, conectar todo su catálogo con la Wikipedia.
 
-## Retorno en visibilidad web
+## 💰 Retorno en visibilidad web
 
 La inclusión de contenidoen Wikipedia tiene un amplio retorno en visibilidad de la institución en Internet. El MET,*Metropolitan Museum of New York*, incorporó a Wikicommons más de 360 000 imagenes en el primer trimestre de 2017. En el gráfico se muestra el incremento de artículos de Wikipedia citando elementos de la colección del MET, así como los números de visitas de esos artículos.
 
@@ -56,9 +61,9 @@ Otros ejemplos son:
 MET 367000
 Alemania 83000
 
-## Herramientas de explotación de datos.
+## 🛠 Herramientas de explotación de datos.
 
-### Analisis de visitas
+### 📊 Analisis de visitas
 
 Wikipedia ofrece multitud de herramientas para analizar el tráfico de visitas de una determinada página con [Pageviews](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&range=latest-20&pages=Instituto_Geogr%C3%A1fico_Nacional_(Spain)) podemos ver las visitas de manera gráfica por días o meses.
 
@@ -72,19 +77,19 @@ Otras herramientas para analizar tendencias son
 
  ![Detector de plagios en Artículos de Wikipedia.](img/wiki-detect-plagio.png)
 
-### BaGLAMa 2 - Consultas WikiCommons
+### 🖼 BaGLAMa 2 - Consultas WikiCommons
 
 Una vez subamos los contenidos a Wikipedia, esta herramienta es muy últil para ver analizar el uso de los ficheros multimedia subidos por una institución a WikiCommons. [BaGLAMa 2](https://tools.wmflabs.org/glamtools/baglama2/) permite ver el nombre de la institución, el número de meses de los cuales se dispone su tracking de visitas, el último mes registrado y el número de visitas totales.
 
 ![Instituciones con presencia en WikiCommons](img/wiki-baglama2.png)
 
-### WikiShootMe
+### 📌 WikiShootMe
 
 Con esta herramienta podemos ver los elementos de Wikipedia y WikiCommons georreferenciados localizados sobre un mapa. Entrando en la web de la herramienta [en este enlace](https://tools.wmflabs.org/wikishootme/#lat=40.4456&lng=-3.7098&zoom=18) podemos navegar por el mapa y obtener información de los elementos georreferenciados. A mí me ha sido muy útil por ejemplo para ver que la **Biblioteca del IGN** está dada de alta como entidad Wikidata. Eso sí, le falta asociar una imagen. ¿Voluntarios?
 
 ![Mapa Wikishoots](img/wiki-mapa-wikishoot.png)
 
-### Wikidata Query Service
+### 🔍 Wikidata Query Service
 
 Permite hacer consultas sobre Wikidata. Utiliza un lenguaje pseudo-sql realizando consultas SPARQL sobre Base de datos de Wikidata. En Wikidata todo se almacena en forma de tripletas que contienen **Sujeto - Predicado - Objeto**. Todos los sujetos y predicados tienen su entrada en Wikidata. Los objetos pueden ser entradas en Wikidata o cadenas de textos, números o fechas.
 
@@ -192,38 +197,80 @@ Wikimedia ofrece un sistema de generación de etiquetas OTRS en [esta 🛠 herra
 
 Pero antes hay que verificar si esto ya se ha realizado en algún momento.
 
-## Personas de contacto
-Rubén Ojeda. Fue wikipedista en residencia. Ha trabajado en el MAN para integrar en Wikipedia
+## 🗃 Wikidata
 
-Quickstatements: herramienta para subir datos en masa a Wikipedia
+Web semántica la introduce **Tim Berners Lee** en 2000 como una extensión de la web actual dotada de significado, de manera que pueda ser interpretada tanto por personas como por coputadoras. La web semántica además de alamcenar datos, los entiende y estructura.
+Taxonomías son clasificaciones para catalogar personas, obras, bibliotecas.
 
-Rubén Ojeda de la Roza (vanbasten_23)
-Project Manager
-Wikimedia España
+![Información textual y escructurada](img/wiki-info-estructurada.png)
 
-Tlf: +34 722 61 47 98
-rubenojeda@wikimedia.es
-@rubojeda
+**Wikidata** es una base de datos estructurada que puede editarse por personas y computadoras. Se administra por Wikimedia Alemania desde 2012. Tiene más de 82 000 000 de entradas y pretende estructurar todo el conocimiento.
+
+**Link Open Data** o enlazado de datos consiste en relacionar las URI´s de mis elementos con las URI´s de otros repositorios. URI es *Uniform Resource Identifier*. Una manera de añadir a nuestra base de datos de autoridades las fechas de vida, lugares de nacimiento o fallecimiento con nuestros autores es enganchar con Wikidata, ya que esta y mucha más informacion se encuentra ya estructurada allí. Al engancharlo con **VIAF** o **ISNI** vamos a tener relacionados nuestros nombres con diversas acepciones del nombre del autor o su grafía en distintos idiomas. Enlazarlo con la BNE, BnF o LoC nos permitirá conectar nuestras obras y autoridades con las obras y autoridades de otras instituciones.
 
 
-MiguelAlanCS
-Angel Obregón 
-Rubén ojeda
-AdolfoBrigido
+### 📄 Página de una entidad
 
-## Bibliografía
+Vemos la página de Miguel de Cervantes [https://www.wikidata.org/wiki/Q5682](https://www.wikidata.org/wiki/Q5682)
 
-* Ejemplos de consultas SPARQL [👉 https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples)
+![Esquema Entidad Wikidata](img/wiki-esquema-wikidata.png)
+
+Despues están los **identificadores**. Se encuentran debajo de las propiedades. Nos permiten enlazar con otros repositorios como bibliotecas nacionales, VIAF, ISNI....
+
+Cada propiedad que utilizamos para describir una entidad tiene su correspondiente indicador. De esa manera evitamos que a la **nacionalidad** de una persona un usuario la llame *nación* otro *patria*, otro *natural de*.... así tenemos un catálogo de propiedades
+
+* **P27** es la *nacionalidad*. Descripción de la propiedad [en este 👉 enlace](https://www.wikidata.org/wiki/Property:P27)
+* **P17** es el *país*. Descripción de la propiedad [en este 👉 enlace](https://www.wikidata.org/wiki/Property:P17)
+* **P1476** es el *título*. Descripción de la propiedad [en este 👉 enlace](https://www.wikidata.org/wiki/Property:P1476)
+* **P625** son *coordenadas*. Descripción de la propiedad [en este 👉 enlace](https://www.wikidata.org/wiki/Property:P625)
+
+Se pueden proponer nuevas propiedades, [en esta 👉 dirección](https://www.wikidata.org/wiki/Wikidata:Property_proposal). La lista de propiedades que puede tener un tipo de entidad lo tenemos en el documento Lista de propiedades [👉 https://www.wikidata.org/wiki/Wikidata:List_of_properties/es](https://www.wikidata.org/wiki/Wikidata:List_of_properties/es) donde podemos consultar las ontologías asociadas a las propiedades.
+
+En ocasiones tendremos nuestros autores ya creados, pero necesitaremos añadir más datos, que conozcamos. Esto es la llamada edición colaborativa. Así completamos la descripción de nuestra entidad de Wikidata.
+
+
+### ⭐ Niveles de publicación de datos abiertos
+
+**Tim Berners Lee** estableció una serie de niveles o categorías para publicar los datos abiertos, de tal manera que cuanto más estrellas, más nos acercamos al concepto de web semántica.
+
+* Publicamos los datos en Wen con licencia abierta bajo cualquier formato.⭐
+* Publicamos datos estructurados: un Excel en vez de una imagen de una tabla escaneada.⭐⭐
+* Usamos formatos no propietarios: por ejemplo CSV en vez de Excel.⭐⭐⭐
+* Usamos URI´s para determinar autores, o lugares, asegurándonos que siempre en esa URI están los datos: el permalink al nombre de un autor.⭐⭐⭐⭐
+* Enlazamos nuestros datos con otras fuentes de datos datos.⭐⭐⭐⭐⭐
+
+Nosotros hasta ahora llegábamos a las 4 estrellas, ya que tenemos URI´s para describir nuestras autoridades T600, T610, T700 y T710. Ahora estamos intentando llegar a las cinco estrellas, intentando enlazar nuestros permalinks con los de otros proveedores de datos, como la BNE, Wikipedia o LoC.
+
+### 🧮 Jupyter Notebooks GLAM Labs
+
+**Jupyter Notebook** (anteriormente IPython Notebooks) es un entorno informático interactivo basado en la web para crear documentos de Jupyter notebook. El término "notebook" puede hacer referencia coloquialmente a muchas entidades diferentes, principalmente la aplicación web Jupyter, el servidor web Jupyter Python o el formato de documento Jupyter según el contexto. Un documento de Jupyter Notebook es un documento JSON, que sigue un esquema versionado y que contiene una lista ordenada de celdas de entrada/salida que pueden contener código, texto (usando Markdown), matemáticas, gráficos y texto enriquecidos, generalmente terminado con la extensión ".ipynb". El nombre del proyecto Jupyter es una referencia a los tres lenguajes de programación principales soportados por Jupyter, que son Julia, Python y R.
+
+Los Jupyter Notebooks son herramientas muy útiles para conectarse a webs semánticas y obtener informacion de ellas, combinando datos de distintas organizaciones. Para iniciarse tenemos:
+* [https://github.com/hibernator11/notebook-texts-example](https://github.com/hibernator11/notebook-texts-example)
+* [https://github.com/hibernator11/notebook-lod-libraries](https://github.com/hibernator11/notebook-lod-libraries)
+* [https://github.com/hibernator11/notebook-iiif-images](https://github.com/hibernator11/notebook-iiif-images)
+
+También hay un blog interesante sobre las actividades en los GLAM Labs
+
+* [https.//glamlabs.io/books/blogs/](https.//glamlabs.io/books/blogs/)
+
+
+## 📚 Bibliografía
+
+* 🔖 Ejemplos de consultas SPARQL [👉 https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples)
 * Tutorial ligero de SPARQL [en este 👉 enlace](http://data.cervantesvirtual.com/blog/2018/10/25/tutorial-de-inicio-a-sparql/)
 * 📽 Vídeo [👉  Introducción a Wikimedia Commons](https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Sesiones_en_l%C3%ADnea_WMES_2020/Sesi%C3%B3n_10)
-* 📽 Vídeo [👉  Introducción a Wikidata](https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Sesiones_en_l%C3%ADnea_WMES_2020/Sesi%C3%B3n_7)
+* 📽 Vídeo muy recomendable para nosotros [👉  Introducción a Wikidata](https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Sesiones_en_l%C3%ADnea_WMES_2020/Sesi%C3%B3n_7)
 * 📽 Vídeo Ángel Obregón os explica cómo contribuir al Mapa de bibliotecas en Wikidata a través de esta formación en línea [con este 👉 enlace](https://www.youtube.com/watch?v=EF4w_B5yZXk&t=375s)
-* Deep Learning Cookbook: Practical Recipes to Get Started Quickly, Douwe Osinga. O'Reilly 2018. [Enlace 🛒](https://www.amazon.es/Deep-Learning-Cookbook-Practical-recipes/dp/149199584X)
-
+* 📕 Deep Learning Cookbook: Practical Recipes to Get Started Quickly, Douwe Osinga. O'Reilly 2018. [Enlace 🛒](https://www.amazon.es/Deep-Learning-Cookbook-Practical-recipes/dp/149199584X)
+* 📕 Open a Glam Lab. Doha, 2019. [Enlace descarga💾](https://glamlabs.pubpub.org)
 
 ---
 
-## Conceptos pendientes a desarrollar en otros cuadernillos
+##  🏗 Conceptos pendientes a desarrollar en otros cuadernillos
+
+
+Aquí dejo notas sueltas para desarrollar a posteriori.
 
 OpenRefine para la depuración de datos
 
@@ -239,7 +286,7 @@ Videos--> visibilizar las acividades educativas del IGN
 
 Protocolo OAI-PMH para la descarga de metadatos
 
-## Creación del primer artículo
+### Creación del primer artículo
 
 Florencia Cles (Florenciac)
 
@@ -267,20 +314,4 @@ Con el Menú Más->Trasladar, puedo pasar mi artículo a Wikipedia.
 
 Ficha lateral --> insertar plantilla -->se elige
 Ficha de persona es el resultado de fusionar todo, escritor, médico, furbolista (esto es está en proceso)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
