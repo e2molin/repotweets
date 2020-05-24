@@ -10,11 +10,11 @@ También es importante completar **Wikidata** con información acerca de las aut
 
 **Link Open Data** o enlazado de datos consiste en relacionar las URI´s de mis elementos con las URI´s de otros repositorios. URI es *Uniform Resource Identifier*. Una manera de añadir a nuestra base de datos de autoridades las fechas de vida, lugares de nacimiento o fallecimiento con nuestros autores es vincular con Wikidata, ya que esta información y muchos más datos se encuentran estructurados quí. Al engancharlo con **VIAF** o **ISNI** vamos a tener relacionados nuestros nombres con diversas acepciones del nombre del autor o su grafía en distintos idiomas: cirílico, árabe, japonés,.... Enlazarlo con la BNE, BnF o LoC nos permitirá conectar nuestras obras y autoridades con las obras y autoridades de otras instituciones. 
 
-## 🏛 El proyecto GLAM Labs
+## 🌐 El proyecto GLAM Labs
 
-**GLAM Labs Community** es un proyecto de cooperación internacional que pretende que bibliotecas, museos, universidades y archivos promuevan la reutilización de sus colecciones digitales de maneras innovadoras. Tene´si la descripción del proyecto [en esta👉  enlace](https://glamlabs.io) y su [Twitter](https://twitter.com/glam_labs?lang=es). Está liderado por la British Library y podéis ver las entidades colaboradoras [sobre este mapa](https://glamlabs.io/member-map/). Sería interesante apuntarse como institución, porque es un proyecto emergente, y en España sólo están apuntadas a día de hoy la BNE, la universidad de Murcia y la Biblioteca virtual Miguel de Cervantes. En la bibliografía tenéis un libro sobre la descripción de los labs de trabajo.
+**GLAM Labs Community** es un proyecto de cooperación internacional que pretende que bibliotecas, museos, universidades y archivos promuevan la reutilización de sus colecciones digitales de maneras innovadoras. Tenéis la descripción del proyecto [en este 👉 enlace](https://glamlabs.io) y su [Twitter](https://twitter.com/glam_labs?lang=es). Está liderado por la **British Library** y podéis ver las entidades colaboradoras [sobre este mapa](https://glamlabs.io/member-map/). Sería interesante apuntarse como institución, porque es un proyecto emergente, y en España sólo están apuntadas a día de hoy la BNE, la universidad de Murcia y la Biblioteca virtual Miguel de Cervantes. En la bibliografía tenéis un libro sobre la descripción de los labs de trabajo.
 
-## 🌐 Pilares básicos
+## 🏛 Pilares básicos
 
 * Wikimedia tiene un carácter enciclopédico 📚 y divulgativo.
 * No es un escaparate de investigaciones personales 👉 Información verificada
