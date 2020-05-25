@@ -33,6 +33,8 @@ Con motivo del Aniversario 150, una labor importante sería completar la página
 * Mapa Polomeo subido a WikiCommons relacionado con Wikidata [👉 aquí ](https://commons.wikimedia.org/wiki/File:Prima_Europe_tabula.jpg)
   * Descripción con los parámetros básicos: título, autor, fecha, dimensiones
   * Enlace externo al catálogo de National Library of Wales.
+  * Imagen del MET con vínculos a Wikidata [👉 aquí ] (https://commons.wikimedia.org/wiki/File:Charles_Meryon,_The_Apse_of_Notre-Dame,_Paris,_1854_II.jpg)
+  * Imagen de la British Library de un mapa con algunos de sus atributos. Buen ejemplo de cómo se informa de licencias de distribución. [👉 aquí ] (https://commons.wikimedia.org/wiki/File:Amba_Alagi._War_Office_ledger_(WOMAT-AFR-ABY-67-1).jpg)
 
 ## ♟ Estrategia
 
@@ -42,6 +44,17 @@ La fundación Wikipedia no ve con buenos ojos que una institución escriba sobre
 La labor del usuario oficial sería la de subir todo el contenido digital a WikiCommons, con el debido respaldo que le da su condicion de oficialidad, y el de completar las referencias en la database Wikidata. Para redactar y editar artículos existentes, seria necesario que aquellos que colaboran en estas labores crearan sus propias cuentas de usuario, para añadir contenido. Por supuesto las contribucuones de estos usuarios serían a largo plazo, aunque redactar artículos sobre el Archivo Topográfico y la Cartoteca y completar la información sobre la propia institución sí que serían interesantes de realizar en las primeras fases.
 
 He estado viendo la manera de trabajar de entidades como la Biblioteca Virtual Miguel de Cervantes. Tienen un equipo multidisciplinar de catalogación, humanidades e informática que permite la colaboración entre todos para conseguir su objetivo, conectar todo su catálogo con la Wikipedia.
+
+### 🚎 Hoja de ruta
+
+* Decidir si la información se cuelga como datos de la Biblioteca del IGN, que es una entidad ya creada, o bajo el IGN, o creamos además las autoridades de Cartoteca y Archivo Topográfico. Desde mi punto de vista, al menos el Archivo Topográfico tiene entidad suficiente como para desligarse de Biblioteca. Otra opción es renombrar la Biblioteca como **Biblioteca, Cartoteca y Archivo Topográfico del IGN**.
+* Crear una página decriptiva y completar la del IGN con información actualizada.
+* Obtener un usuario oficial con licencias para publicar contenido del IGN.
+* Seleccionar 100 documentos de la entidad para subir de entrada. Puede ser interesante utilizar entre ellos facsímiles publicados por el IGN, ya que tenemos redactado información sobre los mismos.
+* *Bechmarking*: definición las propiedades mínimas que van a tener: dada nuestra poca experiencia, nos apoyamos en lo realizado por otras entidades, como la [British Library](https://commons.wikimedia.org/wiki/File:Amba_Alagi._War_Office_ledger_(WOMAT-AFR-ABY-67-1).jpg) o el [MET](https://commons.wikimedia.org/wiki/File:Charles_Meryon,_The_Apse_of_Notre-Dame,_Paris,_1854_II.jpg). Hay que buscar otras instituciones que cataloguen mapas, para estudiar sus métodos. Esto nos permitirá tener unos modelos de ficha (posiblemente hay que contemplar modelos distintos para documentos de la cartoteca, la biblioteca y el Archivo Topográfico) que acompañará al documento, que tiene que ser lo más homogénea.
+* Subir la información de manera manual de los 10 primeros mapas. Comprobar si hay objecciones por parte de los redactores de Wikipedia y corregirlas.
+* Creación por parte de usuarios no institucionales de algún artículo vinculando las imñgenes subidas. Se pueden utilizar los textos de los facsímiles, que son propiedad del IGN y nos aligeran el trabajo. Además están en dos idiomas, español e inglés.
+* Preparación un procedimiento de carga de las restantes 90 imágenes en tacada. Utilización de OpenRefine y Wikistatements.
 
 ## 💰 Retorno en visibilidad web
 
