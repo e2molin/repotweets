@@ -1,6 +1,6 @@
 # Hispana y Europeana
 
-## ☎  Protocolo OAI-PMH
+## :phone: Protocolo OAI-PMH
 
 **O**pen **A**rchives **I**nitiative Protocol for **M**etadata **H**arvesting permite la interoperabilidad entre repositorios de información. Los archivos y bibliotecas que tienen implantado este protocolo de servicio puede ofrecer información acerca de cuantos documentos han dado de alta, cuantos han dado de baja, de manera que mediante un proceso de harvesting, los organismos recolectores como **Hispana** y **Europeana** pueden consultar qué registros se han dado de alta, cuales se han dado de baja y sincronizar sus propias bases de datos de registros.
 
@@ -310,7 +310,7 @@ La respuesta que vemos a nuestro metadato es correcta. Como estamos proporcionan
 
 ## 🌐  Servicios OAI-PMH activos
 
-* Biblioteca Nacional de España 👉 [http://oai.bne.es/OAIHandler?verb=Identify](http://oai.bne.es/OAIHandler?verb=Identify)
+* Biblioteca Nacional de España :point_right: [http://oai.bne.es/OAIHandler?verb=Identify](http://oai.bne.es/OAIHandler?verb=Identify)
 * Cornell University 👉 [http://export.arxiv.org/oai2?verb=Identify](http://export.arxiv.org/oai2?verb=Identify)
 
 ## 📚  Bibliografía
