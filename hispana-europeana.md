@@ -19,7 +19,8 @@ Lo habitual es ofrecer un volcado inicial de los datos al organismo recolector, 
 La Biblioteca Nacional dispone de su servidor OAI. Podemos accader a él smplemente con la url [http://oai.bne.es/OAIHandler?](http://oai.bne.es/OAIHandler?), lo que nos devuelve un valor similar a cuando pedimos datos a un WMS pero no especificamos parámetros de consulta. Lo que nos devuelve es información sobre la versión del protocolo OAI que utiliza, así como información de los esquemas utilizados en las respuestas. Vamos a ver cómo podemos hacer diversas peticiones o *request* a este servicio.
 
 #### Request: identificación básica del servicio. ❓  
-👉 [http://oai.bne.es/OAIHandler?verb=Identify](http://oai.bne.es/OAIHandler?verb=Identify)
+
+[http://oai.bne.es/OAIHandler?verb=Identify](http://oai.bne.es/OAIHandler?verb=Identify)
 
 ofrece entre otras la siguiente información 
 
@@ -33,12 +34,14 @@ ofrece entre otras la siguiente información
 ```
 
 #### Request: lista de los formatos de respuesta a las peticiones que hagamos. ❓
-👉 [http://oai.bne.es/OAIHandler?verb=ListMetadataFormats](http://oai.bne.es/OAIHandler?verb=ListMetadataFormats)
+
+[http://oai.bne.es/OAIHandler?verb=ListMetadataFormats](http://oai.bne.es/OAIHandler?verb=ListMetadataFormats)
 
 Según la respuesta podemos obtener los resultados en MARCXML utilizando el parámetro **marcxml** o en Dublin Core utilizando el parámetro **oai_dc**. También nos da información de donde se encuentran definidos dichos esquemas  de protocolo, que figurarán en los encabezados de las respuestas.
 
-#### Request: lista de los conjuntos de recursos sobre los que se puede consultar. ❓  
-👉 [http://oai.bne.es/OAIHandler?verb=ListSets](http://oai.bne.es/OAIHandler?verb=ListSets)
+#### Request: lista de los conjuntos de recursos sobre los que se puede consultar. ❓ 
+
+[http://oai.bne.es/OAIHandler?verb=ListSets](http://oai.bne.es/OAIHandler?verb=ListSets)
 
 Para facilitar la agregación de contenidos, los registros se encuentran clasificados en grupos o conjuntos de datos, los *sets*. Las peticiones de consulta que devuelven listas de registros deben llevar entre los parámetros de consulta el nombre del conjunto sobre el que se quiere realizar las consultas. La Biblioteca Nacional maneja los siguientes conjuntos.
 
@@ -99,8 +102,9 @@ Para facilitar la agregación de contenidos, los registros se encuentran clasifi
 </ListSets>
 ```
 
-#### ❓  Request: lista de registros del conjunto _**mapas**_ en MARC21.
-👉  [http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&metadataPrefix=marcxml)
+#### Request: lista de registros del conjunto _**mapas**_ en MARC21. ❓
+
+[http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&metadataPrefix=marcxml)
 
 Devuelve los registros en fornato MARC21 dados de alta, generalmente desde comienzo del mes en curso, si no se especifican parámetros temporales como es en este caso. Los datos se devuelven en este caso con una cabecera del protocolo **OAI**. Después se hace un eco de los parámetros de consulta y la fecha en que se ha realziado la petición en hora UTC.
 
@@ -167,19 +171,19 @@ Y en el caso de una petición en **Dublin Core**.
 ```
 Como hemos visto si no acotamos con fechas nos devuelve los registros modificados o dados de alta desde principios del mes en curso. Pero el protocolo **OIA-MH** permite incluir un atributo para que devuelva los registros desde otra fecha de origen, así:
 
-👉  [http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&from=2020-04-15&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&from=2020-04-15&metadataPrefix=marcxml)
+[http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&from=2020-04-15&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&from=2020-04-15&metadataPrefix=marcxml)
 
 o incluso los registros entre dos intervalos de fecha, así
 
-👉  [http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&from=2020-04-15&until=2020-04-16&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&from=2020-04-15&until=2020-04-16&metadataPrefix=marcxml)
+[http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&from=2020-04-15&until=2020-04-16&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=ListRecords&set=mapas&from=2020-04-15&until=2020-04-16&metadataPrefix=marcxml)
 
 aunque en el caso del servicio de la BNE, no contempla el acotamiento entre fechas, y devuelve siempre los registros modificaos o creados desde el primer día del mes en curso.
 
-#### ❓  Request: lista de identificadores del conjunto _**mapas**_ en MARC21.
+#### Request: lista de identificadores del conjunto _**mapas**_ en MARC21. ❓
 
 Estas peticiones son costosas, dada la gran cantidad de datos que devuelve por cada regitros. En ocasiones puede ser necesario solicitar sólo los identificadores de los documentos, así
 
-👉 [http://oai.bne.es/OAIHandler?verb=ListIdentifiers&set=mapas&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=ListIdentifiers&set=mapas&metadataPrefix=marcxml)
+[http://oai.bne.es/OAIHandler?verb=ListIdentifiers&set=mapas&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=ListIdentifiers&set=mapas&metadataPrefix=marcxml)
 
 devolviéndonos en este caso una lista de encabezados con los identificadores de registro.
 
@@ -200,11 +204,11 @@ devolviéndonos en este caso una lista de encabezados con los identificadores de
 </ListIdentifiers>
 ```
 
-#### ❓  Request: atributos en MARC21 de un determinado registro.
+#### Request: atributos en MARC21 de un determinado registro. ❓
 
 A continuación podemos selectivamente solicitar los datos de uno de esos registros.
 
-👉 [http://oai.bne.es/OAIHandler?verb=GetRecord&identifier=oai.bne.esmapas:bica0000000101&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=GetRecord&identifier=oai.bne.esmapas:bica0000000101&metadataPrefix=marcxml)
+[http://oai.bne.es/OAIHandler?verb=GetRecord&identifier=oai.bne.esmapas:bica0000000101&metadataPrefix=marcxml](http://oai.bne.es/OAIHandler?verb=GetRecord&identifier=oai.bne.esmapas:bica0000000101&metadataPrefix=marcxml)
 
 Este es el resultado. Como vemos la estructura *metadata* dentro del *record* es la misma que  generamos en los metadatos del catálogo, salvo que se encuentra encapsulada en el formato de respuesta que exige el protocolo **OAI-PMH** y las etiqyetas pertenecen al *namespace* **marc:**.
 
@@ -298,24 +302,23 @@ Este es el resultado. Como vemos la estructura *metadata* dentro del *record* es
 </OAI-PMH>
 ```
 
-## 🛠  Validación de datos
+## Validación de datos 🛠
 
 Existe una herramienta que nos permite evaluar si laa respuesta de un metadato es válida para el protocolo **OAI-PMH**. la herranienta es:
-
-👉  [http://validator.oaipmh.com/](http://validator.oaipmh.com/)
+[http://validator.oaipmh.com/](http://validator.oaipmh.com/)
 
 ![img/oai-validator.png](img/oai-validator.png)
 
 La respuesta que vemos a nuestro metadato es correcta. Como estamos proporcionando un único fichero XML y no la URL del servicio, lo que nos dice en rojo es simplemente que no hay respuestas a comandos **OAI-PMH**, que antes hemos mencionado. Pero la estructura es correcta.
 
-## 🌐  Servicios OAI-PMH activos
+## Servicios OAI-PMH activos 🌐
 
-* Biblioteca Nacional de España :point_right: [http://oai.bne.es/OAIHandler?verb=Identify](http://oai.bne.es/OAIHandler?verb=Identify)
-* Cornell University 👉 [http://export.arxiv.org/oai2?verb=Identify](http://export.arxiv.org/oai2?verb=Identify)
+* Biblioteca Nacional de España [http://oai.bne.es/OAIHandler?verb=Identify](http://oai.bne.es/OAIHandler?verb=Identify)
+* Cornell University [http://export.arxiv.org/oai2?verb=Identify](http://export.arxiv.org/oai2?verb=Identify)
 
-## 📚  Bibliografía
+## Bibliografía 📚
 
-* FAQ: 👉 [http://www.bne.es/export/sites/BNWEB1/es/Servicios/PreguntasMasFrecuentes/docs/BDH.pdf](http://www.bne.es/export/sites/BNWEB1/es/Servicios/PreguntasMasFrecuentes/docs/BDH.pdf)
-* OAI-PMH  Protocol 2.0 👉 [http://www.openarchives.org/OAI/openarchivesprotocol.html#ListRecords](http://www.openarchives.org/OAI/openarchivesprotocol.html#ListRecords)
-* Proceso de *Harvesting* usando Jupyter Notebooks 👉 [https://rdrr.io/cran/OAIHarvester/man/verb.html](https://rdrr.io/cran/OAIHarvester/man/verb.html)
-* Últimas noticias con el hashtah oficial **#OAIPMH** 👉  [https://twitter.com/hashtag/OAIPMH](https://twitter.com/hashtag/OAIPMH)
+* FAQ: [http://www.bne.es/export/sites/BNWEB1/es/Servicios/PreguntasMasFrecuentes/docs/BDH.pdf](http://www.bne.es/export/sites/BNWEB1/es/Servicios/PreguntasMasFrecuentes/docs/BDH.pdf)
+* OAI-PMH  Protocol 2.0 [http://www.openarchives.org/OAI/openarchivesprotocol.html#ListRecords](http://www.openarchives.org/OAI/openarchivesprotocol.html#ListRecords)
+* Proceso de *Harvesting* usando Jupyter Notebooks [https://rdrr.io/cran/OAIHarvester/man/verb.html](https://rdrr.io/cran/OAIHarvester/man/verb.html)
+* Últimas noticias con el hashtah oficial **#OAIPMH** [https://twitter.com/hashtag/OAIPMH](https://twitter.com/hashtag/OAIPMH)
