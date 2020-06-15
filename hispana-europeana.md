@@ -1,6 +1,6 @@
 # Hispana y Europeana
 
-## :phone: Protocolo OAI-PMH
+## Protocolo OAI-PMH 🚜 
 
 **O**pen **A**rchives **I**nitiative Protocol for **M**etadata **H**arvesting permite la interoperabilidad entre repositorios de información. Los archivos y bibliotecas que tienen implantado este protocolo de servicio puede ofrecer información acerca de cuantos documentos han dado de alta, cuantos han dado de baja, de manera que mediante un proceso de harvesting, los organismos recolectores como **Hispana** y **Europeana** pueden consultar qué registros se han dado de alta, cuales se han dado de baja y sincronizar sus propias bases de datos de registros.
 
@@ -8,7 +8,7 @@
 
 Los sistemas de registro de archivos suelen tener implementado este protocolo de servicio como una utilidad más, como DigiBIS, ExLibris, Odilo o Koha. **ABSYS** para implementarlo requiere el pago de una extensión de la licencia básica.
 
-## 🚀  Funcionamiento
+## Funcionamiento 🚀
 
 El sistema es muy similar al de otros servicios a los que estamos más acostumbrados en el mundo GIS, como WMS y WFS, o más aplicado a este caso, los servicios WCS. A una URL base se la añaden una serie de parámetros. Unos son los llamados verbos que definen acciones. Otros llamados de predicado permiten definir más concretamente la respuesta y por último los de formato nos permiten definir en qué formato de los disponibles pdoemos obtener los datos.
 
@@ -18,7 +18,7 @@ Lo habitual es ofrecer un volcado inicial de los datos al organismo recolector, 
 
 La Biblioteca Nacional dispone de su servidor OAI. Podemos accader a él smplemente con la url [http://oai.bne.es/OAIHandler?](http://oai.bne.es/OAIHandler?), lo que nos devuelve un valor similar a cuando pedimos datos a un WMS pero no especificamos parámetros de consulta. Lo que nos devuelve es información sobre la versión del protocolo OAI que utiliza, así como información de los esquemas utilizados en las respuestas. Vamos a ver cómo podemos hacer diversas peticiones o *request* a este servicio.
 
-#### ❓  Request: identificación básica del servicio
+#### Request: identificación básica del servicio. ❓  
 👉 [http://oai.bne.es/OAIHandler?verb=Identify](http://oai.bne.es/OAIHandler?verb=Identify)
 
 ofrece entre otras la siguiente información 
@@ -32,12 +32,12 @@ ofrece entre otras la siguiente información
 
 ```
 
-#### ❓  Request: lista de los formatos de respuesta a las peticiones que hagamos
+#### Request: lista de los formatos de respuesta a las peticiones que hagamos. ❓
 👉 [http://oai.bne.es/OAIHandler?verb=ListMetadataFormats](http://oai.bne.es/OAIHandler?verb=ListMetadataFormats)
 
 Según la respuesta podemos obtener los resultados en MARCXML utilizando el parámetro **marcxml** o en Dublin Core utilizando el parámetro **oai_dc**. También nos da información de donde se encuentran definidos dichos esquemas  de protocolo, que figurarán en los encabezados de las respuestas.
 
-#### ❓  Request: lista de los conjuntos de recursos sobre los que se puede consultar.
+#### Request: lista de los conjuntos de recursos sobre los que se puede consultar. ❓  
 👉 [http://oai.bne.es/OAIHandler?verb=ListSets](http://oai.bne.es/OAIHandler?verb=ListSets)
 
 Para facilitar la agregación de contenidos, los registros se encuentran clasificados en grupos o conjuntos de datos, los *sets*. Las peticiones de consulta que devuelven listas de registros deben llevar entre los parámetros de consulta el nombre del conjunto sobre el que se quiere realizar las consultas. La Biblioteca Nacional maneja los siguientes conjuntos.
