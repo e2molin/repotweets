@@ -35,6 +35,7 @@ Con motivo del Aniversario 150, una labor importante sería completar la página
   * Enlace externo al catálogo de National Library of Wales.
   * Imagen del MET con vínculos a Wikidata [👉 aquí ] (https://commons.wikimedia.org/wiki/File:Charles_Meryon,_The_Apse_of_Notre-Dame,_Paris,_1854_II.jpg)
   * Imagen de la British Library de un mapa con algunos de sus atributos. Buen ejemplo de cómo se informa de licencias de distribución. [👉 aquí ] (https://commons.wikimedia.org/wiki/File:Amba_Alagi._War_Office_ledger_(WOMAT-AFR-ABY-67-1).jpg)
+  * Otro ejemplo de un portulano de JAcomo MAggiolo subido por la BnF [👉 aquí ](https://commons.wikimedia.org/w/index.php?title=File:1563_Portolan_chart_of_the_Mediterranean_Sea,_the_Black_Sea_and_Northeastern_Atlantic_Ocean_by_Giacomo_Maggiolo.jpg&oldid=416942511)
 
 ## ♟ Estrategia
 
@@ -328,3 +329,4 @@ Con el Menú Más->Trasladar, puedo pasar mi artículo a Wikipedia.
 Ficha lateral --> insertar plantilla -->se elige
 Ficha de persona es el resultado de fusionar todo, escritor, médico, furbolista (esto es está en proceso)
 
+Civitates orbis
