@@ -80,6 +80,8 @@ Imágenes con detalles. Evitar imágenes de mapas generales sin que se aprecien 
 * Imagen rectangular vertical: 1080x1350 píxel
 * Imagen en un Tweet: se recomienda que las imágenes en Twitter no superen los 3MB. Las proporciones ancho/alto deben ser 2/1 si queremos que la imagen se muestre en la preview del stream. Ajustarse a esta proporción siempre es recomendable. Cuando usamos imágenes de otras proporciones, hay que comprobar que se vean adecuadamente. Suelo subir imágenes como mucho de 1800x900 píxeles.
 
+En este recurso [SocialSizes.io](https://socialsizes.io/) tenéis las dimensiones óptimas de una imagen para las diferentes redes sociales. Estas medidas cambian con frecuencia, y esta página se mantiene actualizada con los últimos datos. 
+
 ### 🧵 Hilos en Twitter
 Es el mecanismo para contar historias de **Twitter** y poder desarrollar exposiciones largas que exceden el tamaño máximo del contenido de un tweet, 280 caracteres. No deben ser muy largos, creo que diez *tweets* encadenados son un tope al que no hay que llegar. Esto pone a prueba la capacidad de síntesis del que redacta, pero más *tweets* pueden provocar el abandono del lector. Todos deben llevar imágenes, que es el mecanismo que nos ayuda a *no perder el hilo*. En estos casos, sólo una imagen por tweet. Si hacen falta más mejor hacer un montaje.
 
@@ -120,3 +122,4 @@ Para obtener los enlaces a tipo de producto por municipio, hay que usar la herra
 A veces es necesario realizar búsquedas en Twitter. Algunos comandos necesarios son
 
 ![Imagen genérica](img/ayuda-twitter.jpg)
+

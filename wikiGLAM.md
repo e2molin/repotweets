@@ -35,7 +35,9 @@ Con motivo del Aniversario 150, una labor importante sería completar la página
   * Enlace externo al catálogo de National Library of Wales.
   * Imagen del MET con vínculos a Wikidata [👉 aquí ] (https://commons.wikimedia.org/wiki/File:Charles_Meryon,_The_Apse_of_Notre-Dame,_Paris,_1854_II.jpg)
   * Imagen de la British Library de un mapa con algunos de sus atributos. Buen ejemplo de cómo se informa de licencias de distribución. [👉 aquí ] (https://commons.wikimedia.org/wiki/File:Amba_Alagi._War_Office_ledger_(WOMAT-AFR-ABY-67-1).jpg)
-  * Otro ejemplo de un portulano de JAcomo MAggiolo subido por la BnF [👉 aquí ](https://commons.wikimedia.org/w/index.php?title=File:1563_Portolan_chart_of_the_Mediterranean_Sea,_the_Black_Sea_and_Northeastern_Atlantic_Ocean_by_Giacomo_Maggiolo.jpg&oldid=416942511)
+  * Otro ejemplo de un portulano de Jacomo Maggiolo subido por la BnF [👉 aquí ](https://commons.wikimedia.org/w/index.php?title=File:1563_Portolan_chart_of_the_Mediterranean_Sea,_the_Black_Sea_and_Northeastern_Atlantic_Ocean_by_Giacomo_Maggiolo.jpg&oldid=416942511)
+  * Más ejemplos, ahora de un anticuario [👉 aquí ](https://commons.wikimedia.org/wiki/File:1775_Bonne_Map_or_Chart_of_the_Spheres_and_Compass_Rose_-_Geographicus_-_Spheres-bonne-1775.jpg)
+  * Portulano de Jorge Aguiar galardondo con un premio image of the day [https://en.wikipedia.org/wiki/File:Jorge_Aguiar_1492_MR.jpg](https://en.wikipedia.org/wiki/File:Jorge_Aguiar_1492_MR.jpg)
 
 ## ♟ Estrategia
 
