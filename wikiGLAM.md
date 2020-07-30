@@ -38,6 +38,7 @@ Con motivo del Aniversario 150, una labor importante sería completar la página
   * Otro ejemplo de un portulano de Jacomo Maggiolo subido por la BnF [👉 aquí ](https://commons.wikimedia.org/w/index.php?title=File:1563_Portolan_chart_of_the_Mediterranean_Sea,_the_Black_Sea_and_Northeastern_Atlantic_Ocean_by_Giacomo_Maggiolo.jpg&oldid=416942511)
   * Más ejemplos, ahora de un anticuario [👉 aquí ](https://commons.wikimedia.org/wiki/File:1775_Bonne_Map_or_Chart_of_the_Spheres_and_Compass_Rose_-_Geographicus_-_Spheres-bonne-1775.jpg)
   * Portulano de Jorge Aguiar galardondo con un premio image of the day [https://en.wikipedia.org/wiki/File:Jorge_Aguiar_1492_MR.jpg](https://en.wikipedia.org/wiki/File:Jorge_Aguiar_1492_MR.jpg)
+  * El Norman B. Leventhal Map Center de Boston muestra el mapa de Turgot de París  [👉 así](https://commons.wikimedia.org/wiki/File:Turgot_map_of_Paris_-_Norman_B._Leventhal_Map_Center.jpg)
 
 ## ♟ Estrategia
 
