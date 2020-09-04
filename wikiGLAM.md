@@ -108,103 +108,10 @@ Con esta herramienta podemos ver los elementos de Wikipedia y WikiCommons georre
 
 ### 🔍 Wikidata Query Service
 
-Permite hacer consultas sobre Wikidata. Utiliza un lenguaje pseudo-sql realizando consultas SPARQL sobre Base de datos de Wikidata. En Wikidata todo se almacena en forma de tripletas que contienen **Sujeto - Predicado - Objeto**. Todos los sujetos y predicados tienen su entrada en Wikidata. Los objetos pueden ser entradas en Wikidata o cadenas de textos, números o fechas.
+Es un sistema que permite hacer consultas **SPARQL** a la base de datos de Wikipedia, la Wikidata. Dada la amplitud de este tema, se desarrolla en un artículo propio.
 
-![Estructura de una consulta SPARQL con Wikipedia](img/wiki-sparql.cheatsheet.jpg)
+[🔍 Wikidata Query Service 👉](wikiSPARQL.md)
 
-* Lista de propiedades [👉 https://www.wikidata.org/wiki/Wikidata:List_of_properties/es](https://www.wikidata.org/wiki/Wikidata:List_of_properties/es)
-* Lista de prefijos [👉  https://www.mediawiki.org/wiki/Wikibase/Indexing/RDF_Dump_Format#Full_list_of_prefixes](https://www.mediawiki.org/wiki/Wikibase/Indexing/RDF_Dump_Format#Full_list_of_prefixes)
-
-
-#### Ejemplos: Consulta de imágenes
-
-```sql
-#added before 2016-10
-#defaultView:ImageGrid
-SELECT *
-WHERE
-{
-  ?item wdt:P31 wd:Q3305213 .
-  ?item wdt:P170 wd:Q34661 .      
-  ?item wdt:P18 ?pic
-}
-```
-Las dos primeras líneas predecidad de almohadilla son parámetros por defecto en los que se establece que los datos sean anteriores a **octubre de 2016** y que el resultado de la consulta se muestre en forma de **rejilla de imágenes**. Luego se eligen los campos a mostrar y despuás tras la partícula WHERE, se establecen las condiciones. El prefijo *wdt* es indicativo de propiedad de entidad y el prefijo *wd* enlaza con una entidad determinada. Con el signo del punto, concatenamos condiciones.
-
- 
-* **wd:Q3305213** -> Código del tema: pintura ---> https://www.wikidata.org/wiki/Q3305213
-* **wd:Q34661** ->  Código de Gustav Klimt ---> https://www.wikidata.org/wiki/Q34661  . La propiedad **wdt:P170** es *Creador de la obra*.
-* **?item wdt:P18 ?pic** ->  Obligamos a que la entrada tenga un registro de imagen
-
-Si hubieramos querido scar cualquier registro que cunpliera criterios, y opcional que tuviera imagen, habríamos puesto
-```sql
-SELECT *
-WHERE
-{
-  ?item wdt:P31 wd:Q34661 .
-  ?item wdt:P170 wd:Q34661
-  OPTIONAL{      
-    ?item wdt:P18 ?pic
-  }
-}
-```
-
-Las almohadillas **#** se utilizan para introducir comentarios que aclaren la sentencia de consulta y para establecer propiedades por defecto mediante el uso de keywords; *added before*,  *defaultView*,....
-
-#### Obtener todos los cartógrafos de Wikipedia 
-
-Vamos a obtener todas las personas con su nombre, fecha de nacimiento, lugar de nacimiento, coordenadas de su nacimiento y periodo de tiempo al que pertenecen con la ocupación de cartógrafo o que se dediquen al mundo de la Cartografía. Las coordenadas las pintaremos sobre un mapa. El periodo de tiempo de su nacimiento lo establecemos como campo *layer* y la usaremos para agruparlos por colores. En el modo Mapa, el campo *?coord* se utiliza para situar el punto en el mapa y el campo *?layer* lo utilizamos para signarlo a una capa y poder pintarlo.
-
-```sql
-#?person wdt:P106 wd:Q188094 --> Persona / Ocupación / Cartógrafo
-#?person wdt:P101 wd:Q8134 --> Persona / Campo de trabajo / Cartografía
-#?person wdt:P21 wd:Q6581072 .  --> Que sean mujeres
-#wdt:P570 Fecha de nacimiento
-#wdt:P19 Lugar de nacimiento
-
-#defaultView:Map
-SELECT DISTINCT ?person ?name ?birthplace ?birthyear ?coord ?layer WHERE {
-{?person wdt:P106 wd:Q1734662} UNION {?person wdt:P101 wd:Q42515} .
-?person wdt:P21 wd:Q6581072 .
-?person wdt:P570 ?dod;  
-# Hasta aquí la consulta. Ahora definimos parámatros para mapear
-wdt:P19 ?place .
-?place wdt:P625 ?coord
-OPTIONAL { ?person wdt:P569 ?dob }
-BIND(YEAR(?dob) as ?birthyear)
-BIND(
-    IF((?birthyear < 1400),"Pre-1400",
-    IF((?birthyear < 1500),"Siglo XV", 
-    IF((?birthyear < 1600),"Siglo XVI",
-    IF((?birthyear < 1700),"Siglo XVII",      
-    IF((?birthyear < 1751),"1700-1750", 
-    IF((?birthyear < 1801),"1751-1800", 
-    IF((?birthyear < 1851),"1801-1850", 
-    IF((?birthyear < 1901),"1851-1900", 
-    IF((?birthyear < 1951),"1901-1950","Post-1950"))))))))) AS ?layer
-)
-?person rdfs:label ?name filter (lang(?name) = "en")
-?place rdfs:label ?birthplace filter (lang(?birthplace) = "en")
-} 
-ORDER BY ?birthyear #Ordenamos por año
-Limit 2000 # Limitamos resultados para agilidad en la consulta
-```
-
-Y si queremos coger sólo las mujeres cartógrafas, insertamos la condición después de la unión.
-
-```sql
-#(....)
-
-SELECT DISTINCT ?person ?name ?birthplace ?birthyear ?coord ?layer WHERE {
-{?person wdt:P106 wd:Q1734662} UNION {?person wdt:P101 wd:Q42515} .
-?person wdt:P21 wd:Q6581072 . # Esta condición establece que el sexo de ?person sean femenino
-
-#(...) 
-```
-
-![Mapa con las mujeres cartógrafas de Wikidata](img/wiki-woman-carto.png)
-
-El mapa permite moverse por su contenido y apagar y encender las clases mediante una tabla de contenidos situada a la derecha.
 
 ## 🎫 Licencias y permisos
 
