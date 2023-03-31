@@ -331,6 +331,49 @@ El resultado lo podemos representar con un diaframa de burbujas, al tener valore
 
 ![Partidos políticos por número de militantes](img/glam-bubblediagram.jpg)
 
+
+## Búsqueda de periodos históricos
+
+Buscamos los periodos históricos de la  Historia de Japón
+
+```sql
+# Buscamos eventos, así que usamos la particula event (podriamos usar cualquier otra)
+SELECT ?event ?eventLabel ?start_time ?end_time (YEAR(?start) as ?startLabel) (year(?end) as ?endLabel) 
+WHERE {
+    # La partícula wdt: nos permite poner una propiedad para el filtro
+    # La partícula wd: nos permite poner el valor por el que se filtra
+    ?event wdt:P31 wd:Q11514315; # Periodos históricos(Q11514315) 👉 P:31(instance of)
+           wdt:P361 wd:Q130436;  # Historia del Japón(Q130436)    👉 P:361(forma parte de) 
+        💚 wdt:P580 ?start_time;                   # Si lo ponemos así, sacará el valor sólo cuando haya fecha de comienzo
+        💙 OPTIONAL{ ?event wdt:P580 ?start_time } # Si lo ponemos así, sacará el valor haya o no haya valor de fecha de comienzo.
+    OPTIONAL{ ?event wdt:P582 ?end_time }
+    SERVICE wikibase:label { 
+      bd:serviceParam wikibase:language "[AUTO_LANGUAGE],es,en". # Primmero pone el valor en español, después en inglés
+    }   
+}
+ORDER BY year(?start)
+```
+
+Si queremos que aparezcan los eventos con fecha de comienzo y final definidas, evitando las nulas:
+
+```sql
+SELECT ?event ?eventLabel ?start_time ?end_time (YEAR(?start_time) as ?yearStart) (year(?end_time) as ?yearEnd) 
+WHERE {
+    ?event wdt:P31 wd:Q11514315;
+           wdt:P361 wd:Q130436;
+           wdt:P580 ?start_time;
+           wdt:P582 ?end_time;
+    MINUS { ?event wdt:P2348/wdt:P361 wd:Q130436 }  # excluimos las sub-eras
+    SERVICE wikibase:label { 
+      bd:serviceParam wikibase:language "[AUTO_LANGUAGE],es,en". # Primmero pone el valor en español, después en inglés
+    }   
+}
+ORDER BY year(?start_time)
+```
+
+
+
+
 ## Herramientas complementarias
 
 Una de las herramientas más interesantes para utilizar con consultas SPARQL es [Histropedia](http://histropedia.com/). Podemos definir una consuta y llevarla a esta web, que mediante un asistente nos permitirá crear interesantes visualizadores de estilo Línea del tiempo o *Timeline*.
@@ -339,4 +382,5 @@ Una de las herramientas más interesantes para utilizar con consultas SPARQL es 
 ## Fuentes
 
 * Navino Evans explicando consultas básicas [📽 Vídeo 👉](https://www.youtube.com/watch?v=b3ft3CzkLYk)
+* https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples/es#Historia
 
