@@ -1,3 +1,35 @@
+
+## ⌛️ 2024-11-07
+
+🍉 Cargando datos de Colmenares
+
+```sql
+select * from bdsidschema.archivodocmtn where sellado in
+(
+503691,503692,503693,503750,504173,504174,504175,504176,504177,504178,504179,504180,504181,504182,504183,504184,504185,504186,504187,504188,504189,504190,504191,504192,504231,504232,504233,504234,506204,506205,506206,506207,506208,506209,506210,506211,506212,506213,506343,506344,506345,503647
+);
+```
+
+💿 `D:\WorkLocal\Archivo Topografico\20231024 - Escaneado masivo de cuadernos interiores `
+
+20241007 - Suma de datos - Duplicados Segunda revision - Colmenares.xlsx
+Lo último actulziado han sido el campo zona_num
+
+
+🍉 Analizo los históricos
+
+\\sbdignmad801.ign.fomento.es\DELIMITACIONES_TERRITORIALES\Historicos\Historico\Shape-1995\SHP
+
+
+🍉 Añadimos etiquetas a los eventos de efemérides:
+
+* **HistoCarto**: evento relacionado con la historia de la cartografía o vida de un cartógrafo, geógrafo, matemático, grabador, impresor, editor de mapas...
+* **CartoEvent**: evento relacionado directamente con un mapa o conjunto de mapas.
+* **HistoEvent**: evento histórico que hemos conectado con algún mapa de la cartografía.
+* **HistoIGN**: evento o personaje relacionado con el IGN
+
+
+
 ## ⌛️ 2024-11-04
 
 ### Mapas de España siglo XIX y om,ienzos siglo XX
@@ -85,10 +117,12 @@ absoluta de los astros en la esfera celeste.
 * Vincenzo Maria Coronelli (August 16, 1650 – December 9, 1718)
 * Stefano Bonsignori or Buonsignori (died 21 September 1589, in Florence)
 * Ignazio (or Egnazio) Danti, O.P. (April 1536 – 10 October 1586)
-* Urbano Monti (16 August 1544 – 15 May 1613;)
-* Matteo Ricci 6 October 1552 – 11 May 1610)
+* Urbano Monti (16 August 1544 – 15 May 1613)
+* Matteo Ricci (6 October 1552 – 11 May 1610)
 * Conrad Malte-Brun (Thisted, Dinamarca, 12 de agosto de 1755 - París, Francia, 14 de diciembre de 1826) 
-* Pascual Madoz e Ibáñez (Pamplona, 17 de mayo de 1806-Génova, 11 de diciembre de 1870
+* Pascual Madoz e Ibáñez (Pamplona, 17 de mayo de 1806-Génova, 11 de diciembre de 1870)
 * López de Vargas Machuca, Tomás. Madrid, 1730 – 19.VII.1802.
-* 
+* Adolf Repsold (* 31. August 1806 in Hamburg; † 13. März 1871 ebenda)
+* Jerónimo Pedro Mathet Rodríguez (Madrid, 7 de abril de 1878-Madrid, 28 de noviembre de 1936)
+* Rigobert Bonne (Raucourt, 6 de octubre de 1727 - 2 de noviembre de 1795)
 
