@@ -1,5 +1,36 @@
+## ⌛️ 2024-11-09
 
-## ⌛️ 2024-11-07
+Documentación de SIDDAE preparada para el CdD
+
+* 1322 documentos nuevos (25Gb)
+* 297 documentos modificados (4Gb)
+
+💿 `D:\volcadosCDD`
+
+### 🔍 Averiguar sobre el Planisferio de Vesconte Maggiolo de 1531
+
+[Este mapa de La biblioteca de Macao](http://lunamap.must.edu.mo/luna/servlet/view/search/when/1527?q=maggiolo&sort=identifier%2Ctitle%2Ccontributor%2Ctype) es de 1527
+
+Echar un vistazo a estos [catálogos de Daniel Crouch](https://crouchrarebooks.com/catalogues-rare-maps-atlases-books/)
+
+España dividida segun acostumbran los geografos - El mapa regional 1456-1850 - Jesus Burqueño
+
+### Lecturas
+
+* La historia de Europa de Péres-Reverte [Artículos 🔗](https://www.zendalibros.com/tag/una-historia-de-europa/)
+* Mapas italianos Guerra Civil [Artículo 🔗](https://www.geografiainfinita.com/2021/05/los-mapas-italianos-de-espana-para-la-guerra-civil/)
+
+
+### 💻 Desarrollo
+
+¡TRUCAZO para liberar GIGAS de tu disco duro! Si eres programador y usas NPM...
+
+Ejecuta el comando: `npx npkill`
+
+Muestra las carpetas node_modules y lo que ocupan. Dale [Espacio] para eliminar las que no uses ↓
+
+
+## ⌛️ 2024-11-08
 
 🍉 Cargando datos de Colmenares
 
