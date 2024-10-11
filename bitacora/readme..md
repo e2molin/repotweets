@@ -1,4 +1,43 @@
-## ⌛️ 2024-11-09
+## ⌛️ 2024-10-11
+
+### 🧵 Nociones de caligrafía [Enlace en Twitter](https://x.com/bne_biblioteca/status/1821876681293914427?s=48)
+### ⚗️ Desarrollo de mapas interactivos con Quarto [Enlace al tutorial](https://neocarto.github.io/geounivr2024/VEN1_geoviz_TP/docs/index.html)
+### 😎 Artículo: The Way to Mecca [Revista de LOC](https://loc.gov/lcm/pdf/LCM_2024_0708.pdf)
+### 📰 Disponible nueva versión de Natural Earth [Version 6](https://shadedrelief.com/ne-draft/)
+### 🧰 drawDB. Esquemas de base de datos [🔗 Enlace](https://www.drawdb.app/)
+### 🧰 Swapy. Librería para hacer dragdrop en JS [🔗 Enlace](https://swapy.tahazsh.com/)
+### 🧰 Two-Up-Element. Librería de comparación de dos imágenes [🔗 Enlace](https://github.com/GoogleChromeLabs/two-up)
+### 😎 Artículo: Las Guias Freytag & Berndt [🔗 Enlace](https://www.geografiainfinita.com/2017/06/freytag-berndt-los-mejores-mapas-de-carreteras-del-mundo) 
+
+### 🌐 Carte Topographique De La France de l'Etat-Major, Levee et Publi
+
+Creada entre 1832 y 1876 a escala 1:80.000. [🔗 Mosaico de 267 imágenes](https://www.davidrumsey.com/luna/servlet/s/1fn8qy)
+
+Tenemos artículo seobre esto `2022 - La cartografia de Francia 1832-1876 - Jean-Luc Arnaud.pdf` [🔗 Enlace](https://shs.hal.science/halshs-03688084v1/document)
+
+### 🐳 Docker del Catálogo de la Cartoteca
+
+Ya me he logado y actualizado la contraseña a la habitual italiana
+
+
+
+---
+## ⌛️ 2024-10-10
+
+Comienzo los contactos con TAYSA para el Catálogo
+
+> https://meet.google.com/jxf-hehs-ofb
+
+Me crean una máquina de desarrollo con Docker
+
+10.67.33.46
+esteban.emolin // Cnig.2024
+
+Tienes que entrar con por SSH ( putty ) y la primera vez pedirá un cambio de contraseña.
+Tu directorio de trabajo en /docker/cartoteca puedes dejar ahí los ficheros.
+
+---
+## ⌛️ 2024-10-09
 
 Documentación de SIDDAE preparada para el CdD
 
@@ -15,7 +54,7 @@ Echar un vistazo a estos [catálogos de Daniel Crouch](https://crouchrarebooks.c
 
 España dividida segun acostumbran los geografos - El mapa regional 1456-1850 - Jesus Burqueño
 
-### Lecturas
+### 😎 Lecturas
 
 * La historia de Europa de Péres-Reverte [Artículos 🔗](https://www.zendalibros.com/tag/una-historia-de-europa/)
 * Mapas italianos Guerra Civil [Artículo 🔗](https://www.geografiainfinita.com/2021/05/los-mapas-italianos-de-espana-para-la-guerra-civil/)
@@ -30,7 +69,7 @@ Ejecuta el comando: `npx npkill`
 Muestra las carpetas node_modules y lo que ocupan. Dale [Espacio] para eliminar las que no uses ↓
 
 
-## ⌛️ 2024-11-08
+## ⌛️ 2024-10-08
 
 🍉 Cargando datos de Colmenares
 
@@ -61,7 +100,7 @@ Lo último actulziado han sido el campo zona_num
 
 
 
-## ⌛️ 2024-11-04
+## ⌛️ 2024-10-04
 
 ### Mapas de España siglo XIX y om,ienzos siglo XX
 
