@@ -1,3 +1,130 @@
+## ⌛️ 2024-10-17
+
+Ejemplos de búsquedas en PARES https://pares.cultura.gob.es/pares-htr/help
+
+
+## Ibercarto
+
+### 🎤 Carla sobre mapas provinciales 1765-1865
+
+Noelia Ramos habla sobre los mapas provinciales entre los siglos XVIII y XIX. Concretamente entre los dos cartógrafos más destacados, Tomás López y Francisco Coello. Vincula los mapas a la creación del estado mediante la división de la administración territorial.
+
+Han utilizado herramientas de ARCGIS Storymaps para hacer [este proyecto](https://storymaps.arcgis.com/collections/968f6459a645438fb3c7d274bf14a315)
+
+Es un trabajo en colaboración con Jesús Burgueño de la Universitat de Lleida
+
+Mapas muy curiosos como la baraja de naipes de Heraclio Fournier con la división provincial española.
+
+Los mapas en su mayor parte son enlazables, esto es, el mapa no se descarga, se vincula como servicio (tecnologías IIIF)
+
+
+### 🎤 Carme Muntaner sobre Cartografía y Mapa
+
+La representación del territorio se llamaba en un principio *carta*, luego evolucionó a la palabra *mapa*, que previene del italiano *mappa*, servilleta, manta. Después se le llamó **Cartografía**.
+
+El mapa es el objeto físico, la **Cartografía** es la disciplina.
+
+La palabra cartografía es una palabra relativamente moderna, del siglo XIX. Malte Brun la usa por primera vez en 1808. 
+
+Cartografía es una palabra de origen latin neutro, luego desde el punto de vista de la Filología no deberia tener plural, aunque sí se lo demos habitualmente.
+
+En América se usa Mapoteca en vez de Cartoteca. El concepto Cartoteca no estaba en la RAE. Tanto Luísa Martín Merás con la colaboración desde dentro de la RAE de Perez-Reverte consiguieron incluirla
+
+Los ingleses para hacer mappas utilizan una palabra: **mapping**
+
+El Arte ha hecho uso de la palabra **Cartografía**, prefiriéndola a la palabra mapa, quizás por tener un origen más culto. La palabra **cartografía** usada en estos términos, deja de ser una disciplina, para convertirse en un objeto. Y nos muestra ejemplos de Antonio Álvarez Gordillo, Reena Saini Kallat o de Fernando Vicente, que hacen arte a partir de mapas. Pero después el Arte da un paso más, y una vez objetivizada, la palabra es pluralizada, **cartografías**, ampliando su significado a conceptos que no tienen por qué ser geográficos: cartografías del sentimiento,m cartografías del deseo, ... estamos rodeados de ejemplos.
+
+### 🎤 Salamanca
+
+Biblioteca de la Universidad de Salamanca se nutre entre sus fondos del Colegio Mayor de Cuenca y  Colegio de los Jesuitas
+Manuscrito 1257 Unico mapa moderno con una representación del norte de africa. Se inserta posteriormente
+
+Edicines impresas
+Joan Schott en 1513 (mapa de la lotaringia) basado en waldsmuller
+
+1578 geografia de mercator. En salamanca tienen la del 1584 . tienen la de 1605 de Hondius
+
+descriptiones ptolemaica argumentom. Mapas regionales americanos
+
+1544 primera de Muenster
+
+Orteluis
+primer autor de mapas seriados y reducidos al mismo tamaño(Tistintos ecalas) 1570 primer erstado de plancha 73,74, primera traduccion en 1588 y una postrera de 1612
+del mapa de españa tuvo 5 estados de plancha, del que salamanca tiene 4
+
+Un competidor de ortelius fue gerard de jode en 1573 pide permiso de impresion pero se lo deniegan hasta 1578 en que se lo conceden speculum orbis terrarum. su hijo cornelis hace una posterior en 1593 y son los que hay en salamanca
+
+mercator
+sus hijos editan hasta 1602 en que las planchas son compradas por jodocus hondius  y cornelius de claenz. MAntienen el nombre por el prestigio. 
+Su primera edicion es de 1606. Atlas mercator hondiois: 36 mapas nuevos que no hizo mercator, como el del lago leman
+
+Thomas Schoepf's, mapa antiguo de berna en 18 hojas. en 1612 una de las obras prohibidas es esta. frontis de retratos calvinistas oculta por una cenefa, realziada posiblemente
+por fray placido de todos los dantos, abad de  del convento san martind e madrid y general de la orden de los benedictinos. Segun parece el expurgo lo hixo en enero de 1613
+es una teoria al no tener el exlibris de la portada
+
+
+Gabriel de toledo y avalos. 22 mapas. Atlas facticios. formato a doblar mapa sobre si mismos.
+
+Blaeu
+los globos mas grandes de 68 centimetros, terretsre y celeste. son el septimo estado hacia 1640. aparece california por priemra vez como una isla. en el primer estado del globo era peninsula. 
+la expedicion de vizcaino, fray antonio de la ascenson, salmantino que relata la expedicion y sucesivas cartas a felipe3 y felipe4, transmite que california era una isla
+
+Ediocnes en español, dos
+
+
+civitates orbis terrarum
+Planos y mapas de Francesco Guicciardini
+
+
+Islario de Bordone (3 de bordone) y Tomaso Porcacchi 1572 (7 ediciones). En el IGN tenemos la de 1620
+
+islario de vellerino de villalobos https://gredos.usal.es/handle/10366/129725
+
+libros de wagennaer, tienen dos atlases
+
+Johannes jansonius
+
+Atlas de la bohemia de tomas lopez https://bdh.bne.es/bnesearch/detalle/bdh0000001267;jsessionid=F88773222B0BB9912C85525234620619
+
+
+OJO: mapas de lopez de arregui por encargo del virrey para separar obistaps de guadalajara y del nueva galicia
+
+Vista de plasencia 1573 wyngaerde hoefnagel entre 1531 y 1537. wyngaerde llega un poc dospes. algunod e sus oficieles que vino con e,los piudo hacerlo
+
+mapa españa jose fores
+
+mapas leones en los paises bajos
+
+repositorio gredos
+
+
+---
+
+mapas militares frente norte 1936-1939
+
+114,escalas 50 y 25.Archivo francisco iglesias brage
+mitad nborte de españa: asturias, leon, cantabria, euskadi, sierra madrid, plasencia
+Se le nom,bra jefe del estado mayor de las fuerzas aereas.
+
+https://rcg.cat/contingut/ingeniera-y-ciencia-en-el-siglo-xx-a-travs-de-la-coleccin-cartogrfica-e-iconogrfica-de-francisco-iglesias-brag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ⌛️ 2024-10-11
 
 ### 🧵 Nociones de caligrafía [Enlace en Twitter](https://x.com/bne_biblioteca/status/1821876681293914427?s=48)
