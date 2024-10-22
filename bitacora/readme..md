@@ -1,3 +1,62 @@
+## ⌛️ 2024-10-22
+
+Comienzan las conferencias ICA - Digital Approaches to Cartographic Heritage
+https://cartography.web.auth.gr/ICA-Heritage/Bologna2024/Conference_Program_2024.pdf
+
+https://unminify.com/#google_vignette
+https://www.tradingview.com/lightweight-charts/
+
+
+CSS Overview: Extensión de Chrome para optimikzar CSS
+
+Coleccion cartografico del archivo nacional Torre do tombo https://digitarq.arquivos.pt/details?id=4162622
+
+Regnum Chinae: The Printed Western Maps of China to 1735
+https://brill.com/display/title/39120
+
+Elementos ARIA
+https://youtu.be/SEbsmQRB2go?si=drRQ1xxVpD9mppw_
+
+Puzzles cartograficos
+https://historia.nationalgeographic.com.es/a/mapas-fuente-inspiracion-para-crear-primer-puzle_20765
+
+
+Busqueda texto en PGSQL
+https://blog.kaleidos.net/como-usar-busqueda-de-texto-en-postgresql/
+
+Conceptos tipograficos
+https://avark.agency/typeterms/
+
+https://blogs.loc.gov/maps/2024/03/fabricating-the-world-copperplate-printing/
+
+COnceptos de Coleccion dCartografia
+https://www.raremapsandprints.co.uk/blog/collecting-antique-maps-is-it-original-or-reproduction-where-to-start
+
+Libros de referencia
+https://www.raremapsandprints.co.uk/reference-books.html
+
+Mapas turísticos de España, por Jacques Liozu (1953)
+https://newsletter.mapasmilhaud.com/p/mapas-turisticos-de-espana-por-jacques
+
+California, Isla o península?
+https://www.atlasobscura.com/articles/california-island-maps
+
+https://adit.co.uk/clock.html
+
+
+El TRÍPODE TOPOGRÁFICO moderno, resistente pero portátil, con patas articuladas a un cabezal metálico triangular, fue inventado y fabricado por 1ª vez para su venta por el ingeniero inglés Sir Francis Ronalds sobre 1830.
+
+
+Plataforma Omeka S
+https://omeka.org/s/
+
+
+https://www.youtube.com/playlist?list=PLrtk2b5KQ79YP_L8Lr-6qcwcc1xP2lJzQ
+
+IIIF
+https://universalviewer.io/
+
+
 ## ⌛️ 2024-10-17
 
 Ejemplos de búsquedas en PARES https://pares.cultura.gob.es/pares-htr/help
