@@ -1,3 +1,54 @@
+# Bitácora
+
+`⌛️ Fecha` `🗺️ Cartografía` `👀 Lecturas` `⛑️ Trabajo` `🧰 Recursos` `🎞️ Vídeos` `🍊 Genérico` `💿 Ruta Física` `🔗 Enlace Web` `🎤 Ponencia`
+
+`📫 Mail` `⛲️ Fuentes` `💊 Tip`
+
+`🍉 Encabezado 1`  `🥝 Encabezado 2` `🥕 Encabezado 3` `🍋 Encabezado 3`
+
+
+
+
+---
+
+
+## ⌛️ 2024-10-24
+
+### ⛑️ Trabajo
+
+* Copìados los cuadernos interiores restantes para el CdD
+
+### 🗺️ Cartografía
+
+* 🍊 Páralax con historia de la cartografía  [🔗 Enlace](https://www.ign.fr/reperes/30-cartes-qui-racontent-lhistoire-de-la-cartographie)
+* 💻 Desarrollo de la Carta de Cassini por el IGN.FR [🔗 Enlace](https://macarte.ign.fr/carte/FxwkSm/Ma-Cassini)
+* 🍊 Historia de la Infografía [🔗 Enlace](https://history.infowetrust.com/)
+* 💻 Generador de panoramoas usando MDT [🔗 Enlace](https://www.udeuschle.de/panoramas/makepanoramas_en.htm)
+
+### 🧑‍🏫 Aprendiendo
+
+* 🍊 Detail page de un mapa en Simurg (CSIC) con **IIIF** embebido [🔗 Enlace](http://simurg.csic.es/view/990009207890204201) 
+* 🍊 Detail page de un mapa en Osher con **IIIF** embebido [🔗 Enlace](https://oshermaps.org/map/57908.0001) 
+* 🍊 Curating, georeferencing and exploring for **IIIF** maps [🔗 Enlace](https://allmaps.org/)
+  * https://www.leventhalmap.org/about/jobs/allmaps-ux-ui-developer/
+* 🍊 Blog de Historia con AI [🔗 Enlace](https://www.historica.org/blog)
+* 🎞️ PHP Slim con React y WebTokens [🔗 Videos](https://www.youtube.com/watch?v=blNngUuEKjg&list=PLCQLrBX0OZkjnQe3Gt1RBm5IJizlkURrm)
+* 🐋 Taller de **Docker** [🔗 Enlace](https://www.youtube.com/watch?v=QOtOv3h42ew)
+* 🐘 **PostgreSQL** Tips de Administración [🔗 Enlace](https://www.crunchydata.com/postgres-tips)
+
+### 👀 Lecturas
+
+* 🍊 Cartes-à-figures, a short-lived fashion promoted by Blaeu and Hondius. Sobre los mapas orlados o paneles decorativos [🔗 Enlace](https://www.cartahistorica.com/blog/journal/cartes-a-figures-a-short-lived-fashion-promoted-by-blaeu-and-hondius/)
+* 🍊 Artículo: Sobre los Atlas de Geografía del siglo XIX
+* 📘 Libro sobre el tema: [Geografía 1880](https://www.kickstarter.com/projects/alpoma/make100-geography-1880) [📫 mail](mailto:alpoma@gmail.com)
+
+### 🧰 Recursos
+
+* 🧰 Repositorio de marcas y logos. En SVG descargables [🔗 Enlace](https://svgl.app/)
+* 💊 Ejecutar el comando `npx npkill` para que muestra las carpetas node_modules y sus tamaños
+
+
+---
 ## ⌛️ 2024-10-22
 
 Comienzan las conferencias ICA - Digital Approaches to Cartographic Heritage
