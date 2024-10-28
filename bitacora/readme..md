@@ -2,11 +2,58 @@
 
 `⌛️ Fecha` `🗺️ Cartografía` `👀 Lecturas` `⛑️ Trabajo` `🧰 Recursos` `🎞️ Vídeos` `🍊 Genérico` `💿 Ruta Física` `🔗 Enlace Web` `🎤 Ponencia`
 
-`📫 Mail` `⛲️ Fuentes` `💊 Tip`
+`📫 Mail` `⛲️ Fuentes` `💊 Tip` `💡 Destacado` 
 
 `🍉 Encabezado 1`  `🥝 Encabezado 2` `🥕 Encabezado 3` `🍋 Encabezado 3`
 
+---
 
+## ⌛️ 2024-10-28
+
+* 💡 Aplicación  para ver [ 🔗map files de Mapserver online](https://app.mapserverstudio.net/) y [nueva versión MS4W](https://ms4w.com/index.html) de Mapserver para Windows, septiembre 2024.
+* 💊 Los antiguos paneles de información de las estaciones de tren como Chamartín se llamaban  [🔗 split-flap display](https://en.wikipedia.org/wiki/Split-flap_display)
+
+
+
+
+### 👀 Lecturas
+
+* [Atlas of Mutual Heritage](https://www.atlasofmutualheritage.nl/) es una base de datos en crecimiento con información e imágenes de lugares en el área de operación de la VOC (Compañía Holandesa de las Indias Orientales) y la WIC (Compañía Holandesa de las Indias Occidentales). Se puede buscar información, mapas, dibujos, grabados y pinturas de lugares relacionados. Proyecto con la colaboración de Dutch National Archive (Nationaal Archief), Dutch Heritage Agency (Rijksdienst voor het Cultureel Erfgoed), y el Rijksmuseum y la Biblioteca Nacional (Koninklijke Bibliotheek).
+*  Blog de cátedra naval [🔗 Enlace](https://blogcatedranaval.com/)
+   *  Cartografía de Tomás López [🔗 Enlace](https://blogcatedranaval.com/2018/06/05/la-cartografia-del-taller-de-tomas-lopez/)
+* Exposición online Cartografía persuasiva en la Cornwell University [🔗 Enlace](https://rmc.library.cornell.edu/latitude/introduction.php)
+* Why was this Sea in North America on Old Maps? [🔗 Video](https://www.youtube.com/watch?v=PFYwf3nqf7I)
+* 📆 Ephemeris: El 26 de marzo de 2023 fallece a los 96 años Virginia T. Norwood, la madre de Landsat. [🔗 Enlace](https://landsat.gsfc.nasa.gov/article/bidding-farewell-to-virginia-t-norwood-the-mother-of-landsat/)
+  * Virginia Norwood fue una física estadounidense, más conocida por sus contribuciones al programa Landsat, ya que diseñó el escáner multiespectral que se utilizó por primera vez en Landsat 1. Por este trabajo, obtuvo el título de "Madre de Landsat".
+  * El 18 de noviembre de 2022, la Sociedad Geográfica Estadounidense reconoció a la Sra. Norwood por sus inmensas contribuciones al campo de la cartografía y la geodesia al otorgarle la Medalla cartográfica OM Miller durante la Ceremonia de premios y honores en el Simposio anual de Geografía 2050.
+* Mapa de Mercator del Artico [🔗 Enlace](https://arctic.rhewlif.xyz/)
+* 💡Expo en la JCB Library. [Interesante manera de mostrar un storymap, mezclando gallerys con parallax](https://jcblibrary.org/exhibitions/bodies-waterbodies-work)
+* A Comparison Of Major Worldviews in the last 2000 years. Comparación entre la cosmogonía budista, islámica... [🔗 Enlace](https://www.swaen.com/articles-about-maps/a-comparison-of-major-worldviews-in-the-last-2000-years)
+* A “Radically Different” World Map? [🔗 Enlace](https://www.mappingasprocess.net/blog/2021/2/17/a-radically-different-world-map)
+
+
+---
+
+## ⌛️ 2024-10-25
+
+### 🧑‍🏫 Aprendiendo
+
+* Taller de Prisma ORM con Node.JS y MongoDB [🔗 Enlace](https://www.youtube.com/playlist?list=PLIGDNOJWiL1_ygbYCizW9ORMazELD9foK)
+* Taller de formación IIIF [🔗 Enlace](https://doc.biblissima.fr/formation-iiif/)
+* Catalogación
+  * Reglas de catalogación de los recurso cartográficos en Yale [🔗 Enlace](https://web.library.yale.edu/cataloging/cartographic)
+  * Libro interesante en [🔗 Enlace](https://www.amazon.com/RDA-Cartographic-Resources-Paige-Andrew/dp/0838911315)
+  * Vídeo sobre la catalogación de mapas [🔗 Enlace](https://www.youtube.com/watch?v=KD48Q9gNg5w) de Carolyn Hansen de la [AGSL](https://uwm.edu/libraries/agsl/)
+  * Map Cataloger Toolbox [🔗 Enlace](https://www.acsu.buffalo.edu/~dbertuca/maps/cat/map-cat-toolbox.html)
+
+### 👀 Lecturas
+
+* Web de digitalización de sellos de mapas [🔗 Enlace](https://mapsonstampsdb.com/)
+* Mapa de Tequaltiche (Jalisco) [🔗 Enlace](https://twitter.com/arcdelahistori/status/1621901791238438915)
+
+### 🧰 Recursos
+
+* 🧰 Diccionario de la RAE 2024. [Lista de palabras](https://github.com/JorgeDuenasLerin/diccionario-espanol-txt) 
 
 
 ---
@@ -232,7 +279,7 @@ https://rcg.cat/contingut/ingeniera-y-ciencia-en-el-siglo-xx-a-travs-de-la-colec
 
 
 
-
+---
 
 
 ## ⌛️ 2024-10-11
