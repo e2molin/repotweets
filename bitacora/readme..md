@@ -8,12 +8,45 @@
 
 ---
 
+## ⌛️ 2024-10-29
+
+### 👀 Lecturas
+
+* Cuando se pensaba que California era una isla [🔗 Enlace](https://www.vistaalmar.es/ciencia-tecnologia/historia/9998-cuando-pensaba-california-una-isla.html)
+* Database de Mapas históruicos de la Universidad de Yokohama [🔗 Enlace](https://www-user.yokohama-cu.ac.jp/~ycu-rare/pages/WC-0_27.html)
+  * https://www-user.yokohama-cu.ac.jp/~ycu-rare/list1.html
+* 🧭 Portulanos 
+  * ¿Cómo se usaba una carta plana? [🔗 Enlace](https://blogcatedranaval.com/2018/09/18/como-se-usaba-una-carta-plana/)
+  * Rule of marteloio [🔗 Enlace](https://en.m.wikipedia.org/wiki/Rule_of_marteloio)
+  * Red de rumbos [🔗 Enlace](https://en.wikipedia.org/wiki/Rhumbline_network)
+  > Las líneas rectas que se muestran entrecruzadas en los mapas portulanos representan las dieciséis direcciones (o rumbos) de la brújula del navegante desde un punto determinado, que se convirtieron en treinta y dos direcciones a partir de 1450 aproximadamente.
+
+  > Las líneas se llaman Marteloio y son las llamadas loxodromas (líneas de dirección de brújula constante)
+* 🎦 PIRI REIS, Dibujando el Mundo (Promo) [🔗 Enlace](https://www.youtube.com/watch?v=B92kjBsgzvI) 
+* 🎦 Vídeos sobre la conferencia de Astronomía *Star Lore from Babylonia to Brahe* en la Universidad de Michigan [🔗 Enlace](https://early-astronomy.classics.lsa.umich.edu/conference_video.php)
+* 🎦 Kurt Vonnegut, Shape of Stories (subtitulos castellano) [🔗 Enlace](https://youtu.be/GOGru_4z1Vc?si=jtEOE8c-f2KyseYH)
+* El litoral del Reino de Granada en los portulanos de Piri Reis [🔗 Enlace](https://www.elindependientedegranada.es/cultura/litoral-reino-granada-portulanos-piri-reis-ca1470-1554)
+* Cuando el mayor científico de todos los tiempos corrigió en 1799 la posición de Ferrol en el mapa [🔗 Enlace](https://vadebarcos.net/2021/05/15/cuando-el-mayor-cientifico-de-todos-los-tiempos-corrigio-la-posicion-de-ferrol-en-el-mapa/)
+* El georama: la Tierra como espectáculo [🔗 Enlace](https://historia.nationalgeographic.com.es/a/georama-tierra-como-espectaculo_13848)
+* La vida de Philliper Buache. Espectacylar [🔗 Enlace](https://fr.wikipedia.org/wiki/Philippe_Buache)
+* Mapa con la fotos de J. Laurent [🔗 Enlace](https://www.google.com/maps/d/u/0/viewer?mid=1GmM2ld5utYdI385S3Q1ZAPkWU8sbomJh&ll=40.73659453500983%2C-4.746914089680545&z=6)
+* Mujeres impresoras. Micrositio de la BNE [🔗 Enlace](https://www.bne.es/es/Micrositios/Guias/MujeresImpresoras/Introduccion/)
+
+### 🧰 Recursos
+
+* Charts CSS: gráficas sin usar JavaScript. HTML semántico [🔗 Enlace](https://chartscss.org/)
+
+### 🧑‍🏫 Aprendiendo
+
+* Expresiones regulares [🔗 Enlace](https://www.youtube.com/watch?v=MRKpVxn5fqI)
+
+
+
+
 ## ⌛️ 2024-10-28
 
-* 💡 Aplicación  para ver [ 🔗map files de Mapserver online](https://app.mapserverstudio.net/) y [nueva versión MS4W](https://ms4w.com/index.html) de Mapserver para Windows, septiembre 2024.
+* 💡 Aplicación  para ver [🔗 map files de Mapserver online](https://app.mapserverstudio.net/) y [nueva versión MS4W](https://ms4w.com/index.html) de Mapserver para Windows, septiembre 2024.
 * 💊 Los antiguos paneles de información de las estaciones de tren como Chamartín se llamaban  [🔗 split-flap display](https://en.wikipedia.org/wiki/Split-flap_display)
-
-
 
 
 ### 👀 Lecturas
