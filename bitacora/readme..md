@@ -8,9 +8,13 @@
 
 ---
 
-## ⌛️ 2024-10-30
+## ⌛️ 2024-11-04
 
-
+Página en holandés que hay que revisar sobre la pedición de topografía en el XVII
+https://www.dirtsyndicate.nl/Ameland/amelandtekaart.webklik.nl/page/landmeten.html
+https://rijksmuseumboerhaave.nl/collectie/verhalen/canon/Beemster/Landmeetkunde/
+https://www.amelanderhistorie.nl/products/uit-de-rijke-historie-van-ameland-jan-bleeker/
+https://www.blikkenemmer.nl/upload/18A%20nieuwsbrief%20Landmeter%20van%20Beurdenweg%208e%20%20%20def%20versie%2027-1-16%2024.00%20u.pdf
 
 
 
@@ -195,6 +199,7 @@ https://www.youtube.com/playlist?list=PLrtk2b5KQ79YP_L8Lr-6qcwcc1xP2lJzQ
 IIIF
 https://universalviewer.io/
 
+---
 
 ## ⌛️ 2024-10-17
 
@@ -211,7 +216,7 @@ Han utilizado herramientas de ARCGIS Storymaps para hacer [este proyecto](https:
 
 Es un trabajo en colaboración con Jesús Burgueño de la Universitat de Lleida
 
-Mapas muy curiosos como la baraja de naipes de Heraclio Fournier con la división provincial española.
+Mapas muy curiosos como la *baraja de naipes* de **Heraclio Fournier** con la división provincial española.
 
 Los mapas en su mayor parte son enlazables, esto es, el mapa no se descarga, se vincula como servicio (tecnologías IIIF)
 
@@ -234,27 +239,24 @@ El Arte ha hecho uso de la palabra **Cartografía**, prefiriéndola a la palabra
 
 ### 🎤 Salamanca
 
-Biblioteca de la Universidad de Salamanca se nutre entre sus fondos del Colegio Mayor de Cuenca y  Colegio de los Jesuitas
+Presentación exponiendo las obras de la Biblioteca, haciendo una pequeña historia de la cartografía. Biblioteca de la Universidad de Salamanca se nutre entre sus fondos del Colegio Mayor de Cuenca y del Colegio de los Jesuitas. 
+
 Manuscrito 1257 Unico mapa moderno con una representación del norte de africa. Se inserta posteriormente
 
-Edicines impresas
-Joan Schott en 1513 (mapa de la lotaringia) basado en waldsmuller
+Ediciones impresas
 
-1578 geografia de mercator. En salamanca tienen la del 1584 . tienen la de 1605 de Hondius
+* Joan Schott en 1513 (mapa de la lotaringia) basado en waldsmuller
+* 1578 geografia de mercator. En salamanca tienen la del 1584 . tienen la de 1605 de Hondius
+* descriptiones ptolemaica argumentom. Mapas regionales americanos
+* Primera edición de Münster de 1544.
 
-descriptiones ptolemaica argumentom. Mapas regionales americanos
+**Ortelius**: primer autor de mapas seriados y reducidos al mismo tamaño (Por lo tanto, distintas escalas): primera edicón en 1570: ediciones en 1573, 1574. Primera traducción en 1588. Edición postrera de 1612
 
-1544 primera de Muenster
+El mapa de españa tuvo 5 estados de plancha, del que salamanca tiene 4
 
-Orteluis
-primer autor de mapas seriados y reducidos al mismo tamaño(Tistintos ecalas) 1570 primer erstado de plancha 73,74, primera traduccion en 1588 y una postrera de 1612
-del mapa de españa tuvo 5 estados de plancha, del que salamanca tiene 4
+Un competidor de Ortelius fue **Gerard de Jode**. En 1573 pide permiso de impresion pero se lo deniegan hasta 1578 en que se lo conceden y publica su *Speculum Orbis Terrarum*. Su hijo **Cornelis de Jode** hace una posterior en 1593 y son los que hay en Salamanca.
 
-Un competidor de ortelius fue gerard de jode en 1573 pide permiso de impresion pero se lo deniegan hasta 1578 en que se lo conceden speculum orbis terrarum. su hijo cornelis hace una posterior en 1593 y son los que hay en salamanca
-
-mercator
-sus hijos editan hasta 1602 en que las planchas son compradas por jodocus hondius  y cornelius de claenz. MAntienen el nombre por el prestigio. 
-Su primera edicion es de 1606. Atlas mercator hondiois: 36 mapas nuevos que no hizo mercator, como el del lago leman
+**Mercator**: sus hijos editan hasta 1602 en que las planchas son compradas por **Jodocus Hondius** y **Cornelius de Claenz**. Mantienen el nombre por el prestigio del autor. Su primera edicion es de 1606. Atlas Mercator Hondius: presenta 36 mapas nuevos que no hizo mercator, como el del lago Leman.
 
 Thomas Schoepf's, mapa antiguo de berna en 18 hojas. en 1612 una de las obras prohibidas es esta. frontis de retratos calvinistas oculta por una cenefa, realziada posiblemente
 por fray placido de todos los dantos, abad de  del convento san martind e madrid y general de la orden de los benedictinos. Segun parece el expurgo lo hixo en enero de 1613
@@ -430,7 +432,7 @@ Lo último actulziado han sido el campo zona_num
 ### Mapas de España siglo XIX y om,ienzos siglo XX
 
 El mapa de España de 1884, tengo [una ficha interesante 🔗](http://guiadigital.uam.es:90/SCUAM/documentacion/1884Mapa.php)
-En EL ICGC tienen un mapa de España que creo nosotros no tenemos [Enlace 🔗](https://cartotecadigital.icgc.cat/digital/collection/espanya/id/2492/rec/1)
+En el ICGC tienen un mapa de España que creo nosotros no tenemos [Enlace 🔗](https://cartotecadigital.icgc.cat/digital/collection/espanya/id/2492/rec/1) es un mapa de 1913 a escala 1:500 000 que tiene la misma escala que el mapa colgado en el pasillo del despacho de Matesanz.
 
 
 
