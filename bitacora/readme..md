@@ -10,11 +10,12 @@
 
 ## ⌛️ 2024-11-04
 
-Página en holandés que hay que revisar sobre la pedición de topografía en el XVII
-https://www.dirtsyndicate.nl/Ameland/amelandtekaart.webklik.nl/page/landmeten.html
-https://rijksmuseumboerhaave.nl/collectie/verhalen/canon/Beemster/Landmeetkunde/
-https://www.amelanderhistorie.nl/products/uit-de-rijke-historie-van-ameland-jan-bleeker/
-https://www.blikkenemmer.nl/upload/18A%20nieuwsbrief%20Landmeter%20van%20Beurdenweg%208e%20%20%20def%20versie%2027-1-16%2024.00%20u.pdf
+Página en holandés que hay que revisar sobre la medición de topografía en el XVII que está relacionado con el grabado colgado en el túnel entre los edificios A y B.
+
+* https://www.dirtsyndicate.nl/Ameland/amelandtekaart.webklik.nl/page/landmeten.html
+* https://rijksmuseumboerhaave.nl/collectie/verhalen/canon/Beemster/Landmeetkunde/
+* https://www.amelanderhistorie.nl/products/uit-de-rijke-historie-van-ameland-jan-bleeker/
+* https://www.blikkenemmer.nl/upload/18A%20nieuwsbrief%20Landmeter%20van%20Beurdenweg%208e%20%20%20def%20versie%2027-1-16%2024.00%20u.pdf
 
 
 
