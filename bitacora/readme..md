@@ -8,6 +8,20 @@
 
 ---
 
+## ⌛️ 2024-11-11
+
+Página de mapas del Islam dentro de la plataforma **Album-online**. [🔗 Enlace](https://www.album-online.com/es/search?iSF=3&sT=MAPAS+DEL+ISLAM&iSp=0&sGs=mosaic&iPP=2))
+
+
+---
+## ⌛️ 2024-11-06
+
+### 👀 Lecturas
+
+* *Cartography Unchained* es un blog con artículos muy interesantes sobre cartas naúticas, mapas medievales, cartografía romana [🔗 Enlace](https://www.cartographyunchained.com/category/charts/)
+
+
+---
 ## ⌛️ 2024-11-04
 
 Página en holandés que hay que revisar sobre la medición de topografía en el XVII que está relacionado con el grabado colgado en el túnel entre los edificios A y B.
@@ -17,10 +31,7 @@ Página en holandés que hay que revisar sobre la medición de topografía en el
 * https://www.amelanderhistorie.nl/products/uit-de-rijke-historie-van-ameland-jan-bleeker/
 * https://www.blikkenemmer.nl/upload/18A%20nieuwsbrief%20Landmeter%20van%20Beurdenweg%208e%20%20%20def%20versie%2027-1-16%2024.00%20u.pdf
 
-
-
 ---
-
 ## ⌛️ 2024-10-29
 
 ### 👀 Lecturas
