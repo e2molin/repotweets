@@ -8,6 +8,65 @@
 
 ---
 
+## ⌛️ 2024-11-15
+
+Convirtiendo un proyecto de CSS a SAAS (SCSS) - 1° Parte
+https://www.youtube.com/watch?v=9bUjziHp4Es
+
+Artículo extenso sobre la Carta General del reino [🔗 Enlace](https://cuadernosdedomingofontan.com/2021/04/06/la-carta-general-del-reino/) muy importante para explicar el siglo XVIII en la cartografía de Europa y España.
+
+Proyecto de Celestino del Piélago en el partido judicial de Getafe (1856-1859)
+
+> **18 de octubre de 1853**: se constituyó la Junta Directiva del Mapa de España, a quien se encomendó la labor de levantar el Mapa Topográfico de todo el país mediante técnicas modernas de geodesia y topografía.
+
+> **3 de noviembre de 1856**; se fundó la Comisión de Estadística General del Reyno, de carácter civil, y se le asignaron las competencias en Censo y Catastro.
+
+Sin embargo a efectos prácticos, y aunque era un proyecto civil, los trabajos los realizaron militares de la Junta del Mapa, que eran quien tenían los medios técnicos y conocimiento.
+
+Celestino del Piélago presenta un proyecto 15 de febrero de 1857. El plan consistía en elegir un partido
+judicial, medir dos bases topográficas bastante distantes entre sí y triangular el territorio. Posteriormente, debían deslindarse los municipios de dicho partido, calcular la superficie de cada término municipal, y plantear un catastro por masas de cultivo —en las zonas rústicas— o por manzanas —en las áreas urbanas—. Este era un catastro menos detallado que el que se estaba realizando desde las Administraciones Municipales catalanas y mallorquinas. Sin embargo, la Administración Central sí proyectaba un catastro tanto rústico como urbano. Los mapas generales del municipio debían levantarse a escala 1:20.000, y los planos catastrales, a 1:5.000 los rústicos y a 1:2.000 los urbanos.
+
+Se midieron dos bases: una entre Getafe y Villaverde (Madrid), con una longitud de 3562,27 m; otra entre Ocaña y Noblejas (Toledo), con una longitud de 5500,80 m. 
+
+Se conservan cinco Croquis y Planos de Perímetros: dos de ellos correspondientes a Polvoranca (286512, 286513), otros dos a Leganés (286514,286515) y uno a Getafe (286520).
+
+
+### Canarias en el Mapa
+
+La colocación de Canarias en los mapas ha sido objeto de polémica durante años , hasta el punto de que en 1995 el entonces ministro para las Administraciones Públicas, el canario Jerónimo Saavedra (PSOE), presentó un nuevo mapa oficial de España (titn:16229), que colocaba al archipiélago en el Atlántico, en una posición más próxima a su situación real.
+
+Cuatro años después, el ministro de Fomento de entonces, Rafael Arias Salgado (PP) , presentó el nuevo Mapa General de España, que ubicaba al archipiélago canario en su correcta posición relativa (zona suroeste) y ampliaba las aguas del océano Atlántico.
+
+https://www.abc.es/espana/canarias/abci-canarios-recuerdan-gobierno-islas-mapas-no-estan-debajo-baleares-201702202250_noticia.html
+
+El PSOE propone cambiar la ubicación de Canarias en los mapas de España()
+https://elpais.com/diario/1994/11/03/espana/783817212_850215.html
+
+A menudo descubrimos que las islas son borradas directamente del mapa, como cuando aquel real decreto de julio de 1900 firmado por Francisco Silvela dejaba a Canarias fuera en el huso horario por el que se regirían los organismos públicos de España.
+En 1915, el puerto de Las Palmas era el segundo del mundo en tráfico de mercancías. Durante casi cien años Londres pidió que se concretara el huso horario de Canarias para que sus barcos pudiesen orientarse por los faros. Solo la insistencia de la Armada británica logra que un real decreto de Alfonso XIII en 1922 Canarias adopte la hora del Reino Unido.
+
+https://ctxt.es/es/20200401/Firmas/31985/canarias-mapa-puerto-turismo-historia-ana-sharife.htm
+
+26 de dicembre
+https://elordenmundial.com/mapas-y-graficos/el-mapa-del-espacio-postsovietico-en-europa-30-anos-despues-de-la-caida-de-la-urss/
+
+el 26 de diciembre de 1933, a los pocos días de haber sido nombrado presidente del gobierno, Lerroux nombró a Enrique Gastardi Peón (Cádiz, 1882-Madrid, 1957) nuevo director del Instituto Geográfico. Bajo la dirección de Gastardi prosiguieron las obras del Observatorio Central Geofísico de Toledo en Buenavista
+
+MApa del ataque a pearl harbor mostrado al emperador
+https://mapasmilhaud.com/mapas-antiguos/reporte-de-danos-de-pearl-harbor-1941/
+https://www.loc.gov/resource/g4382p.ct010991/
+
+Mediante el decreto 2000-12, Francia adopta la proyeccion Lambert-93 como su proyección oficial para la publicación de cartografía de la Francia metropolitana a través del IGN.
+
+La región situada entre el cabo Bojador y el cabo Blanco fue reclamada por España en 1884, durante la conferencia de Berlín (establecimiento de una factoría en la península de Villa Cisneros y dependencias en la bahía de Cintra y en Cabo Blanco a finales de 1884 por Emilio Bonelli). En 1885, comenzó la construcción de Villa Cisneros y el establecimiento de factorías en Río de Oro y Cabo Blanco. Los españoles siguieron su avance hacia el interior y el norte del cabo Bojador.
+https://infosaharaoccidental.org/wp-content/uploads/2019/04/Real-Orden-1884.pdf
+
+
+## ⌛️ 2024-11-12
+
+Colecciones de mapas en Pixeum [🔗 Enlace](https://pixeum.org/featured-exhibits). Espectacular
+
+
 ## ⌛️ 2024-11-11
 
 Página de mapas del Islam dentro de la plataforma **Album-online**. [🔗 Enlace](https://www.album-online.com/es/search?iSF=3&sT=MAPAS+DEL+ISLAM&iSp=0&sGs=mosaic&iPP=2))
@@ -142,7 +201,7 @@ Página en holandés que hay que revisar sobre la medición de topografía en el
 
 ### 👀 Lecturas
 
-* 🍊 Cartes-à-figures, a short-lived fashion promoted by Blaeu and Hondius. Sobre los mapas orlados o paneles decorativos [🔗 Enlace](https://www.cartahistorica.com/blog/journal/cartes-a-figures-a-short-lived-fashion-promoted-by-blaeu-and-hondius/)
+* 🍊 Cartes-à-figures, a short-lived fashion promoted by Blaeu and Hondius. Sobre los mapas orlados o paneles decorativos [🔗 Enlace](https://www.cartahistorica.com/blog/journal/cartes-a-figures-a-short-lived-fashion-promoted-by-blaeu-and-hondius/) Los inglesed les llaman **vignette Maps**.
 * 🍊 Artículo: Sobre los Atlas de Geografía del siglo XIX
 * 📘 Libro sobre el tema: [Geografía 1880](https://www.kickstarter.com/projects/alpoma/make100-geography-1880) [📫 mail](mailto:alpoma@gmail.com)
 
@@ -534,4 +593,5 @@ absoluta de los astros en la esfera celeste.
 * Adolf Repsold (* 31. August 1806 in Hamburg; † 13. März 1871 ebenda)
 * Jerónimo Pedro Mathet Rodríguez (Madrid, 7 de abril de 1878-Madrid, 28 de noviembre de 1936)
 * Rigobert Bonne (Raucourt, 6 de octubre de 1727 - 2 de noviembre de 1795)
+* Celestino del Piélago y Fernández de Castro. Comillas (Cantabria). 6.IV.1792 – 2.VIII.1880.
 
