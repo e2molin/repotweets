@@ -47,6 +47,13 @@ En 1915, el puerto de Las Palmas era el segundo del mundo en tráfico de mercanc
 
 https://ctxt.es/es/20200401/Firmas/31985/canarias-mapa-puerto-turismo-historia-ana-sharife.htm
 
+ > Señoría, el Gobierno no discrimina en absoluto y trata con profundo respeto todas las administraciones. En 1983 se presentó por vez primera el mapa de la España autonómica, coincidiendo con el primer proceso electoral generalizado a las asambleas legislativas de trece comunidades, y en 1992 se hizo una nueva edición de dicho mapa autonómico para contribuir al conocimiento de la realidad constitucional española en coincidencia con los acontecimientos ocurridos aquel año. En 1994, el 2 de noviembre, se adopta una proposición no de ley en esta Cámara que insta al Gobierno para que se haga una modificadión en relación con la localización o posición de Canarias en el mapa actual que se manejaba habitualmente, y desde entonces por parte del Ministerio para las Administraciones Públicas en colaboración con el Instituto Geográfico Nacional se desarrolla el trabajo de elaboración con arreglo a un procedimiento digital, no el simple y clásico dibujo. En esa fecha, exactamente el día 8 de noviembre, es decir, una semana después de la adopción de la proposición no de ley por esta Cámara, se encarga al Instituto -y así consta en el expediente administrativola elaboración de un nuevo mapa respondiendo y reflejando no sólo ese dato sino también otros. Recuerde S. S. que en esa fecha ni siquiera se había tomado en consideración -me parece- el proyecto de ley de estatuto de autonomía para la ciudad de Ceuta y para la ciudad de Melilla y, por consiguiente, no se tuvo en cuenta. Estos estatutos se publican en el «Boletín Oficial del Estadon el día 14 de marzo del presente año y eso ha hecho que, sin que ello suponga alguna discriminación, no se haya podido recoger en el citado mapa la situación actual de estas ciudades con estatuto de autonomía en ambos municipios. 
+
+27 de diciembre de 1994 - Comisión de Infraestructuras y Medio Ambiente - roposición no de Ley sobre ubicación de Canarias en los mapas nacionales. ( Núm.Exp. 161/000326 )
+https://app.congreso.es/AudiovisualCongreso/escucharAudio?legislatura=Legislatura_V&carpeta=Iniciativas&idIntervencion=55008&tipo=I
+
+
+
 26 de dicembre
 https://elordenmundial.com/mapas-y-graficos/el-mapa-del-espacio-postsovietico-en-europa-30-anos-despues-de-la-caida-de-la-urss/
 
