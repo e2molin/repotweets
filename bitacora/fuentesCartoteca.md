@@ -1,3 +1,9 @@
+### Berghaus 1846 - Physikalischer Atlas
+
+\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\S1Compt912-Atlas\912-46\912-46_V02
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/028635.html
+
+
 ### Freytag 1921
 
 https://archive.org/details/gfreytagsweltatl00frey/page/n54/mode/thumb
@@ -32,6 +38,7 @@ https://archive.org/details/gfreytagsweltatl00frey/page/n54/mode/thumb
 
 Se traza de doce volúmenes
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\S1Compt912-Atlas\912-4
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009398.html
 
 ### 1731-1740 - Atlas Novus: sive Tabulae Geographicae Totius Orbis / Matthäus Seutter.
 
@@ -116,7 +123,8 @@ Mapas de todo el mundo
 
 ### Illustrius Hispanae
 
-\\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\Armario_ignifugo\IGN-0081508
+\\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\Armario_ignifugo\IGN-00
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/081508.html
 
 ### 1852 - Atas fisico - berghaus - Prethes
 
@@ -134,3 +142,9 @@ Mapas de todo el mundo
 ### 1667 - Theatro del mondo: Nel quale diftintamente fi dimoltrano, in Tauole, tute le Prouincie, regni, & Paefi del Mondo / Ortelius, Abraham
 
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\S1Compt912-Atlas\912-101
+
+
+### 1922 - The Times survey atlas of the world
+
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009156.html
+\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\NCCompt92-Atlas\92-5

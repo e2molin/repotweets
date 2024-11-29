@@ -6,7 +6,71 @@
 
 `🍉 Encabezado 1`  `🥝 Encabezado 2` `🥕 Encabezado 3` `🍋 Encabezado 3`
 
+
+
 ---
+
+## ⌛️ 2024-11-28
+
+### 🔖 Archivo Topográfico
+
+#### 🔶 Copiadas las actas corregidas que tenía MJ en su compartida:
+
+* Eran **38** documentos de SIDDAE ya existentes que se habían reescaneado para arreglar páginas con fallos en la digitalización
+* Se han actualizado en la cabina y se ha generado su corresponbdiente registro de LOG para que entren en futuras actualziaciones del CdD
+
+#### 🔶 Entre los documentos de MJ había dos base de datos de Access, EXP PERSONALES 2.mdb y III.mdb
+
+* La primera contiene expedientes de personal. Tiene 3446 registros, está incompleta y la base de datos buena está en el [🔗 Archivo del Torreón - Expedientes](http://sapignmad200.ign.fomento.es/badasidquery/torreon/expedientes/)
+* La segunda contiene un  inventario de expedientes, informes y miscelania que había en el torreón. Tiene 1536 registros, está incompleta y la base de datos buena está en el [🔗 Archivo del Torreón - Inventario](http://sapignmad200.ign.fomento.es/badasidquery/torreon/inventario/)
+
+
+
+
+
+
+---
+## ⌛️ 2024-11-27
+
+
+Las poligonales pueden ser recíprocas o no. Recíproca es que se visa del punto A al B prinmero, y luego del B al A.
+
+¿Qué es un mojón radiado?
+
+Un punto de itinerario, tieneque estar en contacto con el itinerario. Si es un mojón radiado, se crea una pequeña rayita.
+
+
+Cuando cargamos la linea, es necesario dar un giro global a todo. Si ponemos la declinación bien, generalmente funciona y no hace falta un giro global. Giros locales no suele darse, salvo que la declinacion este mal. Por eso el giro global puede hacerse sobre la poliogonal ya ajustada. Cuanto mayores sean los tramos mejor. Hay que intentar que el titnerio ajustdo tenga el menor numero posible de puntos.
+
+
+El giro s epone en edicion, se seelcciona todo. (le tecla de seleccionar es como el esc en autocad). y seleccion totar objeto. Esta herramioenta pilla un centroide, te gira con erespecto al centrode. SI queremos girar entorno a un punto(generalmente el inical), pulsamos la tecla contro, sobre el primer punto y con el segundo le indicamos cuanto se gira. Ojo, el punto de entrada no lo pilla con snap, lno es como cuando se mueve. Pero no es necesairo tanta precisión. Aunque Issac luego matiza que se ha arreglado.
+
+Cuando un itinerario se separa de los detalles de la ortofoto, el itinerario se parte a partir del punto en el que se separa, creándose un nuevo tramo.
+Se parte con las herramientas sytandard de QGIS
+Después con la herramienta del plugin Seleccionar Fragmento CC, seleccionamos el tramo que queremos desplazar. Al pincharlo, coge todo (puntos, visuales, anotaciones de croquis)...
+Si algo no lo coge, podemos añadirla a la seleccion con el SHift+Elemento.
+
+Punto fijo es un punto singular en el cuadernpo. Al seleccionar todo, no se mueve cuando haces un ajuste de traslación o de rotación.
+
+
+
+Es mejor guardar el itineraio inical, antes de empezar a tocar.
+
+
+
+PErfil ,enecsario para vers i a una altura de 1.5 hay visuales
+
+Hay cuadernos con inclinaciones, se usa en zonas con grandes pednentes. Si aplicamos el Ajuste, se calcula con lineas discontinuas.
+
+Como hacer un curvado a aprtir del modelo digital
+
+
+
+
+
+
+
+
 
 ## ⌛️ 2024-11-15
 
@@ -601,4 +665,5 @@ absoluta de los astros en la esfera celeste.
 * Jerónimo Pedro Mathet Rodríguez (Madrid, 7 de abril de 1878-Madrid, 28 de noviembre de 1936)
 * Rigobert Bonne (Raucourt, 6 de octubre de 1727 - 2 de noviembre de 1795)
 * Celestino del Piélago y Fernández de Castro. Comillas (Cantabria). 6.IV.1792 – 2.VIII.1880.
+* August Heinrich Petermann (Bleicherode, cerca de Nordhausen, 18 de abril de 1822 - Gotha, 25 de septiembre de 1878)
 
