@@ -1,12 +1,6 @@
-### Berghaus 1846 - Physikalischer Atlas
+https://www.acami.es/efemerides/?mes=marzo
+https://www.britannica.com/more-on-this-day/March-27
 
-\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\S1Compt912-Atlas\912-46\912-46_V02
-http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/028635.html
-
-
-### Freytag 1921
-
-https://archive.org/details/gfreytagsweltatl00frey/page/n54/mode/thumb
 
 ### Batallas napoleónicas
 
@@ -25,20 +19,37 @@ https://archive.org/details/gfreytagsweltatl00frey/page/n54/mode/thumb
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\Armario_ignifugo\IGN-0031261
 
 
-### 1907 - Stieler
+### 1907, 1912, 1920 , 1923 - Stieler
 
-\\10.13.90.81\docgeo$\docgeo\cartoteca\cartotecadigital\catalogado\reducido\nccompt92-atlas\92-32\92-32(ed1907)
+\\10.13.90.81\docgeo$\docgeo\cartoteca\cartotecadigital\catalogado\reducido\nccompt92-atlas\92-32
 
+### 1920 - The Times Atlas - Bartholomew's physical atlas
+
+\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\NCCompt92-Atlas\92-5
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009156.html
+
+
+### 1877-1878 Gran atlas universel: 51 cartes gravées sur acier et imprimées en couleur dressées d'apres les explorations les plus récentes / par William Hughes
+
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009148.html
+\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\NCCompt92-Atlas\92-14
+
+### 1885 - Spezial-Karte von Afrika in Mafstab - Hermann Habenicht
+\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\C2Compt00G\G-21-1
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009232.html
+
+
+### 1899 Atlas of meteorology: Bartholomew's physical atlas
+
+\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\NCComptNC-Atlas\NC75
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/028653.html
 
 ### 1603 - Parergon, sive Veteris Geographiae Aliquot Tabulae... / [Abraham Ortelius].
-
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\Armario_ignifugo\IGN-0009399
 
 ### 1663 - Geografía Blaviana 
-
 Se traza de doce volúmenes
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\S1Compt912-Atlas\912-4
-http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009398.html
 
 ### 1731-1740 - Atlas Novus: sive Tabulae Geographicae Totius Orbis / Matthäus Seutter.
 
@@ -55,7 +66,6 @@ Mapas de todo el mundo
 
 Mapas de todo el mundo
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\NCCompt92-Atlas\92-199
-
 
 ### 1547 - Atlas Vallard
 
@@ -123,8 +133,9 @@ Mapas de todo el mundo
 
 ### Illustrius Hispanae
 
-\\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\Armario_ignifugo\IGN-00
+\\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\Armario_ignifugo\IGN-0081508
 http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/081508.html
+
 
 ### 1852 - Atas fisico - berghaus - Prethes
 
@@ -142,9 +153,3 @@ http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/081508.html
 ### 1667 - Theatro del mondo: Nel quale diftintamente fi dimoltrano, in Tauole, tute le Prouincie, regni, & Paefi del Mondo / Ortelius, Abraham
 
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\S1Compt912-Atlas\912-101
-
-
-### 1922 - The Times survey atlas of the world
-
-http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009156.html
-\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\NCCompt92-Atlas\92-5
