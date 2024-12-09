@@ -40,8 +40,6 @@ http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/028642.html
 \\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\S1Compt912-Atlas\912-50
 
 
-
-
 ### 1885 - Spezial-Karte von Afrika in Mafstab - Hermann Habenicht
 \\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\C2Compt00G\G-21-1
 http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009232.html
