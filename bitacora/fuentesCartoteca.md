@@ -31,7 +31,8 @@ http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009156.html
 ### 1877-1878 Gran atlas universel: 51 cartes gravées sur acier et imprimées en couleur dressées d'apres les explorations les plus récentes / par William Hughes
 
 http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009148.html
-\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\NCCompt92-Atlas\92-14
+\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Master\NCCompt92-Atlas\
+\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\NCCompt92-Atlas\92-14
 
 
 ### 1881 - Grand Atlas Universel // Cortambert, E. / Hughes, William / J. Rothschild. París
@@ -77,6 +78,7 @@ Vol.12 - Novus atlas sinensis / a Martino Martinio Soc. Iesu descriptus [🔗 En
 
 Mapas continentales: Mapas generales de los paises europeos y tierra santa
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\S1Compt912-Atlas\912-64
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/049067.html
 
 ### 1632 - Gerardi Mercatoris Atlas sive cosmographicae meditationes de fabrica
 
@@ -148,6 +150,7 @@ Cartas naúticas Mediterráneo
 ### Civitates Orbis terrarum
 
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\Armario_ignifugo\IGN-0063669
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/063669.html
 
 ### Illustrius Hispanae
 
@@ -167,6 +170,11 @@ Mapas de todo el mundo
 ### 1680 - Atlas Minor - Visscher
 
 \\sfiignmad162\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\S1Compt912-Atlas\912-4\912-4_V11
+
+### 1880 - Hand-Atlas fúr die Gerchichte des Mittelalters - Enrique Theodor Menke
+
+\\sfiignmad162.ign.fomento.es\docgeo$\DocGeo\Cartoteca\CartotecaDigital\Catalogado\Reducido\NCCompt92-Atlas\92-47
+http://sapignmad200.ign.fomento.es/cartocatalog/resources/html/009173.html
 
 ### 1852 - Atas fisico - berghaus - Prethes
 
