@@ -1,5 +1,7 @@
 # Topografía y caasttro
 
+![](/img/sello-bicentenario-coello.jpg)
+
 La Topografía, la agrimensura y el catastro tienen una estrecha relación. Podemos decir que nacieron prácticamente juntas.
 
 Cuando la población comenzó a asentarse, empezamos a hablar de derechos de propiedad. Y claro, a alguien con poca gracia se le ocurrió que por el derecho de tener una propiedad, podría haber una obligación de tributar por ello. PAra ello es necesario identificar el hecho imponible, aquello por lo cual vamos a cobrar impuestos. En un principio, para una sociedad eminentemente agrícola, los terrenos donde se cultivaba o donde pastaban los ganados. Posteriormente, con la aparición de una sociedad urbanita, el lugar donde se tenía la residencia o la propieddad inmobiliaria. Por ello, la agrimensura y el catastro han ido siempre de la mano.
@@ -175,11 +177,52 @@ Descripcion de las hojas kilometricas. Tiene curvas de nvel, toponimia, codifica
 
 Como vemos, aprovechamos que estamos levantando un ctastro, para recger también un monmton de informacion que nos va a pemitir obtener una cartoigrafia mucho más completa que el objetivo de una cartografia simplemente ctastral. Recogen informaicon util, aunque no sea tributaria.
 
+* Cartillas evaluatorias
+  * Comisiones de evaluación
+    * identifiación de cultivos por partte de los peritos repartidores
+    * Distribución de las tierras en  clases
+    * productos y gastos de la explotación media por unidad de superficie
+    * Líquido imponible por cultivo, clase y unidad de superficie
+  * Declaraciones juradas de los propietarios
+
+Base imponible por titular: seperficie declarada de cada cultivo y calidad, multiplicada por la renta mínima estimada en al cartilla evaluatoria. De aquí salía la cuota, que era la cantidad a pagar por cada titular catastral del términi municipal.
+
+Hoja 040570 de Almería
+
+A continuación mostramos el estado de los trabajos a fecha 1 de enero de 1866 en la provincia de Madrid, [IGNC-40-H-10](https://www.ign.es/web/catalogo-cartoteca/resources/html/001623.html)
+
+![](/img/trabajos-jge-enero-1866.jpg)
+
+
+
+Mención a la figura de 👇
+
+José Pilar Morales
+
+José Pilar Morales Ramírez, quien comenzó su carrera como "comisionado" de Francisco Coello. Fue Director de Caminos Canales de riego, maestro de obras por la academia de Bellas Artes de San fernando y profesor de la extinguida escuela especial de operaciones geograficas de la junta general de estadistica, hoy instituto geografico (CIta en plano de [10-H-22](https://www.ign.es/web/catalogo-cartoteca/resources/html/023356.html), 1877) grabado por Pedro Peñas y ottoNeussel
+
+Tiene un [plano de MAdrid de 1866](http://bdh-rd.bne.es/viewer.vm?id=0000020128)
+ LIbro de dibujo Toppografico [en la BNE](https://bdh-rd.bne.es/viewer.vm?id=0000001560) [registro](https://bdh.bne.es/bnesearch/detalle/bdh0000001560)
+
+
+Manual de dibujo topogrñafico catastal de 1874 [en la BNE](http://bdh-rd.bne.es/viewer.vm?id=0000001458) con imágenes como 
+
+![](/img/pilar-morales-lamina30.jpg)
+
+![](/img/pilar-morales-lamina37.jpg)
+
+
+
+
+
+
 https://www.youtube.com/live/nLxGKWhhx24?si=6HWMngaHpvNI-ws9&t=7882
+
+
 
 
 ## Fuentes
 
 * https://estudiosgeograficos.revistas.csic.es/index.php/estudiosgeograficos/article/download/1041/1226?inline=1
-
+* https://www.researchgate.net/publication/303177612_La_Estadistica_territorial_espanola_desde_1845_a_1900_Por_que_no_se_hizo_un_Catastro_en_el_siglo_XIX_CT_Catastro_68_pp_81-115
 
