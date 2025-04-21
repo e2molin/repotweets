@@ -362,7 +362,38 @@ Se trata de un aparato que combina una cámara fotográfica y un teodolito en un
 
 ![](/img/IGNC-L112.jpg)
 
-l
+---
+
+## 🧭 Laguna de Rins
+
+Laguna de Rins S.A. fue una empresa, ya desaparecida, fundada en el año 1880 por el entonces comandante de infantería del ejército español, Amado Laguna de Rins y que desapareció en los años 1990.
+
+
+### Amado Laguna de Rins
+
+Amado Laguna de Rins (Gistaín, 9 de septiembre de 1849 - Zaragoza, 2 de junio de 1907), fue un militar, ingeniero y político, que fue alcalde de Zaragoza. Cursó sus primeros estudios en el colegio de los Escolapios de Barbastro,
+
+En 1863, ingresó como cadete en el Colegio de Infantería de Toledo, hasta que en 1866 salió destinado al Regimiento de Navarra Nº 25 con base operativa en Aragón. Intervino en hechos de armas en Cataluña durante la Revolución de 1868 y durante la tercera guerra carlista. Viajó al Imperio alemán (1884) y a Francia (1885) como observador de los ejércitos de esos dos países para poder modernizar el ejército español, obteniendo durante estos años diversas distinciones y reconocimientos. En 1886 pasa a la reserva, si bien antes, ya en 1880 había fundado la empresa Amado Laguna de Rins S.A.
+
+### Historia de la empresa
+
+Amado Laguna de Rins funda la empresa **Laguna de Rins** en 1880. En 1886, tras su paso a la reserva junto con **Atilano Bastos**  (Tordesillas, 1848-1927) crea la sociedad Bastos y Laguna, y se establece en la calle Puigcerdá, hoy calle de Agustina de Aragón. Abajo imagen de este establecimiento.
+
+![](/img/talleres-bastos-laguna.jpg)
+
+En 1897 disuelve la sociedad, adquiere la parte del negocio de su socio para continuar con la labor de mejorar las instalaciones, ampliando y trasladando su taller a una Torre, propiedad de su mujer, en la calle camini de la ROmareda, hoy la calle Doctor Cerrada de Zaragoza.
+
+En sus orígenes se dedicó a la fabricación de aparatos de precisión destinados a la topografía y a la geodesia. Entre los productos que fabricaba destacan brújulas, prismáticos, taquímetros, teodolitos, pantógrafos, planómetros y otros útiles de precisión dedicados, muchos de ellos a la exportación a países de Latinoamérica.
+
+Tras el desastre del 98, se pierde el mercado de Latinoamérica, pero la producción es absorbida por el Ministerio de la guerra español que en esos momentos está inmerso en la guerra del Rif y por los países europeos confrontados en la Primera Guerra Mundial.
+
+A partir de 1920, ya convertida en Sociedad anónima, comenzó la construcción de nuevos instrumentos, como sismógrafos, telémetros y otros.[1]​
+
+Durante la Guerra Civil Española, se dedica a construir material para el bando sublevado, introduciendo en su producción tornillería, estampación y forja, llegando a tener 600 trabajadores.
+
+A partir de 1962 comienza a fabricar piezas para distintas marcas de automóviles, entre las que se encuentran SEAT, FASA-Renault, MEVOSA, Pegaso, Ford o Sava y para Telefónica de España, manteniendo el nivel de empleo que tenía, pero a partir de 1989, comienza el declive de la empresa, que llevará a su cierre a principio de los años 1990, tras varios expedientes de regulación de empleo.
+
+Desapareció tras no poder superar el proceso de reconversión producido en España en la década de los años 1980.
 
 ### Fuentes
 
