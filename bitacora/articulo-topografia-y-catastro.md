@@ -1,4 +1,4 @@
-# Topografía y caasttro
+# Topografía y Catastro
 
 ![](/img/sello-bicentenario-coello.jpg)
 
@@ -6,32 +6,39 @@ La Topografía, la agrimensura y el catastro tienen una estrecha relación. Pode
 
 Cuando la población comenzó a asentarse, empezamos a hablar de derechos de propiedad. Y claro, a alguien con poca gracia se le ocurrió que por el derecho de tener una propiedad, podría haber una obligación de tributar por ello. PAra ello es necesario identificar el hecho imponible, aquello por lo cual vamos a cobrar impuestos. En un principio, para una sociedad eminentemente agrícola, los terrenos donde se cultivaba o donde pastaban los ganados. Posteriormente, con la aparición de una sociedad urbanita, el lugar donde se tenía la residencia o la propieddad inmobiliaria. Por ello, la agrimensura y el catastro han ido siempre de la mano.
 
-Antecentes
+## Antecentes
 
 * Catastro del marques del ensenada
 * Martin Garay establece un sistema de hacienda 
 * La contribucion territorial.
 
-Durante de siglo XIX surgen diversos proyectos para establecer el catastro. Es necesario el conocimiento del territorio para la hacienda, minas
-,ferrocarril y los primeros intentos de planificacion urbana, al derribarse las murallas. Pero es necesario que este conocimiento sea riguroso, apoyado
+Durante de siglo XIX surgen diversos proyectos para establecer el catastro. Es necesario el conocimiento del territorio para la hacienda, minas ,ferrocarril y los primeros intentos de planificacion urbana, al derribarse las murallas. Pero es necesario que este conocimiento sea riguroso, apoyado a ser posible en cartografía
 
-Francisco Coello y Echegaray, cuyo diseño del catastro posibilitó la ley de 1906, vigente hasta 2004. Echjegaray estableció los principios fudamentales en los que se basa.
+Francisco Coello y Echegaray, cuyo diseño del catastro posibilitó la ley de 1906, vigente hasta 2004. Echegaray estableció los principios fudamentales en los que se basa un Catastro moderno.
 
 La vuelta de los militares desde ultramar, posiblita mano de obra técnica para levantar esa cartografía topográfica y parcelaria.
 
-## Marqués de Ensenada
+### Catastro de Patiño
+
+Principios del siglo XVIII promovida por Zenón de Somodevilla.
+
+> «magna averiguación fiscal para alivio de los vasallos y mejor conocimiento de los reinos»
+
+### “Planimetría General de Madrid” 
+
+
+### Catastro del Marqués de Ensenada
 
 > "he dejado para lo último lo que en mi sentir debiara ser lo primero, y es catastrar las Castillas ... / ... La emprsa no es ni breve ni fácil, pero no es imposible ni costosa para los pueblos". (Ensenada al rey en 1743)
 
- Solicitó cartografía a los municipios. Era el primer proyecto desde la relaciones Geográficas de Felipe II. Fue un catastro literario, apoyado en croquis, difícilmente conservable. No entró en vigor pero fue un proyecto emblemático.
+Era el primer proyecto estatal de carácter cartográfico desde la relaciones Geográficas de Felipe II. Solicitó cartografía a los municipios. Los croquis que intentaban ofrecer una visión de conjunto del municipio. Permitió ubicar  al municipio en su espacio, tener una idea aproximada de sus longitudes y superficies y obtener un bosquejo de los municipios castellanos. Fue un catastro literario (menos cartográfico de lo que en un princopio se pensaba), apoyado en croquis, difícilmente conservable y actualizable. No entró en vigor pero fue un proyecto emblemático.
 
-Catastro de PAtiño, 
 
 ##  MARTÍN DE GARAY
 
 Se haven unas encuestas sobre la riqueza indivisual basada en : la rqueza comercial, industruial, agricultura, ganadería y edificios. Esto traslado a día de hoy sería el IBI urbano, el rústicp, el impuesto de actividades económicas, la declaracióin de la renta. 
 
-## caastro napoeonico
+## Catastro napoeonico
 
 > "El catasto podría haber siso la verdadera constitucion del imperio, es decir, la vaerdadera garantia de las propiedades y la certidumbre de la independcia de cada uno"
 
@@ -49,12 +56,12 @@ Cinco tipos de riqueza
   insdustrial de artefactos, oficios y profesiones
   comercial de tiendas, tratos y trajineria
 
-El problema de esto es que es mu dificil de evaluar, dificilmente conservable, y con gran riesgo de fraude. AAdemas la cartografia no tenia la rigurosidad necesaria como para ser la base de esto. COnsecuencia, vamos a los procesos de amillaramiento
+El problema de esto es que es muy dificil de evaluar, dificilmente conservable, y con gran riesgo de fraude. Ademas la cartografia no tenia la rigurosidad necesaria como para ser la base de esto. Consecuencia, vamos a los procesos de amillaramiento, que eran relaciones literales de titulares y bienes sin níngún componente cartográfico.
 
 
 ## Alejandro Mon
 
-Se inspoira en la hacinda francesa. Se implantan dos contribuciones sobre el producto, la insdustrial y la territorial.
+Se inspira en la hacinda francesa. Se implantan dos contribuciones sobre el producto, la insdustrial y la territorial.
 
 LA territorial se basa en el gravamen de bienes inmuebles, cultivos y ganaderia independiente (estabulada) y dependiente (se alimanta de pastos)
 Se establece una estructura de valoracion muy curiosa, las cuantas de ingreso y gasto. Se generaron los tipos evaluatorios. ¿En que consitian?
