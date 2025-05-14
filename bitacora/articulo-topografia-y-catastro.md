@@ -6,6 +6,12 @@ La Topografía, la agrimensura y el catastro tienen una estrecha relación. Pode
 
 Cuando la población comenzó a asentarse, empezamos a hablar de derechos de propiedad. Y claro, a alguien con poca gracia se le ocurrió que por el derecho de tener una propiedad, podría haber una obligación de tributar por ello. PAra ello es necesario identificar el hecho imponible, aquello por lo cual vamos a cobrar impuestos. En un principio, para una sociedad eminentemente agrícola, los terrenos donde se cultivaba o donde pastaban los ganados. Posteriormente, con la aparición de una sociedad urbanita, el lugar donde se tenía la residencia o la propieddad inmobiliaria. Por ello, la agrimensura y el catastro han ido siempre de la mano.
 
+## Frases 
+
+El catastro, la estadística y la información geográfica son los instrumentos de la política económica y hacendística del Estado moderno.
+
+A mediados del siglo pasado, los gobernantes españoles pretendían reformar la administración territorial, pero carecían de mapas apropiados para deslindar los municipios o delimitar los partidos judiciales; esperaban agilizar el sistema fiscal y aumentar los ingresos públicos gravando la  propiedad, pero no disponían de un catastro parcelario; se proponían, en fin, impulsar el desarrollo agrario e industrial del país, pero los mapas agronómicos, forestales y geológicos que debían servir de orientación para tal política de fomento estaban aún por hacer. Reconocer el territorio, medir la propiedad y evaluar los recursos, fue el mandato urgente que recibieron los cartógrafos y técnicos organizados por la Junta de Estadística.
+
 ## Antecentes
 
 * Catastro del marques del ensenada
@@ -91,6 +97,13 @@ Produccion -> valoracion
 Impouestos -> tributacion
 
 Hay un tecnico de Catastro, un tecnico de Tributacion y un texnico de recaudacion., Son tres tecnicos distintos, tres partes independientes, auqneu lo haga la mis m administracion.
+
+## Junta general de Estadística
+
+La Junta General de Estadística, creada en España a mediados del siglo XIX, fue la primera institución que consiguió poner en marcha los proyectos de renovación cartográfica auspiciados desde un siglo atrás por gobernantes ilustrados y liberales. A finales de la década de 1840, después de un corto período de estabilidad moderada se empezaron a sentar las bases institucionales sobre las que se desarrollaría la mayor parte de la cartografía topográfica y temática española contemporánea. 
+
+https://www.ub.edu/gehc/pdf/Reconocer_territorio.pdf
+
 
 ### Ley de Medición del Territorio
 
@@ -226,7 +239,11 @@ Manual de dibujo topogrñafico catastal de 1874 [en la BNE](http://bdh-rd.bne.es
 https://www.youtube.com/live/nLxGKWhhx24?si=6HWMngaHpvNI-ws9&t=7882
 
 
+## Personajes
 
+La Junta General de Estadística consiguió organizar en los primeros años de 1860 una sección de grabadores y un gabinete fotográfico, a cuyo frente estuvieron el ingeniero de minas **Amalio Maestre** y el fotógrafo **José Albiñana**. Entre las hojas en que figuran los
+grabadores encontramos las del Parcelario Urbano de Madrid, publicadas entre 1866 y 1868. Estas fueron grabadas por G. Pfeiffer, M. Vierge, J. Reinoso Osler y F. Hernández. Por su parte Pedro Peñas fue el encargado del grabado del Plano del Real Sitio de El Pardo y Viñuelas (1867) y del Mapa de Madrid y sus contornos, precedente directo de la primera hoja del mapa topográfico editada por el Instituto Geográfico y Estadístico en 1875. Posteriormente algunos de estos artistas se convirtieron en los principales grabadores del Instituto Geográfico. Así José Reinoso fue el grabador
+del Plano Parcelario de Madrid (1872-1874), publicado por el Instituto Geográfico y Estadístico; Pedro Peñas fue el encargado de grabar en el año 1875 la primera hoja del  Mapa Topográfico Nacional correspondiente a Madrid.
 
 ## Fuentes
 
