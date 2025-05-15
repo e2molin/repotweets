@@ -33,7 +33,9 @@ Principios del siglo XVIII promovida por Zenón de Somodevilla.
 ### “Planimetría General de Madrid” 
 
 
-### Catastro del Marqués de Ensenada
+### Catastro del Marqués de Ensenada 1750 - 1756
+
+El marqués de la Ensenada realizó un catastro entre 1750 y 1756, que nos permite comprender la situación económica de Castilla en esa época. Este catastro se basa a su vez en otros trabajos realizados previamente en Cataluña por Patiño en 1715, Milán en 1718, y Saboya en 1728.
 
 > "he dejado para lo último lo que en mi sentir debiara ser lo primero, y es catastrar las Castillas ... / ... La emprsa no es ni breve ni fácil, pero no es imposible ni costosa para los pueblos". (Ensenada al rey en 1743)
 
