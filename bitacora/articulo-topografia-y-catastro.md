@@ -32,6 +32,12 @@ Principios del siglo XVIII promovida por Zenón de Somodevilla.
 
 ### “Planimetría General de Madrid” 
 
+Fernando VI deroga la medida institucional de la *“Regalía de Aposento”*, sustituyendo esta prestación de alojamiento por un sistema contributivo pecunario proporcional a la renta anual, manteniendo los privilegios concedidos hasta la indemnización de su poseedores. Por **Real Decreto de 2 de Octubre de 1749**, se ordena la supresión de la **Junta de Aposentadores** pasando esta a depender de la jurisdicción del Superintendente General de la Real Hacienda, a quien manda designar un Visitador General que encabece a un grupo de funcionarios y empleados (visitadores, escribanos, maestros de obras,alguaciles y contadores), para que procedan a “ver, medir y cargar” el caserío de Madrid, dictándose para su gobierno una amplia instrucción.
+
+Así pues y para dar cumplimiento a la Real Orden, se procedió a visitar y medir todas las casas y eriales de la Villa, incluyendo las exentas, como las de carácter religioso. Según Espinosa de los Monteros, la Planimetría la llevaron a cabo “cuatro arquitectos entre los años 1750 y 1751”, añadiendo que los azulejos que enumeraban las manzanas y cada una de sus casas, se colocaron en 1765 (aún pueden apreciarse en el Madrid de la época). Eran azulejos blancos que en letras azules indicaba el número asignado: "Visita G. Casa nº123
+
+Los 557 planos resultantes de la rigurosa medición, uno por manzana, se hicieron originariamente a gran formato y dibujados en tintas de colores. Las mediciones en pies lineales superficiales. Más tarde se homogeneizó el formato, lo que obligó lógicamente a hacer las representaciones a distintas escalas".
+
 
 ### Catastro del Marqués de Ensenada 1750 - 1756
 
