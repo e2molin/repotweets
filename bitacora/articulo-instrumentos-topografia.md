@@ -1,5 +1,14 @@
 # 🍉 Evolución de la instrumentación topográfica hasta el S. XIX
 
+---
+* Posibles info para introduccion [aquí](https://www.krefeld.de/de/vermessung/geschichte-des-vermessungswesen/)
+* Completar sacando información de [esta wikipedia en alemán](https://de.wikipedia.org/wiki/Grundlagenvermessung) y sus conexiones.
+* Amsterdam Ordnance Datum  (NAP) 🔗[Enlace](https://de.wikipedia.org/wiki/Amsterdamer_Pegel)
+* Kronstadt Ordnance Datum 🔗[Enlace](https://de.wikipedia.org/wiki/Kronst%C3%A4dter_Pegel)
+* Normalhöhenpunkt 1879 🔗[Enlace](https://de.wikipedia.org/wiki/Normalh%C3%B6henpunkt_1879)
+* Normalhöhenpunkt 1912 🔗[Enlace](https://de.wikipedia.org/wiki/Normalh%C3%B6henpunkt_1912)
+* Líneas base 🔗[Enlace](https://de.wikipedia.org/wiki/Basislinie_(Geod%C3%A4sie))
+---
 📹 Conferencia sobre [Evolución de la instrumentación topográfica hasta el S. XIX](https://www.youtube.com/live/nLxGKWhhx24?si=FMl4T75ijCpOVSzf)
 
 El desarrollo y los avances científicos permitieron la mejora de la instrumentación topográfica: Navegación , geometría, trigonometría, óptica...
@@ -25,13 +34,13 @@ Tanto en Egipto como en Babilonia o en China se utilizaba el gnomon para en cont
 
 A partir de estos cálculos de la meridiana  - Orientación norte sur - se hacían cálculos para la orientación de estructuras ortoigonales mediante una técnica llamada *«varatio»*. Se utilizaba un instrumento llamado escuadra de agrimensor.
 
-![escuadra de agrimensor](/img/escuadra-agrimensor.jpg)
+![escuadra de agrimensor](img/escuadra-agrimensor.jpg)
 
 Se trata de un cilindro en el que se realizan aberturas en lados contrapuestos, a ángulos ortogonales, de manera que al mirar a través de ellos pueden verse alineados una serie de jalones. ¡En el IGN tenemos una moderna, de 1890 que utilizaba espejos 🔗[Enlace](https://www.ign.es/web/ic-coleccion-instrumentos/-/coleccion-instrumentos/CTCinstrumentosDetalle?instrumento=118)  para conseguir este efecto.
 
 La **groma romana** se utilizaba también para este fin, constaba de una cruz situada en plano paralelo al suelo, y de cada una de los brazos colgaba una plomada. Recordenmos que en su trazado urbano los romanos deban una gran importancia a la ortogonalidad, definiendo lo que llamaban el *«decumanus máximo»* (E-O) y el *«cardus máximo»* (N-S).
 
-![](/img/groma-romana.png)
+![](img/groma-romana.png)
 
 
 ### 🍊 Medición de distancias
@@ -44,7 +53,7 @@ El odómetro es otro instrumento utilizado para la medición de distancias. Cada
 
 Para la determinación de desniveles se utilizaba la *«libella»*, que era una escuadra de cuyo vértice colgaba una plomada. Una escala graduada permitía determinar si la superficie donde se situaba estaba nivelada o no.
 
-![](/img/libella.jpg)
+![](img/libella.jpg)
 
 También usaban la *«Libra aquaria»* o nivel del agua, muy similar a los niveles actuales que usamos. Para los romanos el cálculo de los desniveles con precisión era muy importante para una de sus obras más importantes, los acueductos.
 
@@ -58,9 +67,9 @@ Posteriormente se evolucionó con el chorobates. Se trataba de un bastidor con u
 
 Sobre él se encontraba una alidada de pínula, formado por una perforación vertical y situada a una distancia otra perforación vertical con un hilo.
 
-![](/img/alidada.jpg)
+![](img/alidada.jpg)
 
-![](/img/chorobates-desniveles-medicion.png)
+![](img/chorobates-desniveles-medicion.png)
 
 La **dioptra** era otro instrumento, que permitía la orientación en dos planos, el vertical y el horizontal y disponía también de un sistema de alidada para dirigir las visuales que se hacían. Este sistema permitía realizar alineaciones en terrenos con desnivel.
 
@@ -70,16 +79,16 @@ Las técnicas de navegación y astronómicas están muy relacionadas con la inst
 
 La **ballestilla** o **báculo de Jacob** permite la determinación de la altura de las estrellas. Es la evolución del llamado *«kamal»*, utilizado en la navegación oriental. El marino aplicana el ojo en un extremo del instrumento, lo dirigía hacia la estrella que quería medir y deslizaba la vara cruzada, hasta que la parte inferior de esta coincidía con el horizonte. La altura de la estrella - ángulo que forma con el horizonte - se leía en una graduación marcada en la vara.
 
-![](/img/ballestilla-16th.jpg)
+![](img/ballestilla-16th.jpg)
 
 La topografía enseguida entendió cómo aplicar este instrumento, no a la navegación, sino para la medida de ángulos y para determinar la semejanza de triángulos.
 
-![](/img/ballestilla-topografia.jpg)
+![](img/ballestilla-topografia.jpg)
 
 
 En la siguiente imagen Measuring the lunar distance, from Petrus Apianus, Introductio Geographica, Ingolstadt, 1533 de los National Maritime Museum/Royal Museum Greenwich, se aprecia como el autor muestra el paso de la utilización astronómica de la ballestilla a la utulización topográfica.
 
-![](/img/Introductio-geographica.webp)
+![](img/Introductio-geographica.webp)
 
 Otro instrumento astroníomico es el Torquetum descritom por Ptolomeo en el siglo II. Su permier constructor fue Jabir ibn Aflah en el siglo XII. Permite determinar diferentes tipos de ángulos usando los tres tipos de coordenadas astronómicas: las acimutales, las ecuatoriales  y las eclípticas
 
@@ -87,7 +96,7 @@ Otro instrumento astroníomico es el Torquetum descritom por Ptolomeo en el sigl
 * Ecuatoriales: declinación y ascensión recta
 * Eclípticas: latitud y longitud celeste
 
-![](/img/torquetum.jpg)
+![](img/torquetum.jpg)
 
 Uno de los instrumentos que supone un gran avance en la agrimensura es la plancheta. Leonard Zubier (1563-1609) es su primer constructor, aunque es Johannes Praetorius (1537-1616) quien divulga y extiende su uso con el nombre de *«ménsula praetoriana»*. Permite la elaboración de planos directamente en campo. 
 
@@ -97,21 +106,21 @@ Sigue utilizando como métodos de alineación las alidadas de pínula hasta la l
 
 Con ayuda de una base conocida, también se podían realizar cálculos de distancia sin usar la cadena de agrimensor. Se situaba la plancheta en un extremo de la base conocida y se realizaban medidas. Seguidamente se iba al otro extremo y se visaban los mismos objetos, pudiéndose entonces relizar mediciones a partir de los ángulos medidos en ambos extremos de la base. A esto se le llama en topografía, intersección directa. El topógrafo William Mayo se ilustra así mismo utilizando este método en *«A new map of the island of Barbadoes in America»* realizado en 1722
 
-![](/img/barbados-william%20mayo.jpg)
+![](img/barbados-william%20mayo.jpg)
 
-![](/img/barbados-william-mayo-detail.jpg)
+![](img/barbados-william-mayo-detail.jpg)
 
 El grafómetro es inventado por Niccolo Fontana Tartaglia (1500-1557). Lo que hace es coger una escuadra de agrimensor y le añade un círculo graduado junto con una alidada con visores de pínula y en ocasiones una brújula, lo que le permite el cálculo de azimuts. Es Philippe Danfrie (1531-1606) qien describe su uso.
 
-![](/img/grafometro-1.jpg)
-![](/img/grafometro-2.jpg)
+![](img/grafometro-1.jpg)
+![](img/grafometro-2.jpg)
 
 
 Muy similar es el círculo holandés de Jan Pieterszoon Dou, que lo construye en 1612. Integra en un único instrumento un astrolabio y una brújula que, colocado sobre un trípide facilita la medición de ángulos horizontales. Este instrumento ayudó notablemente al desarrollo de la cartografía holandesa del XVII, un país donde la escasa orografía permitía la medición del territorio con ángulos horizontales.
 
-![](/img/circulo-holandes.jpg)
+![](img/circulo-holandes.jpg)
 
-![](/img/dou-ilustracion.jpg)
+![](img/dou-ilustracion.jpg)
 
 Pero cuando el terreno es accidentado, este instrum,ental se queda corto. Será el teodolito el que supongo un gran avance.
 
@@ -173,11 +182,11 @@ La llegada del siglo XVIII y traerá la revolución científica a la Topografía
 
 El fabricante de instrumentos Jonathan Sisson (1690 - 13 jun 1747) es considerado el inventor del teodolito moderno, al que incorporó varias mejoras antes descritas para mejorar la precisión de las mediciones. Como instrumento para visar las observaciones añadió un telescopio y añade una base para nivelar el instrumento en la superficie horizontal, que contaba de cuadro tornillos niveladores y burbujas niveladoras. También incorpora una escala vernier con una precisión de 5 minutos de arco.
 
-![](/img/teodolito-sisson.jpg)
+![](img/teodolito-sisson.jpg)
 
 Con el instrumento de Sisson, las observaciones se realizaban una a una, esto es, se realizaba una observación, se giraba el anteojo, y se leía la siguiente observación, y se determinaba el ángulo. Esta operativa se mejoró notablemente con el teodolito repetidor de Georg Friederich Brander, siguiendo las indicaciones de Tobías Mayer. Este teodolito no era necesario orientarlo al norte como el de Sisson, si no que la ubicación del origen de ángulos en el plano horizontal podía establecerse en cualquier medida del limbo horizontal, por lo que bastaba un punto de orientación conocida.
 
-![](/img/teodolito-brander.jpg)
+![](img/teodolito-brander.jpg)
 
 A finales del siglo XVIII, Alexander Frasër introduce la graduación centesimal, dividiendo la graduación de la circunferencia en 400 grados.
 
@@ -187,11 +196,11 @@ Podemos suponer que la correcta graduación de los círculos de grados era otra 
 
 En 1767 **Jesse Ramsden**, fabricante de instrumentos inglés, crea un dispositivo para marcar graduaciones en instrumentos de medición con el fin de permitir la lectura de medidas más pequeñas de las que se pueden obtener grabándolas directamente. La **Board of Longitude**, organismo inglés del siglo XVIII que buscaba la resolución del problema del cálculo de la longitud, financi´ço su proyecto y obligó pese a las reticencias de Ramsden a compartir su tecnoloigía con otros fabricantes.  Esta máquina será perfecccionada por Henry Gambey en 1840.
 
-![National Museum of American History, Smithsonian Institution](/img/dividing-circles-ramsden.jpg)
+![National Museum of American History, Smithsonian Institution](img/dividing-circles-ramsden.jpg)
 
 Ramsden también fabrica en 1787 un teodolito que permite medir ángulos con precisión de segundos en las mediciones angulares. Este aumento de precisión permitió a la ciencia afrontar el cálculo de las redes geodésicas a escala de país. Los dos teodolitos de Ramsden se utilizaron en la primera triangulación de Gran Bretaña, patrocinada por el gobierno, en la década de 1790. Aunque bastante pesados, se transportaron por valles y colinas de toda Inglaterra, manteniendo su precisión a pesar del maltrato recibido. 
 
-![Museo de Ciencias de Londres](/img/3foottheodoliteramsden.jpg)
+![Museo de Ciencias de Londres](img/3foottheodoliteramsden.jpg)
 
 ### Círculos de reflexión y repetidores
 
@@ -199,21 +208,21 @@ El círculo de reflexión fue necesario porque en aquel tiempo la tecnología pa
 
 Jean-Charles, caballero de Borda (4 de mayo de 1733 - 19 de febrero de 1799). En aquella época, la mayoría de las naciones de Europa calculaban las longitudes desde la Isla de Hierro, por lo que fue enviado a las islas Canarias, primero en 1771 para probar el instrumental y porteriormente en 1776 para determinar su longitud exacta.
 
-![Jean-Charles de Borda mesurant le Pic de Ténériffe - peinture de Pierre Ozanne](/img/borda-tenerife.jpg)
+![Jean-Charles de Borda mesurant le Pic de Ténériffe - peinture de Pierre Ozanne](img/borda-tenerife.jpg)
 
 Uno de sus asistentes fue Étienne Lenoir (1744–1832) a quien Borda contrató en 1772. Contribuyó en las mejoras del círculo de reflexión, lo que le convirtió en un experto fabricante de instrumentos. Además, evolucionó el instrumento, desarrollando el **círculo repetidor** en 1787.
 
 La aparición de los **círculos repetidores** mejoraron aún más la precisión.  La clave de su precisión radica en su capacidad para repetir las mediciones angulares y acumularlas, repitiendo la misma observación sobre el círculo varias veces sin volver a cero, reduciendo así los errores de lectura y los errores instrumentales.  Los errores instrumentales, como la excentricidad del círculo graduado o la falta de perpendicularidad del eje vertical, se compensan parcialmente al repetir las mediciones en diferentes sectores del círculo.
 
-![Borda_repeating_circle,_Etienne_Lenoir,_Paris,_c._1790_-_Mathematisch-Physikalischer_Salon,_Dresden_-_DSC08127](/img/circulo-repetidor-lenoir.jpg)
+![Borda_repeating_circle,_Etienne_Lenoir,_Paris,_c._1790_-_Mathematisch-Physikalischer_Salon,_Dresden_-_DSC08127](img/circulo-repetidor-lenoir.jpg)
 
 
 ### Escuadra de espejos.
 
 Hemos conocido anterior la escuadra del agrimensor, utilizata para calcular alineaciones de objeros. George Adams mejoró este instrumento con su escuadra de espejos, de la que el el IGN tenemos un ejemplar.
 
-![IGN](/img/escuadra-de-espejos.jpg)
-![IGN](/img/escuadra-de-espejos-esquema.jpg)
+![IGN](img/escuadra-de-espejos.jpg)
+![IGN](img/escuadra-de-espejos-esquema.jpg)
 
 ### Medición indirecta de distancias
 
@@ -225,7 +234,7 @@ En las mediciones indirectas el valor de la magnitud se calcula a partir de otra
 
 La mira parlante o graduada se la debemos a Adrien Bourdalouë (1798-01-04 Bourges / 1868-06-21), el cual, alrededor de 1830, fabricó la primera mira para nivelación. La distancia puede medirse por la porción de mira comprendida entre dos hilos del retículo. No es necesario tener un elemento entre el punto de observación y el punto observado, como podría ser una cadena de agrimensor.
 
-![Marcas estadimétricas en una cruz al observar una regla o mira métrica. La marca superior está a 1500  mm y la inferior a 1345  mm; la distancia entre ambas es de 155  mm, lo que da una distancia a la mira de 15,5  m.](/img/mira-estadia.png)
+![Marcas estadimétricas en una cruz al observar una regla o mira métrica. La marca superior está a 1500  mm y la inferior a 1345  mm; la distancia entre ambas es de 155  mm, lo que da una distancia a la mira de 15,5  m.](img/mira-estadia.png)
 
 
 > 💊 Él mismo participó en 1847 en la nivelación del área del futuro Canal de Suez en Egipto, y observaron que la diferencia de nivel entre el Mediterráneo y el Mar Rojo era insignificante. También dirigió la nivelación general de Francia continental (NGF) . Entre 1857 y 1863, construyó una red de 15.000 sellos de hierro en toda Francia, constituyendo las primeras líneas de nivelación del país. El cero de la nivelación, la altura del mar en Marsella, fue fijado por una decisión ministerial del 13 de enero de 1860. Oficializó el nivel medio del Mediterráneo , la marca de 0.40  m en la escala de mareas del Fuerte Saint-Jean en Marsella. Este cero se llamó *«cero de Bourdalouë»*.
@@ -237,15 +246,15 @@ La taquimetría nos va a permitir medir de manera simultánea ángulos y distanc
 En el anteojo de la figura los rayos luminosos que parten de los hilos a y b se refractan al llegar al objetivo L, pasando por el foco F. En
 estos anteojos, la distancia (d) se mide a partir de F, lo que nos obliga a introducir una constante aditiva K´ para referir la distancia al centro del anteojo: D = d + K´
 
-![](/img/anteojo-convencional.png)
+![](img/anteojo-convencional.png)
 
 Porro solucionó esto mediante un sistema óptico de prismas que traslada el punto F o punto analático, al centro del anteojo, que es lo ideal. Estos anteojos se denominan de analatismo central (figura 6.36), o también anteojos estadimétricos de Porro, y en ellos queda eliminada la constante aditiva.
 
-![](/img/anteojo-analatismo-central.png)
+![](img/anteojo-analatismo-central.png)
 
 La introducción del taquímetro autorreductor por M. Sanguet en 1860 permite calcular directamente la distancia reducida y el desnivel por medición a dos puntos de una mira. El desnivel se calculaba con la ayuda de un clisímetro o medidor de pendiente.
 
-![](/img/taquimetro-autorreductor-sanguet.jpg)
+![](img/taquimetro-autorreductor-sanguet.jpg)
 
 ## Teodolitos en el XIX
 
@@ -253,19 +262,19 @@ El teodolito en el siglo XIX presenta grandes mejoras respecto a la observación
 
 Aquí tenemos un teodolito de primer orden de 1850 fabricado por Ertel & Söhn en Munich. Este en particular fue empleado en los trabajos geodésicos de la cadena de triangulación de primer orden del paralelo de Madrid (campaña de los años 1859-1861), así como en la del meridiano de Madrid, Salamanca y costa Norte (campaña de 1861-1864).
 
-![](/img/IGNC-L065.jpg)
+![](img/IGNC-L065.jpg)
 
 Este siguiente es uno de segundo orden fabricado por Troughton & Simns. Londres hacia 1890. Estos teodolitos poseían una menor precisión que los de primer orden pero presentaban la comodidad de su fácil manejo debido a su poco peso.
 
-![](/img/IGNC-L071.jpg)
+![](img/IGNC-L071.jpg)
 
 A continuación otro teodolito de segundo orden, en este caso excéntrico, fabricado por Kern & C.° Aarau-Schweiz en 1870. Los teodolitos excéntricos no tenían el anteojo situado en la vertical del centro del aparato, por lo que en las mediciones había que tener en cuanta el paralaje.Los teodolitos excéntricos de gran distancia focal, como son estos casos, tenían la ventaja de poder dar la vuelta de campana sin que éste tropezara con el soporte del propio instrumento.
 
-![](/img/IGNC-L072.jpg)
+![](img/IGNC-L072.jpg)
 
 Un teodolito de tercer orden se utilizaba en las redes pequeñas. Este está fabricado en Múnich por Ertel & Sohn en 1850. Fue adquirido por la Comisión de la Carta Geográfica en 1855 y se utilizó en las primras mediciones.
 
-![](/img/IGNC-L074.jpg)
+![](img/IGNC-L074.jpg)
 
 ### Regla de Ibáñez de Ibero
 
@@ -279,7 +288,7 @@ Los triángulos de mayor tamaño se observaban con teodolitos de primer orden. S
 
 Este dispositivo pretendía aumentar la precisión en las medicio­nes geodésicas. El instrumento fue construido por el académico arista Gaietà Faralt siguiendo las ideas de José Agustín Canellas y Farreras (23 de junio de 1765 💧 – San Feliu de Ale­lla (Barcelona), 9 de abril 1818). Consistía en un sistema de tres ruedas dentadas de latón que comunican el movimiento a dos índices que giran alrededor de un disco graduado, uno de eellos señala los grados y el otro indica los segundos. La lectura angular se realiza por medio de un nonius. Todo el sistema pone en movimiento el anteojo móvil de los dos que lleva el instrumento con lo que el movimiento angular del segundo anteojo se podrá medir con mucha precisión.
 
-![](/img/precisivo-canellas.jpg)
+![](img/precisivo-canellas.jpg)
 
 [Canellas y Farreras](https://ca.wikipedia.org/wiki/Agust%C3%AD_Canelles_i_Carreres) hizo el primer proyecto conocido de un mapa de Cataluña a partir de medidas geodésicas (1813). Seguidor y conocedor de la expedición científica de los astrónomos Jean Baptiste Delambre y Pierre André Méchain, fue un gran defensor de la adopción del sistema métrico decimal.
 
@@ -297,7 +306,7 @@ Los taquímetros nos permiten además de medir angulos, calcular distancias por 
 
 Este modelo está fabricado por Troughton & Simms en Londres hacia 1890. 
 
-![](/img/IGNC-L086.jpg)
+![](img/IGNC-L086.jpg)
 
 
 ### Brújulas taquimétricas
@@ -306,24 +315,24 @@ Una vez que tenemos establecida una red geodésica en una zona, pasamos tomas me
 
 El francés Michel Maissiat perfecciona la brújula añadiendo un semicírculo graduado vertical, para medir nivelaciones. Esta brújula es de 1840. Dispone de un pequeño anteojo. Para la medición de ángulos verticales utiliza una simple plomada cuya lectura aparece en el semicírculo vertical.
 
-![](/img/IGNC-L090.jpg)
+![](img/IGNC-L090.jpg)
 
 Las brújulas evolucionan incluyendo un sistema de nonius para las lecturas sobre la graduación.  Esta está fabricada en PArís en 1880, de la firma Colombi Fils, quai Conti, 5. Para equilibrarla del peso del anteojo, lleva un contrapeso cilíndrico a la derecha. Dispone de dos vernier que permiten apreciar 0.5'.
 
-![](/img/IGNC-L102.jpg)
+![](img/IGNC-L102.jpg)
 
 
 La siguiente tiene un nivel esférico en la plataforma y su vernier permite llegar a apreciar 1'. Fabricada por Sartorius Götingen, hacia 1890. Dipone de una lente para facilitar las lecturas.
 
-![](/img/IGNC-L100.jpg)
+![](img/IGNC-L100.jpg)
 
 Esta brújula está fabricada en España, concretamente en Zaragoza, por la firma Laguna de Rins hacia 1890. Presenta un anteojo excéntrico de 23 cm de distancia focal y 3,5 cm de apertura con cruz filar estadimétrica de hilos de araña. Este aparato responde ya al modelo estandarizado de brújulas taquimétricas utilizadas de forma generalizada en los trabajos de relleno topográfico y en los levantamientos catastrales. El mecanismo de precisión estaba fabricado en España, pero generalmente los sistemas ópticos eran importados.
 
-![](/img/IGNC-L093.jpg)
+![](img/IGNC-L093.jpg)
 
 Por último, en muchos cuadernos del levantamiento topográfico se utilizan las brújulas de la firma Breithaupt & Söhn, Hesse-Cassel. Todas estas brújulas una vez adquiridas, eran identificadas con un número de inventario. Esto figuraba en todas las librtas de campo en las que era utilizada. La brújula, además de su declinación magnética, tenía una declinación propia de la brújula, característica del aparato y del lugar donde se realizaban las medidas, y que se establecía antes de realizar los cálculos mediante observaciones a la polar.
 
-![](/img/IGNC-L094.jpg)
+![](img/IGNC-L094.jpg)
 
 La firma [F. W. Breithaupt & Sohn](https://de.wikipedia.org/wiki/F._W._Breithaupt_%26_Sohn) fue fundada en 1762 por Johann Christian Breithaupt (1736 - 1799), En 1967 fue nombrado *Hofmechaniker* o ingeniero de la corte por el landgrave Federico II de Hesse-Kassel.
 
@@ -334,25 +343,25 @@ Las vetustas cadenas de agrimensor fueron sustituidas por las cintas. **William 
 
 William H. Bangs presenta el 6 de diciembre de 1864 la patente de su cinta métrica de bolsillo y retráctil con retorno de resorte.
 
-![](/img/bangs-tape-metric.png)
+![](img/bangs-tape-metric.png)
 
 Em la colección de instrumentos del IGN tenemos una fabricada en Suiza en 1880. Este simple aparato fue utilizado en agrimensura para la medida de distancias, generalmente los lados de los itinerarios, considerados principales, y aquellos detalles planimétricos que exigían mayor fiabilidad.
 
-![](/img/IGNC-L117.jpg)
+![](img/IGNC-L117.jpg)
 
 ## Nivelación
 
 La medición del desnivel entre dos puntos se obtenía utilizando niveles de precisión. El siguiente dispositivo está fabricado en París en 1860 por la firma Brunner.  Anteojo de 34 cm de distancia focal y 3,3 cm de apertura con cruz filar estadimétrica de hilo de araña. Dispone de dos vernier que permiten apreciar 0.5'. Dispone de un sistema de cabeceo central, lo que le permite ser utilizado para nivelaciones con visuales inclinadas, un procedimiento aplicable en terrenos tan accidentados que las visuales horizontales pasarían por encima o por debajo de las miras. Por ello este dispositivo se le denomina eclímetro. Esto disminuye la precisión de la nivelación inicial, aunque permite salvar situaciones de gran desnivel.
 
-![](/img/IGNC-L121.jpg)
+![](img/IGNC-L121.jpg)
 
 El siguiente si se considera un nivel de precisión. Fabricado hacia 1890 en Londers por L. Casella & Co., 23 Hatton Garden. Trabaja sólo en nivelaciones horizontales, por lo que las visuales no pueden ser inclinadas como en el caso anterior. El problema de estos niveles más antiguos es que para observar en ambos sentidos había que mover el instrumento y velver a estabilizar.
 
-![](/img/IGNC-L123.jpg)
+![](img/IGNC-L123.jpg)
 
 El siguiente es más moderno y se denomina nivel reversible o de collar. En anteojo se desmontaba y así se invertía el sentido de observación, disminuyendo el error y agilizando la toma de medidas. Está datado entono a 1890 y fue utilizado por la 35 brigada de los trabajos de nivelación de alta precisión. Además presenta una brújula para orientación.
 
-![](/img/IGNC-L122.jpg)
+![](img/IGNC-L122.jpg)
 
 ## Fototeodolito terrestre
 
@@ -360,7 +369,7 @@ Se trataba de una combinación de cámara fotográfica y teodolito. El eje de la
 
 Se trata de un aparato que combina una cámara fotográfica y un teodolito en una plataforma nivelante común que era apoyada en un trípode. El instrumento fue utilizado en fotogrametría terrestre para la obtención de planos a partir de tomas fotográficas del terreno que se tratara de levantar, haciendo las fotos desde los extremos de la denominada base fotogramétrica.
 
-![](/img/IGNC-L112.jpg)
+![](img/IGNC-L112.jpg)
 
 ---
 
@@ -379,7 +388,7 @@ En 1863, ingresó como cadete en el Colegio de Infantería de Toledo, hasta que 
 
 Amado Laguna de Rins funda la empresa **Laguna de Rins** en 1880. En 1886, tras su paso a la reserva junto con **Atilano Bastos**  (Tordesillas, 1848-1927) crea la sociedad Bastos y Laguna, y se establece en la calle Puigcerdá, hoy calle de Agustina de Aragón. Abajo imagen de este establecimiento.
 
-![](/img/talleres-bastos-laguna.jpg)
+![](img/talleres-bastos-laguna.jpg)
 
 En 1897 disuelve la sociedad, adquiere la parte del negocio de su socio para continuar con la labor de mejorar las instalaciones, ampliando y trasladando su taller a una Torre, propiedad de su mujer, en la calle camini de la ROmareda, hoy la calle Doctor Cerrada de Zaragoza.
 
