@@ -180,6 +180,54 @@ Los levantamientos cartográficos de Noruega eran efectuados por el Instituto Ge
 
 En Rusia se había organizado un Cuerpo de Estado Mayor en 1763, y oficiales de este cuerpo formaron los mapas itinerarios a finales del siglo XVIII. En 1797 se fundaba el Depósito Imperial de Mapas, que pocos años más tarde se transformaría en Depósito Topográfico Militar dependiendo del Ministerio de la Guerra. La creación del Cuerpo de Ingenieros Topógrafos data de 1822; este cuerpo, especializado en los levantamientos topográficos, se limitó en 1832 a 70 oficiales y 456 topógrafos que recibían enseñanza militar. Una reorganización efectuada en 1866 fijó la plantilla de personal en 6 Oficiales Generales, 33 oficiales superiores, 156 subalternos, 236 topógrafos con rango militar y 170 topógrafos con rango civil. El Cuerpo de Ingenieros Topógrafos tuvo a su cargo el levantamiento a escala 1: 126.000 del territorio de la Rusia europea y Polonia, y los mapas topográficos del Cáucaso y Siberia formados a escala 1 :210.00032
 
+## Suiza
+
+### Atlas Meyer-Weiss
+
+El *Atlas Suisse* del industrial **Johann Rudolf Meyer** y el agrimensor **Johann Heinrich Weiss** (1758/1759–1826), también conocido como el **Atlas Meyer-Weiss**, es la serie de mapas más antigua que abarca toda Suiza y se basa en levantamientos topográficos científicos. Fue creado entre 1786 y 1802. Consta de 16 mapas y un mapa general a escala 1:500.000 🔗[Enlace](http://www.zumbo.ch/maps/navigate/navigate.php?map_nr=98). Las 16 hojas miden 70 × 51 cm y muestran Suiza a una escala aproximada de 1:120 000 🔗[ EZH](https://www.e-rara.ch/bes_1/content/zoom/12553502) 🔗[Universidad de St Gallen](https://dls.staatsarchiv.sg.ch/records/469902) 🔗[Stanford - David Rumsey](https://www.davidrumsey.com/luna/servlet/view/all/who/Meyer,+Johann+Rudolf/Weiss,+T.H./Guerin,+G./where/Switzerland?). 
+
+![](img/atlas-suisse.jpg)
+
+La base de esta obra fueron las mediciones fundamentales realizadas por el naturalista Johann Georg Tralles y el relieve del paisaje modelado por Joachim Eugen Müller , a partir de las cuales Weiss dibujó los mapas. La *«Carte d'une partie très intéressante de la Suisse»*, también conocida como hoja de prueba u hoja adicional, ocupa un lugar importante en la creación del Atlas Suisse. Basándose en el mapa de relieve creado previamente, Johann Rudolf Meyer recibió permiso del gobierno bernés para publicarlo y continuar su trabajo en el territorio bernés.
+
+Los grabados en cobre de las hojas de los mapas fueron realizados por Christophe Guérin, Jakob Samuel Johann Scheuermann y Matthias Gottfried Eichler. Una característica especial del Atlas Suisse es el uso específico de un segundo color de impresión: para resaltar con mayor claridad las zonas glaciares, estas se imprimieron en azul en las hojas correspondientes del mapa, mientras que los demás elementos aparecían en negro. Esto representó una innovación temprana en la impresión de mapas a todo color y mejoró significativamente la legibilidad de los paisajes alpinos.
+
+### Atlas Suvorov
+
+Como resultado de la campaña alpina del ejército ruso en 1799, Alexander Vasilyevich Suvorov produjo el *Atlas de la campaña de las tropas imperiales rusas en Suiza*, que constaba de siete mapas. Representan las batallas y las rutas de marcha a través del este de Suiza (actuales cantones de Ticino, Graubünden, Uri, Schwyz, Glarus, San Galo, Zúrich y Argovia) y fueron obsequiados al zar Alejandro I en 1804. Los topónimos aparecen en alfabeto cirílico. La información topográfica se basa en el Atlas Suisse ; sin embargo, a diferencia de este último, el Atlas Suvorov está en color y el sombreado crea un relieve tridimensional. Algunos mapas no están orientados al norte. El Atlas Suvorov original se conserva en el Archivo Histórico Militar Estatal Ruso  (RGVIA) en Moscú.
+
+![](img/Atlas-Suworow-Zuerichsee-1799.jpg)
+
+### Atlas Dufour
+
+Suiza completó entre 1833 y 1863 su Mapa Topográfico de Suiza de Guillaume Henri Dufour (1787-1875), una obra maestra de precisión y arte. Creado a una impresionante escala de 1:100 000, este mapa nacional de 25 hojas estableció un nuevo estándar para la cartografía científica en el siglo XIX. Grabado en acero con un detalle extraordinario, utiliza delicadas líneas de sombreado para esculpir los Alpes en tres dimensiones, capturando el espectacular terreno de Suiza con una claridad asombrosa. Centrado en el Observatorio de Berna y producido durante un período de rápido progreso tecnológico, el mapa sirvió de base para la planificación militar, la infraestructura y la unidad nacional. [Consulta del mapa en David Rumsey](https://www.davidrumsey.com/luna/servlet/view/search?search=Submit&cat=0&q=13220.000&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&pgs=250&res=1&cic=RUMSEY%7E8%7E1)
+
+![](img/atlas-dufour-bern.jpg)
+
+
+### Atlas Siegfried
+
+El Atlas Topográfico de Suiza , también llamado extraoficialmente Atlas Siegfried o Mapa Siegfried, es una serie oficial de mapas de Suiza , cuya publicación fue iniciada por la Oficina Topográfica Federal bajo la dirección de Hermann Siegfried y se extendió desde 1870 hasta 1926. En particular, las láminas de mapas de alta montaña con 117 grabados monocromáticos de Rudolf Leuzinger recibieron atención tanto en Suiza como en el extranjero.
+
+La base para la elaboración del Atlas Topográfico de Suiza la sentaron la Ley Federal sobre la Continuación de los Levantamientos Topográficos y la Ley Federal sobre la Publicación de Levantamientos Topográficos, ambas de 1868. Uno de los principales impulsores fue Hermann Siegfried, entonces director de la Oficina Topográfica.
+
+A partir de 1863, la Comisión Geodésica Federal Suiza comenzó a realizar un nuevo levantamiento topográfico del triángulo alpino en el marco de la Medición del Arco Europeo. Tres nuevas líneas de base, junto con la referencia de altitud del Repère Pierre du Niton , constituyeron la base para mejorar los datos topográficos derivados del mapa de Dufour. Los primeros levantamientos topográficos para el Mapa de Siegfried comenzaron en la región del Jura, que, al igual que Basilea, Solothurn, Aargau, Thurgau y Appenzell, se encontraba entre las zonas menos exploradas. Durante los siguientes 30 años, las áreas poco documentadas se fueron mejorando continuamente y se les añadieron curvas de nivel.
+
+
+Las primeras hojas cartográficas del Jura y la Meseta Suiza fueron producidas por Müllhaupt & Sons . A partir de 1880, la Oficina Topográfica empleó a sus propios grabadores en cobre. Las hojas cartográficas de los Alpes fueron grabadas en gran parte por Rudolf Leuzinger. Las primeras doce hojas aparecieron en 1870, y estas se ampliaron en aproximadamente una docena cada año. Para 1926, se habían producido un total de 604 hojas. Hasta 1900, los mapas fueron impresos directamente a partir de planchas de cobre por Müllhaupt & Sons, mientras que los grabados en piedra fueron realizados por Kümmerly+Frey prácticamente desde el principio .
+
+La escala es de 1:25.000 en las tierras bajas y las montañas del Jura , y de 1:50.000 en los Alpes . La zona correspondiente a la primera escala se dividió en 462 hojas, y la otra en 142 hojas, solapándose ambas zonas en algunos puntos.
+
+Se publicaron ediciones revisadas de estos mapas hasta 1949. A partir de 1952, los mapas de Siegfried y Dufour fueron reemplazados por el nuevo mapa nacional de Suiza .
+
+
+
+A diferencia del mapa de Dufour , pero en consonancia con el mapa de Wild , el mapa de Siegfried representaba el terreno mediante curvas de nivel . Se utilizaban tres colores para la impresión: marrón para las curvas de nivel en zonas vegetadas, azul para masas de agua y curvas de nivel en glaciares, y negro para todo lo demás.
+
+
+
+
+
 ## Gran Bretaña
 
 Todos estos ejemplos parecen abonar la tesis de que la cartografía topográfica fue, básicamente, un empeño militar, aparentemente desligado de otros proyectos de información territorial del Estado moderno. Sin embargo, todavía no ofrecen la entera pintura de los hechos. La escasez de estudios de detalle sobre las relaciones entre el desarrollo de la cartografía y el catastro en Europa Central, y en países como Italia, invitan a una cierta cautela en las conclusiones. No obstante, pueden ofrecerse ejemplos alternativos que evidencian que los mapas topográficos formaban parte de una política global de descripción física y económica del territorio, y que esa política estaba al servicio de los proyectos racionalizadores y modernizadores de la Administración pública. Los casos de Inglaterra y Portugal son pertinentes en este ámbito.
