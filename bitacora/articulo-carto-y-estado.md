@@ -180,7 +180,18 @@ Los levantamientos cartográficos de Noruega eran efectuados por el Instituto Ge
 
 En Rusia se había organizado un Cuerpo de Estado Mayor en 1763, y oficiales de este cuerpo formaron los mapas itinerarios a finales del siglo XVIII. En 1797 se fundaba el Depósito Imperial de Mapas, que pocos años más tarde se transformaría en Depósito Topográfico Militar dependiendo del Ministerio de la Guerra. La creación del Cuerpo de Ingenieros Topógrafos data de 1822; este cuerpo, especializado en los levantamientos topográficos, se limitó en 1832 a 70 oficiales y 456 topógrafos que recibían enseñanza militar. Una reorganización efectuada en 1866 fijó la plantilla de personal en 6 Oficiales Generales, 33 oficiales superiores, 156 subalternos, 236 topógrafos con rango militar y 170 topógrafos con rango civil. El Cuerpo de Ingenieros Topógrafos tuvo a su cargo el levantamiento a escala 1: 126.000 del territorio de la Rusia europea y Polonia, y los mapas topográficos del Cáucaso y Siberia formados a escala 1 :210.00032
 
+---
+
 ## Suiza
+
+La situación de Suiza, rodeada de potencias militares pero con una notable geografía defensiva, explica el gran interés por la cartografía de todos y cada uno de los cantones que lo forman. En el país alpino siempre se ha tenido como gran aliado el conocimiento del territorio que lo rodea, sobre todo de los cantones más expuestos como el de Zurich.
+
+En 1765, diez oficiales de Zúrich fundaron una sociedad para el estudio conjunto de materias técnicas y matemáticas fundamentales, incluyendo cartografía militar avanzada. Esta Sociedad Matemático-Militar (Mathematisch-Militärische Gesellschaft) visitaba anualmente un tramo de la frontera de Zúrich para estudiar su geografía militar. Como resultado, la región fronteriza fue re-cartografiada exhaustivamente entre 1787 y 1792. El trabajo de estos voluntarios se llevó a cabo bajo la supervisión del ingeniero (militar)   Johannes Feer (1763-1823), quien se había formado en el extranjero.
+
+![](img/Zurich-Militaerkartographie-01-Grenzkarte_NEU.jpg)
+
+En 1795, Hans Caspar Hirzel (entre 1774 y 1818 aproximadamente), miembro de la sociedad y cartógrafo, creó hacia 1795 un atlas fronterizo manuscrito de nueve páginas 🔗[Enlace en e-manuscript](https://www.e-manuscripta.ch/zuzneb/content/zoom/662305) . Este atlas incluye también una lista de puntos de referencia de 20 páginas. Teniendo en cuenta el reducido número de personas involucradas, el resultado es asombroso. Por motivos de confidencialidad, estaba prohibida la reproducción del mapa.
+
 
 ### Atlas Meyer-Weiss
 
@@ -198,35 +209,98 @@ Como resultado de la campaña alpina del ejército ruso en 1799, Alexander Vasil
 
 ![](img/Atlas-Suworow-Zuerichsee-1799.jpg)
 
+### Triangulación de Suiza
+
+Durante la ocupación fronteriza de 1809, convocada a raíz de los levantamientos nacionales contra Napoleón, el coronel **Hans Conrad Finsler** (1765-1839), junto con el ingeniero Johannes Feer y varios oficiales de su estado mayor, comenzó la triangulación del este de Suiza. También estableció el catastro nacional suizo mediante los levantamientos topográficos realizados bajo su supervisión.
+
+En 1832, Dufour se convirtió en intendente general de la Confederación. Fue en este contexto político-militar que inició la triangulación de Suiza, una empresa monumental que conllevó los más diversos desafíos: técnicos, logísticos, financieros, físicos y psicológicos. Equipados con costosos instrumentos, los topógrafos realizaron largos y agotadores viajes por Suiza. Incluso en terrenos sin caminos, debían encontrar posiciones adecuadas desde las que realizar sus mediciones. Dependientes del apoyo de los lugareños conocedores de sus zonas, experimentaron una recepción diversa y variada, que a menudo revelaba mucho sobre las culturas y mentalidades con las que trabajaban. Sobre todo en las zonas montañosas aisladas, la presencia de un topógrafo no siempre era bien recibida. Las nuevas tecnologías generaban desconfianza y las actividades en nombre del Estado centralizado a menudo no eran del todo apreciadas.La topografía en sí misma también supuso una gran dificultad. Alcanzar los puntos de triangulación, que por su propia naturaleza se encontraban en los lugares más altos y expuestos, requería una escalada agotadora y difícil.
+
+Entre 1834 y 1837, el astrónomo y geodesta **Johannes Eschmann** (1808-1852) creó la «Triangulation Primordiale Suisse», la primera red de triangulación a nivel nacional, basada en las redes cantonales existentes y la línea base . Los «Resultados de los levantamientos trigonométricos en Suiza» de Eschmann, publicados en 1840, sirvieron como sistema de referencia geodésica para el Mapa de Dufour.
+
+![](img/triangulation_primordiale_254dpi_zugs_gallerybig.jpg)
+
+Esta red inicial les permitió recopilar datos cantonales en un mapa completo. El equipo eligió como puntos de referencia para sus proyecciones el Pierre du Niton, que se alza desde las orillas ginebrinas del lago Lemán, y la cima del Chasseral, en el Jura bernés, cuya altitud se estimaba entonces en casi 1610 metros. Impulsados ​​por su inquebrantable determinación, los ingenieros se propusieron conectar todos los sectores de los Alpes con una cadena de puntos, incluso los más inaccesibles, incluso las cumbres jamás escaladas por el ser humano.
+
+Una vez cumplida su misión, estos valientes hombres, que habían conquistado los Alpes antes que los alpinistas, regresaron a Ginebra. Entre estos héroes, dos perdieron la vida: **Pierre Gobat**, alcanzado por un rayo en el Säntis en 1832, y **Peter Anton Glanzmann**, quien sucumbió a una caída en los Alpes de los Grisones en 1845. Pero, más allá de estas tragedias, el equipo de Dufour se enorgullecía de haber contribuido a la creación de un mapa excepcional. Y ya en 1840, Johannes Eschmann publicó los Resultados de las mediciones trigonométricas en Suiza, dando por concluida la primera etapa de este proyecto monumental.
+
+Otro personaje destacado en la triangulació de Suiza fue **Antoine-Joseph Buchwalder** (1792-1883). En 1815, recibió el encargo de realizar un levantamiento de triangulación en el Jura bernés, territorio del antiguo principado-obispado de Basilea que recientemente había pasado a formar parte del cantón de Berna. Utilizó el triángulo geodésico ya conocido Berna - Chasseral - Röti como base para su red de levantamientos en el Jura. El resultado fue la *«Carte de l'ancien Evêché de Bâle»* 🔗[Enlace en e-rara](https://www.e-rara.ch/bau_1/content/titleinfo/7264541) de 1822 y constituyó una base importante para el posterior mapa de Dufour. Buchwalder realizó levantamientos topográficos en varios cantones suizos entre 1825 y 1834 por encargo de Dufour.
+
+![](img/carte-bale-buchwalder.jpg)
+
+Buchwalder fue designado en 1832 para restablecer los puntos fijos en las montañas del Jura y, junto con el joven topógrafo **Johannes Eschmann** (1808-1852), realizar el levantamiento topográfico de la conexión del sistema de referencia suizo con la red austriaca en Vorarlberg, partiendo de Appenzell. El trabajo de Buchwalder y Eschmann en la red de triangulación topográfica de Suiza se prolongó hasta 1839.
+
+
 ### Atlas Dufour
 
-Suiza completó entre 1833 y 1863 su Mapa Topográfico de Suiza de Guillaume Henri Dufour (1787-1875), una obra maestra de precisión y arte. Creado a una impresionante escala de 1:100 000, este mapa nacional de 25 hojas estableció un nuevo estándar para la cartografía científica en el siglo XIX. Grabado en acero con un detalle extraordinario, utiliza delicadas líneas de sombreado para esculpir los Alpes en tres dimensiones, capturando el espectacular terreno de Suiza con una claridad asombrosa. Centrado en el Observatorio de Berna y producido durante un período de rápido progreso tecnológico, el mapa sirvió de base para la planificación militar, la infraestructura y la unidad nacional. [Consulta del mapa en David Rumsey](https://www.davidrumsey.com/luna/servlet/view/search?search=Submit&cat=0&q=13220.000&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&pgs=250&res=1&cic=RUMSEY%7E8%7E1)
+Desde hacía varios años, Suiza planeaba completar la cartografía topográfica de su territorio. Los cantones trabajaban incansablemente, cada uno por su cuenta, para crear los mapas más precisos posibles. Sin embargo, la inacción de algunos mermó el entusiasmo de otros. Sin un líder, el proyecto se estancó. Todo comenzó cuando **Guillaume Henri Dufour** (1787-1875) fue nombrado intendente general del ejército suizo en 1832.
+
+Entre 1833 y 1863 levantó su Mapa Topográfico de Suiza, una obra maestra de precisión y arte. Creado a una impresionante escala de 1:100 000, este mapa nacional de 25 hojas estableció un nuevo estándar para la cartografía científica en el siglo XIX. Grabado en acero con un detalle extraordinario, utiliza delicadas líneas de sombreado para esculpir los Alpes en tres dimensiones, capturando el espectacular terreno de Suiza con una claridad asombrosa. Centrado en el Observatorio de Berna y producido durante un período de rápido progreso tecnológico, el mapa sirvió de base para la planificación militar, la infraestructura y la unidad nacional. [Consulta del mapa en David Rumsey](https://www.davidrumsey.com/luna/servlet/view/search?search=Submit&cat=0&q=13220.000&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&pgs=250&res=1&cic=RUMSEY%7E8%7E1)
 
 ![](img/atlas-dufour-bern.jpg)
+
+Bajo la dirección de los renombrados grabadores Rinaldo Bressanini y Heinrich Müllhaupt, los mapas fueron grabados en planchas de cobre. Posteriormente, se imprimieron mediante una prensa de huecograbado. Fue aquí donde el genio de Dufour, su estilo inimitable, se hizo patente. Mientras que muchos mapas de la época representaban paisajes con iluminación vertical, dejando poco espacio para el relieve, Dufour iluminó los Alpes con luz oblicua. Las curvas de nivel trazadas en los levantamientos topográficos desaparecieron, sustituidas por un sombreado. El relieve pareció emerger del mapa en tres dimensiones. Este resultado espectacular fue el toque final que convirtió la obra de Dufour en una verdadera obra maestra.
+
+Las primeras pruebas de las hojas XVI y XVII representaban Vevey/Sion y Ginebra/Lausana, se realizaron en Ginebra en 1842. Cada prueba del mapa, una vez reproducida, se revisaba y corregía antes de su impresión final. El mapa topográfico de Suiza se publicó finalmente entre 1845 y 1865 en casi 58 000 ejemplares. Tras su lanzamiento, la prensa lo llovió de críticas. Sin embargo, la gran mayoría del público recibió la obra con entusiasmo. Las primeras impresiones fueron magníficas, el relieve impactante. Cuando, en 1865, se completaron todas las hojas, se les dedicó un atlas completo en una edición encuadernada. 
+
+En la Exposición Universal de París de 1855, el mapa de Dufour fue galardonado con una medalla de oro. En 1864, el destacado cartógrafo alemán August Petermann (1822-1878) lo calificó como «el mapa más exquisito del mundo». Pero el mayor reconocimiento llegó en 1863, cuando el Consejo Federal decidió renombrar el Gornerhorn en honor a su héroe. La montaña pasó a llamarse Dufourspitze. Con sus 4633 metros de altura, domina los Alpes suizos en homenaje al hombre que mejor capturó su esencia.
+
+### Mapa Wild
+
+Johannes Wild (1814 – 1894) fue un ingeniero civil , cartógrafo y profesor suizo que realizó importantes contribuciones a la cartografía y la geodesia suizas en el siglo XIX. Es conocido principalmente por crear el detallado mapa topográfico del cantón de Zúrich, conocido como el «mapa de Wild», que fue innovador por su uso de curvas de nivel para representar el relieve del terreno.
+
+![](img/Wildkarte_Blatt_22_Kuesnacht.jpeg)
+
+Hacia 1840, el gobierno del cantón de Zúrich decidió encargar un mapa del territorio cantonal a escala 1:25 000 como parte del levantamiento topográfico de la Confederación Suiza. Desde 1833, el trabajo para crear un mapa unificado de Suiza a escala 1  : 100 000 había sido coordinado por el entonces general Guillaume-Henri Dufour . Wild participó en la triangulación que sirvió de base para el mapa de Dufour .   
+
+El proyecto se llevó a cabo entre 1843 y 1851 bajo su dirección y se publicó entre 1852 y 1865 en treinta y dos hojas. Este mapa, conocido como el «mapa de Wild», fue innovador para su época debido a su representación del relieve mediante curvas de nivel , una técnica que aún no estaba ampliamente adoptada en la cartografía suiza. El mapa estableció nuevos estándares de precisión topográfica y representación visual de los rasgos del paisaje.
+
+Entre 1843 y 1851, se triangularon los puntos fijos y se elaboró ​​el mapa mediante la tecnología de plancheta. De 1852 a 1865, el *«Topographische Karte des Kantons Zürich 1 : 25000»* se grabó e imprimió en 32 hojas sobre piedras litográficas. El dibujante fue Heinrich Enderli (1828-1872), de Zúrich- Wipkingen; el litógrafo fue Josef Graf (1811-1871), de Rottweil, cuyo sucesor fue Johann Jakob Brack (1824-1867), de Neunforn, en el cantón de Thurgau. El mapa fue impreso por la imprenta de Georg Adolf Grimmiger (1802-1877) de Stuttgart, que operaba en Zúrich desde 1833. Entre 1852 y 1868, Grimmiger imprimió aproximadamente 30 000 hojas del mapa. El papel procedía de la fábrica de papel de Zúrich, a orillas del río Sihl. El mapa de Wild fue uno de los modelos más importantes para el posterior mapa de Siegfried. 
 
 
 ### Atlas Siegfried
 
-El Atlas Topográfico de Suiza , también llamado extraoficialmente Atlas Siegfried o Mapa Siegfried, es una serie oficial de mapas de Suiza , cuya publicación fue iniciada por la Oficina Topográfica Federal bajo la dirección de Hermann Siegfried y se extendió desde 1870 hasta 1926. En particular, las láminas de mapas de alta montaña con 117 grabados monocromáticos de Rudolf Leuzinger recibieron atención tanto en Suiza como en el extranjero.
+En 1866, el coronel **Hermann Siegfried**(1819-1879) sucedió a Dufour al frente de la Oficina Federal y la Oficina Topográfica. Durante los años siguientes, se añadieron nuevos datos al mapa original. Entre 1870 y 1926 se publicó una nueva edición de 604 hojas. Este atlas topográfico de Suiza se conocería más tarde como el Mapa de Siegfried.  Para las necesidades del ejército, a partir de 1936 se añadió una cuadrícula kilométrica al mapa, y las actualizaciones continuaron hasta 1939. 
 
-La base para la elaboración del Atlas Topográfico de Suiza la sentaron la Ley Federal sobre la Continuación de los Levantamientos Topográficos y la Ley Federal sobre la Publicación de Levantamientos Topográficos, ambas de 1868. Uno de los principales impulsores fue Hermann Siegfried, entonces director de la Oficina Topográfica.
+![](img/comparison-dufour-seigfried.jpg)
+
+🔗[Comparación entre el mapa de Siegfried y el Mapa de Dufour 👆](https://map.geo.admin.ch/#/map?lang=en&center=2658219.03,1198713.66&z=0.907&topic=swisstopo&compareRatio=0.52&layers=ch.swisstopo.hiks-siegfried@year=1915;ch.swisstopo.hiks-dufour&bgLayer=ch.swisstopo.pixelkarte-farbe&catalogNodes=ech)
+
+Las primeras hojas cartográficas del Jura y la Meseta Suiza fueron producidas por Müllhaupt & Sons directamente a partir de planchas de cobre. Las hojas cartográficas de los Alpes con 117 grabados monocromáticos de **Rudolf Leuzinger** recibieron atención tanto en Suiza como en el extranjero. Con el tiempo, el grabado en cobre dio paso a la litografía. Hasta 1900, los mapas fueron impresos directamente a partir de planchas de cobre por Müllhaupt & Sons, mientras que los grabados en piedra fueron realizados por Kümmerly+Frey. Las hojas del mapa de Siegfried a tres colores, a escala 1:50 000, se grabaron en piedra (litografía). Así, con el paso de los años, el mapa nacional adquirió nuevos detalles, pero nunca recuperó la sublime textura aterciopelada de su impresión original en cobre. 
+
+![](img/mapa-siegfried.jpg)
 
 A partir de 1863, la Comisión Geodésica Federal Suiza comenzó a realizar un nuevo levantamiento topográfico del triángulo alpino en el marco de la Medición del Arco Europeo. Tres nuevas líneas de base, junto con la referencia de altitud del Repère Pierre du Niton , constituyeron la base para mejorar los datos topográficos derivados del mapa de Dufour. Los primeros levantamientos topográficos para el Mapa de Siegfried comenzaron en la región del Jura, que, al igual que Basilea, Solothurn, Aargau, Thurgau y Appenzell, se encontraba entre las zonas menos exploradas. Durante los siguientes 30 años, las áreas poco documentadas se fueron mejorando continuamente y se les añadieron curvas de nivel.
 
+La escala es de 1:25.000 en las tierras bajas y las montañas del Jura , y de 1:50.000 en los Alpes . La zona correspondiente a la primera escala se dividió en 462 hojas, y la otra en 142 hojas, solapándose ambas zonas en algunos puntos. Se publicaron ediciones revisadas de estos mapas hasta 1949. A partir de 1952, los mapas de Siegfried y Dufour fueron reemplazados por el nuevo mapa nacional de Suiza .
 
-Las primeras hojas cartográficas del Jura y la Meseta Suiza fueron producidas por Müllhaupt & Sons . A partir de 1880, la Oficina Topográfica empleó a sus propios grabadores en cobre. Las hojas cartográficas de los Alpes fueron grabadas en gran parte por Rudolf Leuzinger. Las primeras doce hojas aparecieron en 1870, y estas se ampliaron en aproximadamente una docena cada año. Para 1926, se habían producido un total de 604 hojas. Hasta 1900, los mapas fueron impresos directamente a partir de planchas de cobre por Müllhaupt & Sons, mientras que los grabados en piedra fueron realizados por Kümmerly+Frey prácticamente desde el principio .
+A diferencia del mapa de Dufour, pero en consonancia con el mapa de Wild, el mapa de Siegfried representaba el terreno mediante curvas de nivel. Se utilizaban tres colores para la impresión: marrón para las curvas de nivel en zonas vegetadas, azul para masas de agua y curvas de nivel en glaciares, y negro para todo lo demás. Las curvas de nivel del Atlas fueron una novedad; representaban las diferencias de altitud y las características del terreno con mayor precisión que el sombreado del mapa de Dufour. 
 
-La escala es de 1:25.000 en las tierras bajas y las montañas del Jura , y de 1:50.000 en los Alpes . La zona correspondiente a la primera escala se dividió en 462 hojas, y la otra en 142 hojas, solapándose ambas zonas en algunos puntos.
+Las representaciones de los acantilados alcanzaron fama mundial por su precisión geológica. **Leonz Held** (1844-1925) también se destacó como topógrafo y consolidó la posición de la cartografía suiza en la cima de la clasificación mundial 👇. 
 
-Se publicaron ediciones revisadas de estos mapas hasta 1949. A partir de 1952, los mapas de Siegfried y Dufour fueron reemplazados por el nuevo mapa nacional de Suiza .
+![](img/glaciar-rodano-leon-held.avif)
+
+### Mapas en relieve del cantón de Zurich
+
+Durante los meses de invierno, los oficiales en Zúrich y Winterthur se dedicaban a los "juegos de guerra" — un término simplemente inimaginable hoy en día — en los que los oficiales de estado mayor realizaban simulaciones en mapas como parte de su entrenamiento táctico. Inicialmente, para ello se utilizaban hojas del mapa de Siegfried, pegadas entre sí.
+
+Sin embargo, existía un problema con los juegos de simulación de estos oficiales: la escala 1:25 000 dificultaba que los observadores reconocieran detalles y nombres a distancia. Para solucionarlo, el capitán Andreas Hefti (1862-1931) creó los mapas de relieve ampliados y excepcionalmente bellos del cantón de Zúrich a escala 1:10 000, basados ​​en el mapa de Siegfried de 1895 🔗[Enlace en e-manuscript](https://www.e-manuscripta.ch/zuzneb/content/zoom/1736537). Gracias al nuevo sombreado del terreno, fue posible identificar visualmente la topografía, lo cual era importante para el desarrollo de la maniobra, desde la distancia.
+
+Podemos imaginar cómo los hombres se reunían alrededor de los mapas extendidos en el suelo de la taberna, entablando animadas conversaciones. Cabe mencionar que el mapa completo ocupaba unos 15 metros cuadrados. Si se observa con detenimiento, incluso se pueden distinguir algunas pequeñas manchas de vino tinto.
+
+De las 28 láminas originales dibujadas a mano, 24 se conservaron en buen estado durante el siglo que el mapa estuvo en manos privadas. Los mapas de Hefti, utilizados para juegos de guerra, forman parte de la colección cartográfica de la Biblioteca Central de Zúrich desde 2017.
 
 
+### Landeskarte der Schweiz
 
-A diferencia del mapa de Dufour , pero en consonancia con el mapa de Wild , el mapa de Siegfried representaba el terreno mediante curvas de nivel . Se utilizaban tres colores para la impresión: marrón para las curvas de nivel en zonas vegetadas, azul para masas de agua y curvas de nivel en glaciares, y negro para todo lo demás.
+El mapa nacional de Suiza es la serie oficial de mapas topográficos de Suiza y es producido y publicado por *Bundesamt für Landestopografie*, también conocida como *Swisstopo*. Los mapas se basan en una proyección cilíndrica oblicua y conforme ( proyección Mercator ) con un sistema de coordenadas suizo específico ( CH1903+ ). Todas las hojas de mapa, con la excepción del mapa digital 1:10 000 que se actualiza continuamente, se actualizan completamente en un ciclo de aproximadamente seis años.
 
+En 1938, se inició la publicación de nuevos mapas, destinados a reemplazar los antiguos mapas de Dufour y Siegfried . Inicialmente se publicaron a escala 1:50 000; a partir de 1952, a escala 1:25 000; y desde 2016, en formato digital a escala 1:10 000. También se realizaron generalizaciones a escalas menores. Cada escala abarcaba la totalidad de Suiza. El trabajo se completó en 1979 con la publicación del último mapa a escala 1:25 000, antes de que se añadiera el mapa a escala 1:10 000 en 2016.
 
+Se utilizó el grabado en piedra para las áreas verdes, mientras que el mapa base negro con los contornos de las rocas, los cuerpos de agua azules y las líneas de contorno marrones continuaron grabándose en planchas de cobre. Sin embargo, se descubrió que este método era demasiado laborioso. Por lo tanto, después de la Segunda Guerra Mundial, se decidió abandonar el grabado en cobre y utilizar un nuevo método. Por esta razón, en 1953 el grabado en cobre fue finalmente reemplazado por el grabado por capas sobre vidrio. El grabado por capas tiene la ventaja de producir un negativo que puede utilizarse para fotocopiar. Debido a la precisión dimensional deseada, se utilizaron planchas de vidrio pulido (y no soporte de plástico) como superficie de grabado.
 
+Debido a que el mapa estándar a escala 1:25 000 consta de cuatro colores de contorno y cuatro colores de relleno, fue necesario grabar cinco placas de vidrio adicionales. Estas cinco placas grabadas incluían una para cada color de contorno: negro, azul, marrón y verde, además de una placa aparte para los grabados de las rocas negras. Los colores de relleno se pintaron sobre láminas de plástico o, en el caso de los colores de sombra, se aplicaron con aerógrafo. La representación de un bosque en el mapa consiste en el contorno grabado del bosque y el área boscosa pintada.
 
+---
 
 ## Gran Bretaña
 
