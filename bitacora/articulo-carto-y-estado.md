@@ -279,6 +279,9 @@ Las representaciones de los acantilados alcanzaron fama mundial por su precisió
 
 ![](img/glaciar-rodano-leon-held.avif)
 
+TEnemos todas las hojas disponibles en la página de Stanford - David Rumsey 🔗[Enlace a los mapas](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3D%2216972.000%22)
+
+
 ### Mapas en relieve del cantón de Zurich
 
 Durante los meses de invierno, los oficiales en Zúrich y Winterthur se dedicaban a los "juegos de guerra" — un término simplemente inimaginable hoy en día — en los que los oficiales de estado mayor realizaban simulaciones en mapas como parte de su entrenamiento táctico. Inicialmente, para ello se utilizaban hojas del mapa de Siegfried, pegadas entre sí.
